@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Development of point-of-care diagnostics to direct the appropriate use of antibiotics for the treatment of high-risk urinary tract infections</AwardTitle>
+<AwardEffectiveDate>05/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>224996.00</AwardTotalIntnAmount>
+<AwardAmount>224996</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Henry Ahn</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This Small Business Innovation Research Phase I project will provide critical development of a rapid diagnostic test capable of delivering the antibiotic resistance profile of a sample collected from patients suspected of suffering from urinary tract infections (UTIs). In the US there are approximately 8 million UTIs, and an increasing number of are caused by drug-resistant bacteria that significantly complicate the treatment of these infections. In general, patients suffering from a drug resistant UTI take longer to receive appropriate treatment, resulting in a greater risk of disease progression and onset of secondary comorbidities.  Diagnostic tests that can rapidly identify drug-resistant UTIs will have a strong and positive impact on the treatment of these infections. The proposed work aims to optimize and expand the diagnostic capacity of a first-generation diagnostic assay to create a fully comprehensive test that can detect a drug-resistant UTI in minutes.&lt;br/&gt;&lt;br/&gt;The proposed SBIR Phase I project will advance the development of a dual-enzyme trigger-enabled cascade technology (DETECT), developed to detect low-abundant beta-lactamases produced by uropathogens to hydrolyze beta-lactamase antibiotics, rendering them ineffective. The presence of beta-lactamase-producing uropathogens can greatly complicate clinical decision-making because these pathogens are regularly resistant to the first-line antibiotics considered for treatment of urinary tract infections (UTIs). DETECT, applied as a diagnostic system, holds the potential to significantly improve the care of UTIs because it enables rapid identification of beta-lactamase-producing uropathogens directly from urine samples. The clinical feasibility of the technology has been demonstrated previously using clinical urine samples, first targeting a subset of beta-lactamases known as CTX-Ms. The proposed work aims to tune and optimize the first-generation system to offer a comprehensive diagnostic test that can accurately identify all of the clinically important beta-lactamases. This technology provides a simple, low-tech, and cost-effective way to inform patient treatment without the need of processing, urine sedimentation or centrifugation, or sophisticated instrumentation.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/27/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/27/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2014629</AwardID>
+<Investigator>
+<FirstName>Angel</FirstName>
+<LastName>Resendez</LastName>
+<EmailAddress>aresendez@bioampdx.com</EmailAddress>
+<StartDate>04/27/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>BioAmp Diagnostics, Inc.</Name>
+<CityName>San Francisco</CityName>
+<ZipCode>941096109</ZipCode>
+<PhoneNumber>4086216332</PhoneNumber>
+<StreetAddress>845 Sutter Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8038</Code>
+<Text>Biotechnology</Text>
+</ProgramReference>
+</Award>
+</rootTag>

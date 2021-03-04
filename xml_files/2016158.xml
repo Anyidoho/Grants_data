@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Single wearable patch for cost-effective, reliable, and accurate home sleep apnea testing</AwardTitle>
+<AwardEffectiveDate>06/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>224998.00</AwardTotalIntnAmount>
+<AwardAmount>224998</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Henry Ahn</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project will investigate the feasibility of novel wearable sensor techniques to provide a complete diagnostic assessment for obstructive sleep apnea (OSA) with a single wireless patch worn on the chest. An estimated 25-30 M adults in the United States have OSA, but 80% of OSA-positive patients are undiagnosed while the highest volume clinics can only conduct around 5,000 sleep tests annually. Low diagnosis rates result partly from the challenge of sleep clinics managing an inventory of expensive and complex home sleep testing devices. To date, all home sleep tests require patients to wear bulky sensors that attach to multiple (3-5) regions of their body via a network of wires, tubes, and probes. This project will explore novel, unobtrusive, cost-effective sensors to reliably detect apnea and hypopnea during sleep. The project outcomes will strengthen fundamental understanding of how physiological signals are altered during sleep apnea and how to reliably measure these signals using simple wearable patches.&lt;br/&gt;&lt;br/&gt;The proposed SBR Phase I project will advance the development of a sensor platform for a wireless device to diagnose obstructive sleep apnea. The project will explore the feasibility of new sensing modalities to provide sufficient diagnostic information with a single wireless patch. The innovation stems from: (1) use of novel cardiorespiratory sensing modalities and machine learning to determine respiratory events and arousals from disordered breathing, and (2) integration of multiple sensing modalities into a chest-worn patch to provide a complete assessment of sleep apnea severity according to established clinical guidelines. This project will: conduct functional tests of sensor modalities relative to the clinical standard wired technologies; identify digital signatures of disordered breathing using advanced digital signal processing techniques; and assess the diagnostic capability of the complete single patch sensor relative to the clinical gold standard sleep tests.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/21/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/21/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2016158</AwardID>
+<Investigator>
+<FirstName>Brennan</FirstName>
+<LastName>Torstrick</LastName>
+<EmailAddress>brennan.torstrick@gmail.com</EmailAddress>
+<StartDate>05/21/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>HUXLEY MEDICAL, INC.</Name>
+<CityName>ATLANTA</CityName>
+<ZipCode>303264815</ZipCode>
+<PhoneNumber>2672181554</PhoneNumber>
+<StreetAddress>3344 PEACHTREE RD NE UNIT 3005</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8038</Code>
+<Text>Biotechnology</Text>
+</ProgramReference>
+</Award>
+</rootTag>

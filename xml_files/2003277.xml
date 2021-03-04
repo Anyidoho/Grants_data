@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: MLWiNS: Hyperdimensional Computing for Scalable IoT Intelligence Beyond the Edge</AwardTitle>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>60000.00</AwardTotalIntnAmount>
+<AwardAmount>60000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anthony Kuh</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The Internet of Things (IoT) generates large amounts of data that machine learning algorithms today process in the cloud.  The heterogeneity of the data types and devices, along with limited computing and communication capabilities of IoT devices, poses a significant challenge to real-time training and learning with classical machine learning algorithms. This project instead proposes to use Hyperdimensional (HD) computing for distributed machine learning. HD computing is a brain-inspired machine learning paradigm that transforms data into knowledge at very low cost, while being extremely robust to errors. When completed, this project has the potential to change the way machine learning is done today ? instead of depending on the cloud, IoT systems will be able to make quality decisions on the spot, in real time, regardless of connectivity, with long battery lifetime.    This will be made possible by designing: i) novel HD encoding schemes to represent various data in IoT applications including numerical feature vectors, time-series data, and images, ii) a novel distributed learning framework for IoT networks by incorporating active learning to considerably reduce communication overhead and learning costs, and iii) a reliable learning solution based on the error-tolerant characteristic of HD computing.  The ideas developed in this project will be tested on both UCSD and SDSU using a fully instrumented testbed for human activity recognition.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/28/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/28/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2003277</AwardID>
+<Investigator>
+<FirstName>Baris</FirstName>
+<LastName>Aksanli</LastName>
+<EmailAddress>baksanli@sdsu.edu</EmailAddress>
+<StartDate>05/28/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>San Diego State University Foundation</Name>
+<CityName>San Diego</CityName>
+<ZipCode>921822190</ZipCode>
+<PhoneNumber>6195945731</PhoneNumber>
+<StreetAddress>5250 Campanile Drive</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7363</Code>
+<Text>Networking Technology and Syst</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>021Z</Code>
+<Text>Industry Partnerships</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1653</Code>
+<Text>Adaptive &amp; intelligent systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8585</Code>
+<Text>NSF/Intel Partnership Projects</Text>
+</ProgramReference>
+</Award>
+</rootTag>

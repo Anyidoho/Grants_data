@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NSF Convergence Accelerator Track C: High-Throughput Proteomics Technology Based on Quantum Sensing</AwardTitle>
+<AwardEffectiveDate>09/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>1000000.00</AwardTotalIntnAmount>
+<AwardAmount>1000000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>01060500</Code>
+<Directorate>
+<Abbreviation>O/D</Abbreviation>
+<LongName>Office Of The Director</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OIA</Abbreviation>
+<LongName>Office of Integrative Activities</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pradeep Fulay</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The NSF Convergence Accelerator supports use-inspired, team-based, multidisciplinary efforts that address challenges of national importance and will produce deliverables of value to society in the near future.  The research outcomes from this project will pave the way to establish quantum technology as a critical tool in biomedicine, and specifically for proteomic devices.  Proteomic devices are used to map the protein profile of a given cell, tissue, and or/organism.  The information can be used in turn to develop treatment for disease.  This project will show how novel discoveries in quantum sensing can impact and alter diagnostics and biomedical research.  This will be accomplished by simplifying the purification process and enabling high throughput screening at reduced cost. The core concept is focused on the discovery of exceptional sensitivity of nitrogen vacancy (NV) color centers in diamond.&lt;br/&gt;&lt;br/&gt;The project will bring together quantum physicists, engineers, and experts in life sciences to work on a real world application of quantum sensing.  This project will demonstrate scaled up profiling of 7000+ proteins. There are three main thrusts, which include: i) the development of an aptamer binding assay on a diamond surface, ii) identification for optically stable reporter spins, and iii) site-specific conjugation of spin labels for sensing protein binding events.  If successful, this will lead to a new generation of proteomic devices.  Opportunities for training and workforce development include: industry and National Lab experience for PhD students, ii) workshops and certificate programs for industry researchers and engineers, and iii) outreach programs for K-12 students to learn about quantum technology and its potential impact on daily life.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/03/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2040520</AwardID>
+<Investigator>
+<FirstName>Ania</FirstName>
+<LastName>Bleszynski Jayich</LastName>
+<EmailAddress>ania@physics.ucsb.edu</EmailAddress>
+<StartDate>09/03/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Karoly</FirstName>
+<LastName>Holczer</LastName>
+<EmailAddress>holczer@physics.ucla.edu</EmailAddress>
+<StartDate>09/03/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Lawrence</FirstName>
+<LastName>Gold</LastName>
+<EmailAddress>lgold@somalogic.com</EmailAddress>
+<StartDate>09/03/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jason</FirstName>
+<LastName>Cleveland</LastName>
+<EmailAddress>jcleveland@somalogic.com</EmailAddress>
+<StartDate>09/03/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Peter</FirstName>
+<LastName>Maurer</LastName>
+<EmailAddress>pmaurer@uchicago.edu</EmailAddress>
+<StartDate>09/03/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Chicago</Name>
+<CityName>Chicago</CityName>
+<ZipCode>606372612</ZipCode>
+<PhoneNumber>7737028669</PhoneNumber>
+<StreetAddress>6054 South Drexel Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>131Y</Code>
+<Text>Convergence Accelerator Resrch</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+</Appropriation>
+</Award>
+</rootTag>

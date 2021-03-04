@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>PFI-TT: Highly Flexible and Bendable Photovoltaic Module Architectures for Enhanced Usability</AwardTitle>
+<AwardEffectiveDate>08/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>249993.00</AwardTotalIntnAmount>
+<AwardAmount>249993</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jesus Soriano Molla</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Partnerships for Innovation - Technology Translation (PFI-TT) project is the development of a flexible, bendable photovoltaic module technology that features the benefits of crystalline silicon, efficiency and long service lifetime, and a bending radius that is seven times smaller than the current state-of-the-art crystalline silicon module. The technology chosen enables a 25-year warranty on these modules, which is common for rigid solar panels. Bendable modules can be used where traditional rigid modules cannot because there is no space for mounting, the panel is too heavy for the supporting structure, the module will not withstand wind forces, or it is not aesthetically pleasing. The modules developed in this project will enable photovoltaic projects that were impossible previously, for example building-integrated photovoltaics or smart city infrastructure that features energy harvesting. The technology helps to grow the existing market of photovoltaic energy harvesting and opens new market opportunities. Non-rigid modules can be easily mounted to curved surfaces, making installation of these panels much easier and more attractive for recreational and even residential use.&lt;br/&gt;&lt;br/&gt;The proposed project seeks to develop thin silicon wafers that can be processed without causing breakage and defect, which could affect the reliability of the photovoltaic cells in the modules. Understanding the nature of defects and how defects are introduced in the manufacturing process is key to reducing waste and keeping manufacturing costs down, which will ultimately affect the module price. The goal is to identify issues in the production process and improve the manufacturing yield to levels common for thick silicon wafer processing, used in rigid solar panels. The trade-off between using mitigations like handle wafers and process tool modifications will be investigated. A second problem to be addressed is the reliability of electrical interconnects in flexible solar modules. Electrical interconnects in rigid panels are a common source of problems due to mechanical stress fractures. The team will investigate alternative electrical bus connections that are resilient to mechanical stress and have the added benefit of reducing silver resource consumption in solar modules. Environmental tests will be conducted to determine the reliability of these flexible and bendable modules to ensure a service life that is competitive with rigid crystalline silicon solar panels.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/09/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/20/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2016552</AwardID>
+<Investigator>
+<FirstName>Christiana</FirstName>
+<LastName>Honsberg</LastName>
+<EmailAddress>honsberg@asu.edu</EmailAddress>
+<StartDate>09/09/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Goryll</LastName>
+<EmailAddress>michael.goryll@asu.edu</EmailAddress>
+<StartDate>09/09/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Stanislau</FirstName>
+<LastName>Herasimenka</LastName>
+<EmailAddress>sherasim@asu.edu</EmailAddress>
+<StartDate>09/09/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Arizona State University</Name>
+<CityName>TEMPE</CityName>
+<ZipCode>852816011</ZipCode>
+<PhoneNumber>4809655479</PhoneNumber>
+<StreetAddress>ORSPA</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1662</Code>
+<Text>PFI-Partnrships for Innovation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>094E</Code>
+<Text>Optoelectronic devices</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+</Appropriation>
+</Award>
+</rootTag>

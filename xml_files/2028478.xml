@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Becoming Joey: Promoting Informal Learning through Embodiment in an Adelie Penguin Virtual Reality Experience</AwardTitle>
+<AwardEffectiveDate>08/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>300000.00</AwardTotalIntnAmount>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06090300</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OPP</Abbreviation>
+<LongName>Office of Polar Programs (OPP)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Elizabeth Rom</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project will provide a new means for the broader public to better understand an important polar research topic, the Adelie penguins of Antarctica, through an immersive virtual reality (VR) experience. The foundation of this proposal is built upon a collaborative effort between the Wisconsin Institute for Discovery Virtual Environments Group, the Wisconsin IceCube Particle Astrophysics Center (WIPAC), the Field Day Lab from the University of Wisconsin - Madison campus, and an Antarctic research scientist and educator, Jean Pennycook. The collaborative team will create a VR experience to tell the story of Adelie Penguins and how they impact the lives of all citizens. The project will enhance and improve the public’s understanding of the research on Adelie penguins that is currently underway in Antarctica and that is outlined in the book “Becoming Joey” by Jean Pennycook with a narrative that includes an interdisciplinary scientific focus on fields such as atmospheric sciences, ecology and biology. The final VR product will be showcased in a public exhibition space, VR app stores, national and international science events, and publicly accessible websites. The experience will provide closed captioning and translations for Spanish and other relevant languages to enable a greater accessibility for the created products.  The project will also serve as a training tool and resource for two local educators through a fellowship program.&lt;br/&gt;&lt;br/&gt;The project will allow users to virtually experience the science behind Adelie Penguins in an engaging  way through embodying the user as an Adelie Penguin to partake in a narrative-based VR application that shares the story of the lives of these unique animals. VR technology enables users to experience environments that are difficult or impossible to physically inhabit, such as the Earth’s polar regions. The embodied interaction will provide a wealth of information around a participant’s actions and perspectives. Previous work from the project team has shown that viewpoint analysis of a virtual experience can pinpoint salient features in a 3D environment that can be used to provide a summary of events. Recent work has shown that player actions inside of video games can be used to predict learning outcomes and early quitting, but little work has studied these effects in VR. Given the wealth of information about a user’s virtual actions, this proposal aims to explore how a participant’s views, actions, and decisions correlate to their learning outcomes and engagement.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/13/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2028478</AwardID>
+<Investigator>
+<FirstName>Travis</FirstName>
+<LastName>Tangen</LastName>
+<EmailAddress>ttangen@warf.org</EmailAddress>
+<StartDate>08/13/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kevin</FirstName>
+<LastName>Ponto</LastName>
+<EmailAddress>kbponto@wisc.edu</EmailAddress>
+<StartDate>08/13/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Gagnon</LastName>
+<EmailAddress>djgagnon@wisc.edu</EmailAddress>
+<StartDate>08/13/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Wisconsin-Madison</Name>
+<CityName>MADISON</CityName>
+<ZipCode>537151218</ZipCode>
+<PhoneNumber>6082623822</PhoneNumber>
+<StreetAddress>21 North Park Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>017Y</Code>
+<Text>Polar Special Initiatives</Text>
+</ProgramElement>
+<Appropriation>
+<Code>02XX</Code>
+</Appropriation>
+</Award>
+</rootTag>

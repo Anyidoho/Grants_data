@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RAPID: Advanced Topic Modeling Methods to Analyze Text Responses in COVID-19 Survey Data</AwardTitle>
+<AwardEffectiveDate>05/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>176785.00</AwardTotalIntnAmount>
+<AwardAmount>191785</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tatiana Korelsky</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>As the COVID-19 pandemic continues, public and private organizations are deploying surveys to inform responses and policy choices. Survey designs using multiple choice responses are by far the most common -- "open ended" questions, where survey participants provide a longer-form written response, are used far less. This is true despite the fact that when you allow people to provide unconstrained spoken or text responses, it is possible to obtain richer, fine-grained information clarifying the other responses, as well as useful “bottom up” information that the survey designers did not know to ask for.  A key problem is that analyzing the unstructured language in open-ended responses is a labor-intensive process, creating obstacles to using them especially when speedy analysis is needed and resources are limited. Computational methods can help, but they often fail to provide coherent, interpretable categories, or they can fail to do a good job connecting the text in the survey with the closed-end responses. This project will develop new computational methods for fast and effective analysis of survey data that includes text responses, and it will apply these methods to support organizations doing high-impact survey work related to COVID-19 response.  This will improve these organizations’ ability to understand and mitigate the impact of the COVID-19 pandemic.&lt;br/&gt;&lt;br/&gt;This project’s technical approach builds on recent techniques bringing together deep learning and Bayesian topic models. Several key technical innovations will be introduced that are specifically geared toward improving the quality of information available in surveys that include both closed- and open-ended responses. A common element in these approaches is the extension of methods commonly used in supervised learning settings, such as task-based fine-tuning of embeddings and knowledge distillation, to unsupervised topic modeling, with a specific focus on producing diverse, human-interpretable topic categories that are well aligned with discrete attributes such as demographic characteristics, closed-end responses, and experimental condition. Project activities include assisting in the analysis of organizations' survey data, conducting independent surveys aligned with their needs to obtain additional relevant data, and the public release of a clean, easy to use computational toolkit facilitating more widespread adoption of these new methods.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/04/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/17/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2031736</AwardID>
+<Investigator>
+<FirstName>Philip</FirstName>
+<LastName>Resnik</LastName>
+<EmailAddress>resnik@umd.edu</EmailAddress>
+<StartDate>05/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Maryland, College Park</Name>
+<CityName>College Park</CityName>
+<ZipCode>207425141</ZipCode>
+<PhoneNumber>3014056269</PhoneNumber>
+<StreetAddress>3112 LEE BLDG 7809 Regents Drive</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+</Institution>
+<ProgramElement>
+<Code>158Y</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7495</Code>
+<Text>Robust Intelligence</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+</Appropriation>
+<Appropriation>
+<Code>1N20</Code>
+</Appropriation>
+</Award>
+</rootTag>

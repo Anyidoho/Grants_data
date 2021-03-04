@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>High Throughput Experiments to Determine Structure-Performance Relationships for Oxide Photocatalysts</AwardTitle>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>640001.00</AwardTotalIntnAmount>
+<AwardAmount>477256</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Lynnette Madsen</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>NON-TECHNICAL DESCRIPTION: The production of hydrogen fuel by solar water splitting is a sustainable technology that could be used to decrease our reliance on fossil fuels. However, the technology is materials limited because currently available water splitting catalysts cannot produce hydrogen at a cost that is competitive with fossil energy sources. The scientific process for discovering improved catalysts has been hindered in part by the pace of experimentation. This research employs a new technique that makes it possible to measure the rates at which more than 100 different catalysts evolve hydrogen at the same time, effectively increasing the number of measurements that can be made by a factor of 100. This measurement technique makes it possible to systematically explore the relationships between the characteristics of a material and the rate at which it produces hydrogen and, therefore, identify improved water splitting catalysts. The project also uses demonstrations of the technology for informal science education events and educates undergraduate and graduate students who are prepared to work in the renewable energy industry.&lt;br/&gt;&lt;br/&gt;TECHNICAL DETAILS: The goal of this project is to design improved oxide water splitting catalysts using experimentally measured structure-performance relationships. Catalyst performance depends on many parameters related to the composition, processing, and structure of the material, as well as the conditions in the reactor. The experiments leverage a newly developed parallel and automated photochemical reactor that makes it possible to measure the hydrogen yield from up to 108 catalysts in a single experiment, systematically determining the influence of particle shape, particle size, dopants, charged surface domains, protective coatings, co-catalysts, and many other catalyst characteristics on the hydrogen production rate. The experiments produce a database of calibrated hydrogen production rates from thousands of catalytic materials based on strontium, barium, lead, and iron titanate, as well as some solid solutions of these compounds. The structure-performance relationships developed from these data are the basis for the development of improved catalysts. The importance of these catalysts is that they can be used to produce a sustainable solar fuel whose combustion does not contribute carbon dioxide to the atmosphere.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/02/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/02/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2016267</AwardID>
+<Investigator>
+<FirstName>Gregory</FirstName>
+<LastName>Rohrer</LastName>
+<EmailAddress>gr20@andrew.cmu.edu</EmailAddress>
+<StartDate>07/02/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Paul</FirstName>
+<LastName>Salvador</LastName>
+<EmailAddress>paul7@andrew.cmu.edu</EmailAddress>
+<StartDate>07/02/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Carnegie-Mellon University</Name>
+<CityName>PITTSBURGH</CityName>
+<ZipCode>152133815</ZipCode>
+<PhoneNumber>4122688746</PhoneNumber>
+<StreetAddress>5000 Forbes Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1774</Code>
+<Text>CERAMICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8396</Code>
+<Text>Clean Energy Technology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8607</Code>
+<Text>Solar Energy Capture&amp;Conver</Text>
+</ProgramReference>
+</Award>
+</rootTag>

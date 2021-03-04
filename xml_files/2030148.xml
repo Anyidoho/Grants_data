@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RAPID: Ensuring the Success and Sustainability of STEM Graduate Students and Graduate Academic/Research Programs in Response to COVID-19</AwardTitle>
+<AwardEffectiveDate>05/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>199732.00</AwardTotalIntnAmount>
+<AwardAmount>200466</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11010000</Code>
+<Directorate>
+<Abbreviation>EHR</Abbreviation>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DGE</Abbreviation>
+<LongName>Division Of Graduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Vinod Lohani</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The COVID-19 crisis has had a significant and negative impact on STEM graduate students and their research programs. Universities have been forced to rapidly adapt. Some are developing innovative practices to support graduate students and maintain their programs, yet others are struggling.  This National Science Foundation Rapid Response Research (RAPID) award to the National Opinion Research Center (NORC) at the University of Chicago aims to support and sustain quality graduate student education in the U.S. during the crisis and into the future.  Graduate school deans will be systematically surveyed about their successes, struggles, and concerns for the future. The findings will be published and distributed to universities nationwide. The report will provide academic leaders with an opportunity to learn from each other. It will document novel and effective solutions developed in real-time during the pandemic and identify the new approaches that should be more fully explored and possibly institutionalized to best support STEM graduate students and sustain graduate programs into the future. &lt;br/&gt;&lt;br/&gt;NORC will follow a reliable and proven research strategy that has been utilized in prior STEM education research, follows established research protocols and methods, and has been successfully executed by NORC in past projects. The Center will design, administer, and analyze an online cross-sectional survey to be completed by graduate school deans on behalf of 300 doctoral- and master’s-level universities in the U.S. that matriculate significant numbers of STEM graduate students.  Initial qualitative interviews with four graduate school deans from diverse institutions will inform the development of the survey instrument. Using both closed- and open-ended questions, the survey will focus on impacts and innovations across three key areas of inquiry: (1) graduate student academic and research progress; (2) graduate student health and well-being; and (3) graduate program continuity and sustainability. Data analysis will include descriptive analyses and statistical tests to identify potential differences across institutional types (e.g., size, highest-degree awarded, minority serving). Qualitative data from the surveys will be coded and organized into the three key areas of inquiry. The survey results will then be shared, vetted, and further refined by a working assembly (virtual or in-person) of approximately 30 representatives from participating institutions. The result will be a final report to be disseminated  through NORC’s website and to STEM graduate programs throughout the country.&lt;br/&gt;&lt;br/&gt;This Rapid Response Research (RAPID) award is made by the Innovations in Graduate Education (IGE) program in the Division of Graduate Education/Directorate of Education and Human Resources using funds from the Coronavirus Aid, Relief, and Economic Security (CARES) Act.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/03/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2030148</AwardID>
+<Investigator>
+<FirstName>Ann</FirstName>
+<LastName>Davoren</LastName>
+<EmailAddress>davoren-ann@norc.org</EmailAddress>
+<StartDate>05/03/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>DEBRA</FirstName>
+<LastName>STEWART</LastName>
+<EmailAddress>stewart-debra@norc.org</EmailAddress>
+<StartDate>05/03/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>National Opinion Research Center</Name>
+<CityName>Chicago</CityName>
+<ZipCode>606372745</ZipCode>
+<PhoneNumber>7732566000</PhoneNumber>
+<StreetAddress>1155 E. 60th Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1997</Code>
+<Text>NSF Research Traineeship (NRT)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>4N20</Code>
+</Appropriation>
+</Award>
+</rootTag>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I (COVID-19):  Developing a comprehensive and customizable science courseware grounded in evidence-based teaching and learning practices</AwardTitle>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>224960.00</AwardTotalIntnAmount>
+<AwardAmount>224960</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Diane Hickey</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact of this Small Business Innovation Research (SBIR) Phase I project is to advance the state of practice of STEM courses. Certain techniques, known as evidence-based teaching (EBT), can improve performance for all STEM learners and narrow the achievement gaps, but 80% of STEM classrooms are still primarily lecture-based. This project will develop a digital course design tool enabling an instructor to quickly create and implement an exciting STEM course course. It will create and scale a plug-and-play library of high-quality assessment items and instructional resources in a way that instructors find empowering, easy to use, and valuable. This will be valuable during a period of remote learning, such as that created by the social distancing of the COVID-19 situation. &lt;br/&gt; &lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project will support the development and testing of a system to distribute EBT course structure and content at scale.  Active learning and high-structure courses produce better outcomes, and therefore this project focuses on dissemination of EBT curricula and course structures.  The research objectives are to automate course design, and explore user requirements for the system to scale, and produce real-time feedback on student performance.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/19/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/20/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2015112</AwardID>
+<Investigator>
+<FirstName>Ashley</FirstName>
+<LastName>Rowland</LastName>
+<EmailAddress>ashley@codonlearning.com</EmailAddress>
+<StartDate>08/19/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>CODON LEARNING, INC.</Name>
+<CityName>Golden</CityName>
+<ZipCode>804015817</ZipCode>
+<PhoneNumber>4026010900</PhoneNumber>
+<StreetAddress>607 10th Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8031</Code>
+<Text>Education Products</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8032</Code>
+<Text>Software Services and Applications</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+</Appropriation>
+</Award>
+</rootTag>

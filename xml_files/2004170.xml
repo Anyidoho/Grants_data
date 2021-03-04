@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>International Conference in Representations of Algebras (ICRA XIX)</AwardTitle>
+<AwardEffectiveDate>05/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>38400.00</AwardTotalIntnAmount>
+<AwardAmount>38400</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>James Matthew Douglass</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The Workshop and International Conference on Representations of Algebras (ICRA XIX) will be held at the International Centre for Theoretical Physics in Trieste, Italy, on July 21-31, 2020. This award will provide support for junior US based participants attending the meeting. The ICRA is an important biennial meeting in this subject that takes place every other year in countries all over the world. In 2016, the ICRA was held for the first time ever in the United States of America and has inspired many young researchers in the US to focus on representation theory of algebras and related topics. The meeting will consist of two parts: a four day workshop, and a five day conference. The workshop will have six speakers who each give a series of three lectures on a recent development in the field or a related area. The conference will consist in eighteen fifty-minute plenary lectures, in addition to a number of thirty-minute lectures which will be held in parallel sessions. The expected number of participants is two-hundred and fifty. The award will be used to support travel and lodging of US-based participants who are at an early stage of their career. &lt;br/&gt; &lt;br/&gt;Topics to be covered at the conference include quiver representations, Auslander-Reiten theory, homological properties, tilting theory, stability conditions and wall crossing, preprojective algebras, Hochschild cohomology, geometric methods in representation theory, cluster algebras, tensor categories, homological conjectures in commutative algebra, as well as methods from data analysis such as persistent homology. More information about the ICRA can be found at https://wiki.math.ntnu.no/icra2020/start.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/27/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>02/27/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2004170</AwardID>
+<Investigator>
+<FirstName>Julia</FirstName>
+<LastName>Pevtsova</LastName>
+<EmailAddress>julia@math.washington.edu</EmailAddress>
+<StartDate>02/27/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ralf</FirstName>
+<LastName>Schiffler</LastName>
+<EmailAddress>schiffler@math.uconn.edu</EmailAddress>
+<StartDate>02/27/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Connecticut</Name>
+<CityName>Storrs</CityName>
+<ZipCode>062691133</ZipCode>
+<PhoneNumber>8604863622</PhoneNumber>
+<StreetAddress>438 Whitney Road Ext.</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<StateCode>CT</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1264</Code>
+<Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7970</Code>
+<Text>Combinatorics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

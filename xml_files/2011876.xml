@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Center for Emergent Materials, an NSF MRSEC</AwardTitle>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>18000000.00</AwardTotalIntnAmount>
+<AwardAmount>3500000</AwardAmount>
+<AwardInstrument>
+<Value>Cooperative Agreement</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Miriam Deutsch</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Nontechnical Abstract: Innovations in materials will be central to new computational and information-processing technologies that will undergird economies world-wide and enhance human well-being in a changing and globally interconnected world.  Discovery of new materials engendering novel quantum phenomena lies at the heart of many of these innovations. Continuing improvement in speed and energy-efficiency will rely on the emergence of new materials and phenomena whose subtlety and complexity demand the coordinated and focused synthesis of a range of experimental and theoretical capabilities.  The Center for Emergent Materials, an NSF MRSEC (CEM) at Ohio State University, realizes innovative science and complex materials discovery by engaging researchers from diverse backgrounds and disciplines in an enabling and collaborative environment.  Working in two Interdisciplinary Research Groups (IRGs), these scientists conceive and create materials that grant improved control over magnetic properties; the first focuses on magnetic interactions at interfaces, and the second on control of configurations and interrelationships between magnetic interactions that protect desired magnetic properties even in the presence of disruptive forces.  This MRSEC is devising innovative strategies for teaching science that ease the entry of diverse groups into the scientific enterprise, and welcome the contributions of women and underrepresented groups.  CEM’s fundamental research is integrated into sustained ongoing interactions with young scientists from elementary school through secondary study to inspire their engagement with science.  A concerted focus on improving diversity is integrated into all facets of the MRSEC’s activities. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Technical Abstract: One IRG is creating novel materials that enable control of atoms at the interface between metals and magnets. It determines the structure of the interface using high resolution microscopy then investigates magnetic configurations and excitations using a variety of transport, magnetic and fast optical probes.  Theoretical studies guide scientific directions and choice of materials and provide insight into experimental results. These advances will open the door to innovative means of controlling static and dynamic behavior of spins.  A second IRG seeks to discover materials harboring topologically protected magnetic excitations.  Confirming the existence of these subtle features and understanding their properties requires coordinated application of a diverse suite of experiments closely integrated with theoretical guidance to bring these subtle phenomena to light.  The IRG seeks to establish a new paradigm of topological phases in strongly correlated magnetic materials thus providing the precise control over the magnetic properties of solids that will have critical applications for both spintronics and quantum information.  The Center continues to have bi-weekly contact with high-needs elementary school students. This program is spawning a vibrant community of OSU undergraduate and graduate students, and aids in the development of innovative approaches to enhancing diversity through scientific outreach.  Center faculty are vital participants in the externally funded Masters-to-Ph.D. minority Bridge Program that increases the pool of qualified faculty candidates from underrepresented backgrounds. CEM’s Diversity Action Plan, founded on proven strategies employing concrete, measurable steps, is focused on improving faculty and post-secondary diversity.  A Professional Development course teaches the networking, interviewing and negotiating skills that students seeking non-academic careers need.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/29/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/29/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2011876</AwardID>
+<Investigator>
+<FirstName>P. Chris</FirstName>
+<LastName>Hammel</LastName>
+<EmailAddress>hammel@mps.ohio-state.edu</EmailAddress>
+<StartDate>06/29/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Ohio State University</Name>
+<CityName>Columbus</CityName>
+<ZipCode>432101016</ZipCode>
+<PhoneNumber>6146888735</PhoneNumber>
+<StreetAddress>Office of Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1735</Code>
+<Text>MATERIALS RSCH SCI &amp; ENG CENT</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>053Z</Code>
+<Text>Quantum Leap Materials</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1711</Code>
+<Text>MATERIALS EDUCATION AND RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8614</Code>
+<Text>Nanomaterials</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8615</Code>
+<Text>Nanoscale Devices and Systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9177</Code>
+<Text>ELEMENTARY/SECONDARY EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9250</Code>
+<Text>REU SITE-Res Exp for Ugrd Site</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+</Appropriation>
+</Award>
+</rootTag>

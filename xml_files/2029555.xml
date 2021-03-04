@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Engineering Bioinspired Multifunctional Microbial Polymeric Fiber (BioFiber) for Concrete Self-Healing</AwardTitle>
+<AwardEffectiveDate>12/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>555589.00</AwardTotalIntnAmount>
+<AwardAmount>555589</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Caglar Oskay</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This research will investigate a new self-healing concrete enriched with bioinspired multifunctional microbial polymeric fibers to improve durability and resilience of civil infrastructure. Concrete, the most commonly used manmade material on earth, suffers from long-term durability issues due to formation of cracks under sustained loading and in harsh operating environments. Using nature-inspired concepts of self-healing and microbial calcium carbonate precipitation (MCCP) coupled with principles of fracture mechanics, this project will investigate science-based design strategies for a new bioinspired fiber reinforced concrete composite (BioFRC). BioFRC can intelligently and autonomously heal its cracks at early stages and prevent formation of major defects, thereby increasing durability of concrete structures. The research outcomes will be integrated with diverse educational and outreach activities on sustainable bio-engineered solutions for civil infrastructure. K-12, undergraduate, graduate and underrepresented students will be engaged in research workshops on self-healing infrastructure and interdisciplinary teaching modules, and lectures will be developed during the course of this project.&lt;br/&gt;&lt;br/&gt;The specific goal of the research is to discover process-structure-property relationships for autonomic microbial self-healing concrete. The research will investigate (1) damage control mechanisms to limit crack growth, (2) autonomic self-activation near damage zones for damage-responsive healing activation, and (3) effective materials to heal the damage. By coupling principles from polymer/fiber engineering, fracture mechanics and microbiology, and through integrated experimental and numerical work, fundamental understanding of two crucial mechanisms and their interactions will be achieved: harmonizing fracture processes, and balancing MCCP with crack volume creation. The research activities and methodologies will pursue three specific objectives: (i) to understand mechanical, bridging, and breaking mechanism and morphology of microbial polymeric fibers, (ii) to understand microbial polymeric fibers? performance and bacterial survivability before occurrence of cracks, and MCCP activation/kinetics after occurrence of cracks in BioFRC, and (iii) to test the robustness of the research approach and potential durability and resilience enhancements in concrete.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/06/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/06/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2029555</AwardID>
+<Investigator>
+<FirstName>Caroline</FirstName>
+<LastName>Schauer</LastName>
+<EmailAddress>cschauer@coe.drexel.edu</EmailAddress>
+<StartDate>07/06/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Christopher</FirstName>
+<LastName>Sales</LastName>
+<EmailAddress>chris.sales@drexel.edu</EmailAddress>
+<StartDate>07/06/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Yaghoob</FirstName>
+<LastName>Farnam</LastName>
+<EmailAddress>yfarnam@coe.drexel.edu</EmailAddress>
+<StartDate>07/06/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ahmad</FirstName>
+<LastName>Najafi</LastName>
+<EmailAddress>arn55@drexel.edu</EmailAddress>
+<StartDate>07/06/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Drexel University</Name>
+<CityName>Philadelphia</CityName>
+<ZipCode>191021119</ZipCode>
+<PhoneNumber>2158955849</PhoneNumber>
+<StreetAddress>1505 Race St, 10th Floor</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>073Y</Code>
+<Text>ECI-Engineering for Civil Infr</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>024E</Code>
+<Text>MATERIALS DESIGN</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>025E</Code>
+<Text>INFRASTRUCTURE MATERIALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>036E</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8021</Code>
+<Text>Materials Engineering</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8022</Code>
+<Text>Sustainable Infrastructure Materials</Text>
+</ProgramReference>
+</Award>
+</rootTag>

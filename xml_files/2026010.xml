@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Volition With An App</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>255880.00</AwardTotalIntnAmount>
+<AwardAmount>255880</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alastair Monk</SignBlockName>
+<PO_EMAI>amonk@nsf.gov</PO_EMAI>
+<PO_PHON>7032924392</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project aims to decrease the number of overdose deaths in the U.S. by making an AI-driven mobile app to those suffering from substance use disorder (SUD). There were more than 67,000 drug overdose deaths in the U.S. in 2018. This project will potentially alter the existing behavioral health marketplace through its ability to save lives and reduce the $740 billion spent annually treating SUDs.  The app, freely available to anyone with a mobile phone, uses an expert artificial intelligence (AI) system to suggest an appropriate evidence-based recovery plan to those in need. Medically recognized contingency-based therapy processes are incorporated to help individuals follow their recovery plans. &lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project will develop an expert system to develop an evidence-based personalized recovery program to individuals affected with SUD. To do this, the company is developing SUD self-directed recovery while enhancing compliance and motivation through a novel, salient reward system. Increasing recovery plan compliance is a major addition to current healthcare industry functions.  The project will utilize a positive feedback loop via the novel use of value-based payment for individuals with substance use disorder with or without clinician oversight.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/13/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/13/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2026010</AwardID>
+<Investigator>
+<FirstName>Elizabeth</FirstName>
+<LastName>La Rue</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Elizabeth La Rue</PI_FULL_NAME>
+<EmailAddress>elizabeth.larue@heraglobaltech.com</EmailAddress>
+<PI_PHON>4129994812</PI_PHON>
+<NSF_ID>000801382</NSF_ID>
+<StartDate>08/13/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>HERA GLOBAL TECH INC.</Name>
+<CityName>PITTSBURGH</CityName>
+<CountyName>ALLEGHENY</CountyName>
+<ZipCode>152181319</ZipCode>
+<PhoneNumber>4129994812</PhoneNumber>
+<StreetAddress>1120 SAVANNAH AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA18</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>081252126</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>HERA GLOBAL TECH INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[HERA GLOBAL TECH INC.]]></Name>
+<CityName>Pittsburgh</CityName>
+<CountyName>ALEGHENY</CountyName>
+<StateCode>PA</StateCode>
+<ZipCode>152181319</ZipCode>
+<StreetAddress><![CDATA[1120 Savannah Ave.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA18</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<Institution>
+<Name>HERA GLOBAL TECH INC.</Name>
+<CityName>PITTSBURGH</CityName>
+<CountyName>ALEGHENY</CountyName>
+<ZipCode>152181319</ZipCode>
+<PhoneNumber>4129994812</PhoneNumber>
+<StreetAddress>1120 SAVANNAH AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA18</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>081252126</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>HERA GLOBAL TECH INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[HERA GLOBAL TECH INC.]]></Name>
+<CityName>Pittsburgh</CityName>
+<CountyName>ALEGHENY</CountyName>
+<StateCode>PA</StateCode>
+<ZipCode>152181319</ZipCode>
+<StreetAddress><![CDATA[1120 Savannah Ave.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA18</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<Institution>
+<Name>HERA GLOBAL TECH INC.</Name>
+<CityName>PITTSBURGH</CityName>
+<CountyName>ALLEGHENY</CountyName>
+<ZipCode>152181319</ZipCode>
+<PhoneNumber>4129994812</PhoneNumber>
+<StreetAddress>1120 SAVANNAH AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA18</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>081252126</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>HERA GLOBAL TECH INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[HERA GLOBAL TECH INC.]]></Name>
+<CityName>Pittsburgh</CityName>
+<CountyName>ALEGHENY</CountyName>
+<StateCode>PA</StateCode>
+<ZipCode>152181319</ZipCode>
+<StreetAddress><![CDATA[1120 Savannah Ave.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA18</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<Institution>
+<Name>HERA GLOBAL TECH INC.</Name>
+<CityName>PITTSBURGH</CityName>
+<CountyName>ALLEGHENY</CountyName>
+<ZipCode>152181319</ZipCode>
+<PhoneNumber>4129994812</PhoneNumber>
+<StreetAddress>1120 SAVANNAH AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA18</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>081252126</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>HERA GLOBAL TECH INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[HERA GLOBAL TECH INC.]]></Name>
+<CityName>Pittsburgh</CityName>
+<CountyName>ALEGHENY</CountyName>
+<StateCode>PA</StateCode>
+<ZipCode>152181319</ZipCode>
+<StreetAddress><![CDATA[1120 Savannah Ave.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA18</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<Institution>
+<Name>HERA GLOBAL TECH INC.</Name>
+<CityName>PITTSBURGH</CityName>
+<CountyName>ALLEGHENY</CountyName>
+<ZipCode>152181319</ZipCode>
+<PhoneNumber>4129994812</PhoneNumber>
+<StreetAddress>1120 SAVANNAH AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA18</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>081252126</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>HERA GLOBAL TECH INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[HERA GLOBAL TECH INC.]]></Name>
+<CityName>Pittsburgh</CityName>
+<CountyName>ALEGHENY</CountyName>
+<StateCode>PA</StateCode>
+<ZipCode>152181319</ZipCode>
+<StreetAddress><![CDATA[1120 Savannah Ave.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA18</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<Institution>
+<Name>HERA GLOBAL TECH INC.</Name>
+<CityName>PITTSBURGH</CityName>
+<CountyName>ALEGHENY</CountyName>
+<ZipCode>152181319</ZipCode>
+<PhoneNumber>4129994812</PhoneNumber>
+<StreetAddress>1120 SAVANNAH AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA18</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>081252126</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>HERA GLOBAL TECH INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[HERA GLOBAL TECH INC.]]></Name>
+<CityName>Pittsburgh</CityName>
+<CountyName>ALEGHENY</CountyName>
+<StateCode>PA</StateCode>
+<ZipCode>152181319</ZipCode>
+<StreetAddress><![CDATA[1120 Savannah Ave.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA18</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<Institution>
+<Name>HERA GLOBAL TECH INC.</Name>
+<CityName>PITTSBURGH</CityName>
+<CountyName>ALEGHENY</CountyName>
+<ZipCode>152181319</ZipCode>
+<PhoneNumber>4129994812</PhoneNumber>
+<StreetAddress>1120 SAVANNAH AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA18</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>081252126</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>HERA GLOBAL TECH INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[HERA GLOBAL TECH INC.]]></Name>
+<CityName>Pittsburgh</CityName>
+<CountyName>ALEGHENY</CountyName>
+<StateCode>PA</StateCode>
+<ZipCode>152181319</ZipCode>
+<StreetAddress><![CDATA[1120 Savannah Ave.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA18</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<Institution>
+<Name>HERA GLOBAL TECH INC.</Name>
+<CityName>PITTSBURGH</CityName>
+<CountyName>ALEGHENY</CountyName>
+<ZipCode>152181319</ZipCode>
+<PhoneNumber>4129994812</PhoneNumber>
+<StreetAddress>1120 SAVANNAH AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA18</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>081252126</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>HERA GLOBAL TECH INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[HERA GLOBAL TECH INC.]]></Name>
+<CityName>Pittsburgh</CityName>
+<CountyName>ALEGHENY</CountyName>
+<StateCode>PA</StateCode>
+<ZipCode>152181319</ZipCode>
+<StreetAddress><![CDATA[1120 Savannah Ave.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA18</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8018</Code>
+<Text>Smart and Connected Health</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8023</Code>
+<Text>Health Care Enterprise Systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8032</Code>
+<Text>Software Services and Applications</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<FUND_OBLG>2020~255880</FUND_OBLG>
+</Award>
+</rootTag>

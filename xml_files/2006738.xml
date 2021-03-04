@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SHF: Small: Knowledge Integrated Data-Efficient Deep Learning</AwardTitle>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>499950.00</AwardTotalIntnAmount>
+<AwardAmount>499950</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Almadena Chtchelkanova</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Over the last decade, deep learning has demonstrated great success in a variety of application areas mainly due to the simultaneous increase of massive computing power and the availability of extremely large datasets for training networks with a large number of parameters. It is also well-known that conventional deep learning suffers from data scarcity, namely, too few (even no) data samples exist for learning because it is too expensive to collect data or the data set is small as compared to the necessary amount. Such cases are common in real life such as rare disease diagnosis which significantly restricts the applicability of deep learning. Thus, there is a crucial need for data-efficient deep learning with very limited data. This project seeks to provide innovative solutions to many important real-world problems such as autonomous driving, manufacturing automation, robotics, surveillance, healthcare, and big data analysis. It will support the national initiative of “Artificial Intelligence for the American People” that accelerates AI discoveries and maintains American leadership in AI technologies.&lt;br/&gt;&lt;br/&gt;This project focuses on knowledge-integrated data-efficient deep learning, along three different thrusts: &lt;br/&gt;&lt;br/&gt;(1) Data-efficient deep learning with large-scale knowledge graphs. Knowledge graphs, widely-used as a priori knowledge for reliable reasoning, can be used to significantly reduce the need of training data. A novel bilevel optimization approach is proposed to address this problem from the perspectives of structured learning and optimal transport. The mathematical foundation in optimization can also lead to better understanding of some theoretical questions such as the model complexity in data-efficient learning. &lt;br/&gt;&lt;br/&gt;(2) Self-supervised data augmentation. Data itself is subjective and open to interpretation as empirical knowledge. To address this problem, nonlinear topological dimension reduction using self-supervision is proposed to generate new data for training deep learning models. &lt;br/&gt;&lt;br/&gt;(3) Hardware architecture for data-efficient deep learning algorithms. Data efficient deep learning has the potential to revolutionize the applications of AI regarding modeling, predicting, and decision making. Along with software, an FPGA-based power-efficient, reconfigurable hardware architecture is proposed for the developed algorithms and will be tested in a perception system for autonomous driving.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/14/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/15/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2006738</AwardID>
+<Investigator>
+<FirstName>Xinming</FirstName>
+<LastName>Huang</LastName>
+<EmailAddress>xhuang@wpi.edu</EmailAddress>
+<StartDate>08/14/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ziming</FirstName>
+<LastName>Zhang</LastName>
+<EmailAddress>zzhang15@wpi.edu</EmailAddress>
+<StartDate>08/14/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Worcester Polytechnic Institute</Name>
+<CityName>WORCESTER</CityName>
+<ZipCode>016092247</ZipCode>
+<PhoneNumber>5088315000</PhoneNumber>
+<StreetAddress>100 INSTITUTE RD</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>2878</Code>
+<Text>Special Projects - CCF</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7798</Code>
+<Text>Software &amp; Hardware Foundation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>075Z</Code>
+<Text>Artificial Intelligence (AI)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7942</Code>
+<Text>HIGH-PERFORMANCE COMPUTING</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+</Appropriation>
+</Award>
+</rootTag>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SG: Can green infrastructure maximize ecosystem processes related to nitrogen?</AwardTitle>
+<AwardEffectiveDate>05/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>199764.00</AwardTotalIntnAmount>
+<AwardAmount>199764</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>John Schade</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Nitrogen pollution causes many environmental and human health problems. These include harmful algal blooms, acid rain and smog. In cities, fossil fuel burning and fertilizer application add large amounts of nitrogen to stormwater. City infrastructure carries stormwater downstream, which may pollute downstream ecosystems with excess nitrogen. Nature-based designs that use ecological processes to remove nitrogen from stormwater may provide a solution. These green infrastructure designs are popular in cities globally. Questions remain, however, about their effectiveness. Should green infrastructure design mimic natural ecosystems as closely as possible? Or can new combinations of soils and species more effectively mitigate pollution? This research will seek answers to these questions by studying several types of stormwater management facilities in Salt Lake City, UT. Results from this research will provide useful guidance to the design of stormwater management systems. It also has the potential to advance fundamental understanding of the nitrogen cycle. Researchers will also conduct extensive public outreach and educational activities to highlight the importance of ecological processes in urban spaces.&lt;br/&gt;&lt;br/&gt;The scientific community currently lacks a theoretical framework to guide design of ecosystems that maximize nitrogen retention.  This is due largely to the complexity of nitrogen cycling in ecosystems. The researchers propose to quantify the relative influence of two key paradigms of ecosystem science on nitrogen retention: biodiversity-ecosystem function and thermodynamic ecological stoichiometry. The project will involve quantifying rates of nitrogen retention processes (microbial &amp; plant uptake, plant biomass and soil nitrogen accumulation, and permanent gaseous removal) over event-scale and seasonal-scale in two sets of replicated stormwater management experimental facilities, as well as replicate plots in an adjacent natural area. The first experimental facility includes nine plots planted with three levels of plant functional diversity. The second includes eight plots with two levels of plant community composition: ornamental vs. native, xeric-adapted species.  Researchers hypothesize that plots with high plant diversity and/or xeric-adapted traits will have higher nitrogen retention if physiological traits related to rapid resource acquisition are an important driver of nitrogen cycling. Further, researchers hypothesize that variation in microbial community diversity across plots and over time following plot establishment will correlate with higher nitrogen immobilization and denitrification if biodiversity is an important driver of these processes. Conversely, if biodiversity is not an important driver of ecosystem scale nitrogen fluxes, we expect to find retention rates follow thermodynamic and stoichiometric models without significant variation across plant communities.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/06/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/06/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2006308</AwardID>
+<Investigator>
+<FirstName>Diane</FirstName>
+<LastName>Pataki</LastName>
+<EmailAddress>diane.pataki@utah.edu</EmailAddress>
+<StartDate>04/06/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jennifer</FirstName>
+<LastName>Follstad Shah</LastName>
+<EmailAddress>jennifer.shah@envst.utah.edu</EmailAddress>
+<StartDate>04/06/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ramesh</FirstName>
+<LastName>Goel</LastName>
+<EmailAddress>ram.goel@utah.edu</EmailAddress>
+<StartDate>04/06/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Rose</FirstName>
+<LastName>Smith</LastName>
+<EmailAddress>rose.smith@utah.edu</EmailAddress>
+<StartDate>04/06/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Utah</Name>
+<CityName>SALT LAKE CITY</CityName>
+<ZipCode>841128930</ZipCode>
+<PhoneNumber>8015816903</PhoneNumber>
+<StreetAddress>75 S 2000 E</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<StateCode>UT</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7381</Code>
+<Text>Ecosystem Science</Text>
+</ProgramElement>
+</Award>
+</rootTag>

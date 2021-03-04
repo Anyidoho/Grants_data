@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>The 50th John Barrett Memorial Lecture in 2020 on Approximation, Applications, and Analysis of Nonlocal, Nonlinear Models.</AwardTitle>
+<AwardEffectiveDate>04/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>26670.00</AwardTotalIntnAmount>
+<AwardAmount>26670</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Malgorzata Peszynska</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award supports the participation of students, postdocs, early career researchers, and under-represented groups seeking to attend the 50th anniversary of the John Barrett Memorial Lectures which will be held on May 11-13, 2020 at University of Tennessee, Knoxville. This three day workshop will be focused on "Approximation, Applications, and Analysis of Nonlocal, Nonlinear Models".  Nonlocal models are a type of mathematical model of relatively recent vintage that has proved to be very effective for describing certain challenging physical phenomena, such as fracture in solid mechanics. The workshop will bring together experts from the mathematical, computational scientific, and engineering communities who are very unlikely to meet otherwise, but nevertheless all work with nonlocal models and their applications. The meeting will provide a platform for the exchange of ideas. The workshop encourages the inclusion and participation of junior scientists and members of under-represented groups in STEM. This award will present them the opportunity to interact with and learn from leading researchers working with nonlocal models, along the way contributing towards the development of the next generation of researchers in nonlocal theories. &lt;br/&gt; &lt;br/&gt;The technical focuses of the workshop are on the approximation, applications and analysis of nonlocal models, which have presented new challenges to mathematical and numerical analysis, and their computational implementation. Recent applications include, but are not limited to: heat and mass diffusion, nonlocal mechanics, pattern formation, image processing, self-organized dynamics, population dispersal, Levy fights, and jump processes. Invited speakers and participants will bring expertise from a wide array of related fields, including: mathematical and numerical analysis of nonlocal and fractional model, numerical methods and discretization schemes, multi-scale modeling and adaptivity in nonlocal models, software implementation in nonlocal models, peridynamics models for material failure and damage, nonlocal heat transfer and mass diffusion, anomalous transport in nature, and other engineering and scientific applications in which nonlocal modeling is useful.&lt;br/&gt;&lt;br/&gt;The conference website is https://www.math.utk.edu/barrett/.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/17/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>01/17/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2001695</AwardID>
+<Investigator>
+<FirstName>Tadele</FirstName>
+<LastName>Mengesha</LastName>
+<EmailAddress>mengesha@utk.edu</EmailAddress>
+<StartDate>01/17/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Abner</FirstName>
+<LastName>Salgado</LastName>
+<EmailAddress>asalgad1@utk.edu</EmailAddress>
+<StartDate>01/17/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Tennessee Knoxville</Name>
+<CityName>Knoxville</CityName>
+<ZipCode>379163801</ZipCode>
+<PhoneNumber>8659743466</PhoneNumber>
+<StreetAddress>1331 CIR PARK DR</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<StateCode>TN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1271</Code>
+<Text>COMPUTATIONAL MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+</Award>
+</rootTag>

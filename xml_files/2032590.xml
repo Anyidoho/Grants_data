@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NSF2026: EAGER: Nitrogen Bearing Hydrochars For Nitrogen Upcycling in a World without Waste</AwardTitle>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>277359.00</AwardTotalIntnAmount>
+<AwardAmount>277359</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Bruce Hamilton</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>2032590 (Timko). With support from the CBET/ENG Environmental Sustainability program and the NSF 2026 Fund Program in the Office of Integrated Activities, Professors Michael Timko and Aaron Deskins at Worchester Polytechnic Institute, and Professor Klais Schmift-Rohr at Brandeis University are engaging in a research project that is targeted to elucidate the structure of N-hydrochars and provide a rational basis for design of N-hydrochars for specific applications. N-hydrochars are nitrogen-bearing carbon-rich materials formed by hydrothermal treatment of wastes, such as food waste, livestock manure, and sewage sludge. N-hydrochars are potentially useful for many applications, including as soil amendments, adsorbents, and catalysts. Project success will help to advance toward the goal of the NSF2026 Idea Machine winning entry of a "World without Waste."&lt;br/&gt;&lt;br/&gt;A current challenge to the use of N-hydrochars is their complex and unknown structure. NMR of isotopically labeled N-hydrochars synthesized from well- defined precursors will be used to identify and quantify N-hydrochar structural sub-units. The project team anticipates that these sub-units will be furans, arenes, and possibly N-bearing heterocycles, with alkyl linkers decorated with amine and carboxylate side chains. Quantum chemical calculations will be used to simulate the vibrations of these sub-units, enabling development of a Raman method that can be used for N-hydrochar characterization. More complex hydrochars will then be synthesized from food waste. Heavy metal sorption isotherms will be measured on model and complex hydrochars. Quantum chemical calculations will be performed using the previously identified N- hydrochar sub-units and these results will be used first to rationalize measured trends and then refined to provide predictive capabilities to generalize results to different types of N-hydrochars and for sorption of different metal cations.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/22/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/22/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2032590</AwardID>
+<Investigator>
+<FirstName>Klaus</FirstName>
+<LastName>Schmidt-Rohr</LastName>
+<EmailAddress>srohr@brandeis.edu</EmailAddress>
+<StartDate>07/22/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Nathaniel</FirstName>
+<LastName>Deskins</LastName>
+<EmailAddress>nadeskins@wpi.edu</EmailAddress>
+<StartDate>07/22/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Timko</LastName>
+<EmailAddress>mttimko@wpi.edu</EmailAddress>
+<StartDate>07/22/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Worcester Polytechnic Institute</Name>
+<CityName>WORCESTER</CityName>
+<ZipCode>016092247</ZipCode>
+<PhoneNumber>5088315000</PhoneNumber>
+<StreetAddress>100 INSTITUTE RD</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>081Y</Code>
+<Text>NSF 2026 Fund</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7643</Code>
+<Text>EnvS-Environmtl Sustainability</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Development and assessment of a diagnostic platform for rapid identification of COVID-19 patients without using custom reagents</AwardTitle>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>256000.00</AwardTotalIntnAmount>
+<AwardAmount>256000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Henry Ahn</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to deploy a diagnostic to rapidly and inexpensively detect COVID-19 infections. Beyond the short-term goal of identifying COVID-19 patients, the technology will lend strong support for real-time infection tracking nationally. The same hardware components of the diagnostic can be used to identify a wide variety of pathogens without custom reagents. The system will work with a cloud-based database and monitoring system to rapidly identify hotspots of increased pathogen activity, enabling faster response to new pathogens since no hardware-related development, manufacturing, and distribution are needed. Once a new pathogen?s fingerprint is obtained, it can be easily distributed to deployed instruments to enable immediately tracking of the new pathogen. &lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project aims to develop a rapid diagnostic capable of detecting SARS-nCoV2 directly from sample matrices without the use of custom reagents (like DNA) or a cold supply chain. The approach isolates intact virus directly from the specimen with the help of a disposable cartridge and a syringe pump. The isolated virus is then identified using Fourier-Transform Infrared Spectrometry (FTIR). The proposed work leverages the differential response to mechanical stress between the virus and the components of a sample matrix. This differential response is used to selectively lyse only the sample matrix components, not the virus. The debris is subsequently separated from the virus by size-based separation methods such as filtration, enabling rapid isolation of a broad range of pathogens directly from the sample. FTIR is used to identify the isolated virus since pathogens exhibit unique spectral fingerprints in the infrared region. The proposed Phase I effort will develop the protocol for isolating and identifying intact virus and will demonstrate the performance with nasopharyngeal swab samples. The results will be compared against results from RT-PCR methods to assess comparability.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/02/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/02/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2029745</AwardID>
+<Investigator>
+<FirstName>Rajesh</FirstName>
+<LastName>Krishnamurthy</LastName>
+<EmailAddress>rk@3idx.com</EmailAddress>
+<StartDate>07/02/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>3I Diagnostics, Inc.</Name>
+<CityName>Germantown</CityName>
+<ZipCode>208764064</ZipCode>
+<PhoneNumber>3015156380</PhoneNumber>
+<StreetAddress>20271 Goldenrod Lane</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8038</Code>
+<Text>Biotechnology</Text>
+</ProgramReference>
+</Award>
+</rootTag>

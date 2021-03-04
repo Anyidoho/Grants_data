@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NSF-BSF: RI: Small: Resource-Constrained Multi-hypothesis-aware Perception</AwardTitle>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>471081.00</AwardTotalIntnAmount>
+<AwardAmount>471081</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>David Miller</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Mobile robots such as self-driving cars, service and household robots, will help people in their daily lives. They operate outside controlled factory environments where they need to perceive the world around them using onboard sensors such as cameras to self-localize, create maps, and perform tasks. Most current perception systems estimate the most likely state of the world but are poor at handling ambiguity and can therefore easily fail. In ambiguous situations, the most likely solution based on the currently available sensor measurements is selected, even though that might not be the one that corresponds to reality. Future measurements can disambiguate the situation, but if the correct solution has previously been discarded, it cannot be recovered, and the robot will fail in its task. This project focuses on developing novel algorithms that can deal with ambiguity for example by keeping track of multiple possible solutions. The key challenge is that the number of possible solutions can grow rapidly, and efficient solutions are needed that can be implemented with the restricted computational resources available onboard mobile robots.&lt;br/&gt;&lt;br/&gt;The novel methods to be investigated in this research will extend current state-of-the-art robust perception and belief space planning techniques by approximating the full set of potential hypotheses while simultaneously decreasing computational demands and providing probabilistic bounds on performance. Two different approximations will be investigated: (1) by grouping similar hypotheses into sets that can be approximately evaluated efficiently as a group and (2) by seeking to find a simplified set of hypotheses that is probabilistically close to the original unreduced set of hypotheses. After developing these methods in the passive case, they will be extended to the active perception situation where inherent tradeoffs will be investigated to attain online performance during both simulated and real-world experiments in environments where perceptual aliasing and ambiguity are prevalent.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/01/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/19/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2008279</AwardID>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Kaess</LastName>
+<EmailAddress>kaess@cmu.edu</EmailAddress>
+<StartDate>09/01/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Carnegie-Mellon University</Name>
+<CityName>PITTSBURGH</CityName>
+<ZipCode>152133815</ZipCode>
+<PhoneNumber>4122688746</PhoneNumber>
+<StreetAddress>5000 Forbes Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7495</Code>
+<Text>Robust Intelligence</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+</Appropriation>
+</Award>
+</rootTag>

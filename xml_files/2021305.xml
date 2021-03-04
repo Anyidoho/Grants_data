@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>BII-Design: Does variable genome instability impact lifespan differences between males and females and across species?</AwardTitle>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>200000.00</AwardTotalIntnAmount>
+<AwardAmount>200000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DBI</Abbreviation>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Stephen DiFazio</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project will design a new institute to investigate why males and females of some species differ in how long they live.  In humans, like in many other animals, females tend to live longer than males.  However, this lifespan difference between males and females is not universal. In some species females live longer, and in other species there is no lifespan difference between males and females. Why there are differences in aging and lifespan between males and females is currently unknown.  This project will address this question by bringing together experts from diverse fields of biology to form the Integration Institute: Sex, Aging, Genomics, and Epigenetics (IISAGE).  IISAGE will develop a coordinated research plan to investigate the contribution of genome instability to differences in lifespan between males and females across species. IISAGE will also establish an interdisciplinary training program for participating students. The project will conduct outreach to the scientific community through conferences and a website, and will specifically recruit underrepresented groups to participate in the institute.&lt;br/&gt;&lt;br/&gt;Genome instability increases with age in many species and is considered an important contributor to aging.  However, there is a significant gap in knowledge concerning how genome instability variably impacts males versus females in aging and lifespan, and whether this differs across species with diverse life histories and mechanisms of sex determination.  IISAGE will build a community of scientists with various expertise in molecular biology, physiology, ecology, and evolutionary biology to comprehensively address how genome instability impacts sex differences in lifespan across the animal kingdom.  Specifically, the goals of IISAGE in the BII-Design phase are to: 1) Refine the specific questions addressed and methods employed by future IISAGE research; 2) Develop an interdisciplinary training/career development program for the members of IISAGE; and 3) Establish the procedures necessary for efficient data management and information exchange between the members of IISAGE.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/28/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/13/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2021305</AwardID>
+<Investigator>
+<FirstName>Nicole</FirstName>
+<LastName>Riddle</LastName>
+<EmailAddress>riddlenc@uab.edu</EmailAddress>
+<StartDate>08/28/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>Walters</LastName>
+<EmailAddress>jrwalters@ku.edu</EmailAddress>
+<StartDate>08/28/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Erica</FirstName>
+<LastName>Larschan</LastName>
+<EmailAddress>Erica_Larschan@brown.edu</EmailAddress>
+<StartDate>08/28/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Alabama at Birmingham</Name>
+<CityName>Birmingham</CityName>
+<ZipCode>352940001</ZipCode>
+<PhoneNumber>2059345266</PhoneNumber>
+<StreetAddress>AB 1170</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Alabama</StateName>
+<StateCode>AL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7275</Code>
+<Text>Cross-BIO Activities</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+</Appropriation>
+</Award>
+</rootTag>

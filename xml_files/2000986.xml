@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SaTC: CORE: Medium: An Optimization Framework for Identifying Dynamic Risk Management Practices</AwardTitle>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>1200000.00</AwardTotalIntnAmount>
+<AwardAmount>1200000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sara Kiesler</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>It is enormously challenging for organizations to protect information technology (IT) systems from the myriad of risks and vulnerabilities that exist. Organizations can reduce these vulnerabilities by implementing security controls to protect critical IT systems from risk and responding to alerts from reports and logs. Nonetheless, major challenges in protecting IT systems involve determining the right combination of these mechanisms to deploy in a resource-constrained environment and identifying how to roll out security controls at the right time using the right resources. This project is aimed at increasing the efficiency of using security controls in IT organizations and agencies. It addresses these challenges by introducing and analyzing a new optimization framework to support the choice and implementation of security procedures. The project will contribute to the optimization literature, the field of operations research, and links between operations research and IT security.&lt;br/&gt; &lt;br/&gt; This project supports forward-looking, dynamic defensive strategies in uncertain environments that have the potential to achieve high levels of security without a corresponding increase in costs. To achieve this goal, this project explores how an optimization framework can be used to prescribe dynamic protection and response policies that protect IT systems, are effective given uncertain future events, and reduce risk in complex environments that span people, processes, and infrastructure.  The project adds new models to the literature that draw from integer programming, multi-stage stochastic programming, adversarial risk analysis, and network games. Solving these models is extremely challenging, and therefore, this research explores new algorithmic techniques to identify optimal and near-optimal model solutions. This project advances our understanding of how to dynamically allocate resources to secure IT systems in an uncertain environment. This project integrates research with education to train the future workforce in cybersecurity. A comprehensive plan for broadening participation in computing highlights the researchers' efforts and commitment to diversity and inclusion.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/27/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/15/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2000986</AwardID>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>Luedtke</LastName>
+<EmailAddress>jrluedt1@wisc.edu</EmailAddress>
+<StartDate>08/27/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Laura</FirstName>
+<LastName>Albert</LastName>
+<EmailAddress>laura@engr.wisc.edu</EmailAddress>
+<StartDate>08/27/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Wisconsin-Madison</Name>
+<CityName>MADISON</CityName>
+<ZipCode>537151218</ZipCode>
+<PhoneNumber>6082623822</PhoneNumber>
+<StreetAddress>21 North Park Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8060</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>065Z</Code>
+<Text>Human factors for security research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>075Z</Code>
+<Text>Artificial Intelligence (AI)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7434</Code>
+<Text>CNCI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7924</Code>
+<Text>MEDIUM PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+</Appropriation>
+</Award>
+</rootTag>

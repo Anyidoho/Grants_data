@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CCRI: ENS: Collaborative Research: Open Computer System Usage Repository and Analytics Engine</AwardTitle>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>499920.00</AwardTotalIntnAmount>
+<AwardAmount>499920</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Marilyn McClure</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>In science and engineering research, large-scale, centrally managed computing clusters or “supercomputers” have been instrumental in enabling the kinds of resource-intensive simulations, analyses, and visualizations that have been used in computer-aided drug discovery, high strength materials design for cars and jet engines, and disease vector analysis to name a few. Such clusters are complex systems comprised of several hundred to thousand computer servers with fast network connections between them, various data storage resources, and highly optimized scientific software being shared with several hundred other researchers from diverse domains. Consequently, the overall dependability of such systems relies on the dependability of these individual highly interconnected elements as well as the characteristics of cascading failures. While computer systems researchers and practitioners have been at the forefront of designing and deploying dependable computing cluster systems, this task has been hampered by the lack of publicly available, real-world failure data from supercomputers currently in operation. Prior practice has largely involved tedious, manual collection and curation of small sets of data for use in specific analyses. This project will establish seamless, automated pipelines for acquiring, processing, and curating continuous, detailed system usage, monitoring, and failure data from large computing clusters at two organizations, Purdue University and the University of Texas at Austin. This data will be disseminated through a publicly accessible portal and complemented by a suite of in-situ analytics capabilities that will support and spur research in dependable computing systems. The data acquisition pipeline and analytics software will be made open-source and designed for ease of federation, extension, and adoption to cluster systems operated by other organizations.&lt;br/&gt;&lt;br/&gt;Cluster computing systems are a key resource in time-sensitive, computationally intensive research such as virus structure modeling and drug discovery and have been at the forefront of efforts to tackle global pandemics. Both unanticipated system down-times and lack of actionable feedback to researchers on computational failures can have adverse effects on research timeliness and efficiency. This project will allow the practitioners and administrators of these systems to develop data-backed best practices for ensuring high availability and utilization for their clusters. The resulting large, public data repository consisting of data from clusters with diverse workloads spanning traditional high-performance computing, modern accelerator-based computing (for example on graphics processing units (GPUs)), and cloud-style applications will allow the systems research community to consider forward-looking research questions based on real system data. The project will train a cadre of students in data analysis on live production systems and this will provide them with a unique learning experience, interfacing with a variety of stakeholders.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/15/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/20/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2016608</AwardID>
+<Investigator>
+<FirstName>Richard</FirstName>
+<LastName>Evans</LastName>
+<EmailAddress>rtevans@tacc.utexas.edu</EmailAddress>
+<StartDate>08/15/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at Austin</Name>
+<CityName>Austin</CityName>
+<ZipCode>787595316</ZipCode>
+<PhoneNumber>5124716424</PhoneNumber>
+<StreetAddress>3925 W Braker Lane, Ste 3.340</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7359</Code>
+<Text>CCRI-CISE Cmnty Rsrch Infrstrc</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7359</Code>
+<Text>COMPUTING RES INFRASTRUCTURE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+</Appropriation>
+</Award>
+</rootTag>

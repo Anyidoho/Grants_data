@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>FW-HTF-P: Building a Skilled Technological Workforce in the Hospitality Service Industry of the Future</AwardTitle>
+<AwardEffectiveDate>08/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>130000.00</AwardTotalIntnAmount>
+<AwardAmount>130000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040000</Code>
+<Directorate>
+<Abbreviation>EHR</Abbreviation>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alexandra Medina-Borja</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This Future of Work at the Human-Technology frontier planning grant focuses on creating new ways for hospitality workers to shape how automation will affect their industry and their jobs.  It has been widely predicted that the hospitality industry will experience significant job shifts in the coming decades. Automation plays a key role in causing these shifts, with examples including self-service kiosks, various applications of robotics, customer-facing AI, automated operations, and food preparation technologies. Such automation is already displacing many jobs in the hospitality industry. Although new jobs will be developed in the future, many others will be eliminated, and the need for new skill sets is rising. In the hospitality and service industries, automation has already affected hotel room check-in, cashiering, cleaning processes, bartending, and food service. This situation is changing even more rapidly as the work shifts in response to new standards around COVID-19 safety. Nearly 90% of hospitality workers lost work at least temporarily during the pandemic and they lack ways to envision and reap the positive impacts of technology innovation. &lt;br/&gt;&lt;br/&gt;The research team of experts in robotics, policy, economics, human-computer interaction, and organizational dynamics seeks to mitigate this growing problem by allowing hospitality workers to partner with and benefit from the future of automation and to maximize opportunities and positive outcomes for all of its stakeholders.  The project will create generalizable knowledge through a series of workshops that bring together researchers, policy experts, union leaders and members, and stakeholders from leading hospitality schools. Specifically, the research team will assess the current state of hospitality services through a broad literature review, conduct workshops with key stakeholders, collectively explore technology innovations, and develop a strategic roadmap for future collaboration around automation technologies in the hospitality industry. This project has been funded by the NSF Future of Work at the Human-Technology Frontier cross-directorate program to promote deeper basic understanding of the interdependent human-technology partnership in work contexts by advancing design of intelligent work technologies that operate in harmony with human workers.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/19/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2026537</AwardID>
+<Investigator>
+<FirstName>Chinmay</FirstName>
+<LastName>Kulkarni</LastName>
+<EmailAddress>chinmay007@gmail.com</EmailAddress>
+<StartDate>08/19/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mark</FirstName>
+<LastName>Kamlet</LastName>
+<EmailAddress>kamlet@cmu.edu</EmailAddress>
+<StartDate>08/19/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>George</FirstName>
+<LastName>Kantor</LastName>
+<EmailAddress>kantor@ri.cmu.edu</EmailAddress>
+<StartDate>08/19/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Howard</FirstName>
+<LastName>Choset</LastName>
+<EmailAddress>choset@cs.cmu.edu</EmailAddress>
+<StartDate>08/19/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jodi</FirstName>
+<LastName>Forlizzi</LastName>
+<EmailAddress>forlizzi@cs.cmu.edu</EmailAddress>
+<StartDate>08/19/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Carnegie-Mellon University</Name>
+<CityName>PITTSBURGH</CityName>
+<ZipCode>152133815</ZipCode>
+<PhoneNumber>4122688746</PhoneNumber>
+<StreetAddress>5000 Forbes Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>103Y</Code>
+<Text>FW-HTF Futr Wrk Hum-Tech Frntr</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>063Z</Code>
+<Text>FW-HTF Futr Wrk Hum-Tech Frntr</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+</Appropriation>
+</Award>
+</rootTag>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Upgrade of an Electron Backscatter Diffraction (EBSD) System to Establish a Center for State-of-the-Art Microstructural Analyses</AwardTitle>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>165527.00</AwardTotalIntnAmount>
+<AwardAmount>165527</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030000</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EAR</Abbreviation>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>David Lambert</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award will fund the upgrade of an electron backscatter diffraction system housed at the Marine Biological Laboratory (MBL) in Woods Hole, MA. The upgraded system will facilitate cutting-edge research into the microscopic properties of Earth materials, foster collaboration among MBL and the Woods Hole Oceanographic Institution (WHOI), and establish WHOI/MBL as a regional center for state-of-the-art electron backscatter diffraction analyses. Electron backscatter diffraction has proven invaluable for examining the structure and composition of rocks, minerals, metals, and biominerals. The upgraded instrumentation will form a core component in the research program of the principle investigator, who is a new junior faculty member at WHOI.&lt;br/&gt;&lt;br/&gt;Numerous geodynamic phenomena arise from the angstrom-to centimeter-scale creep of rocks and minerals. To understand Earth?s interior dynamics, electron backscatter diffraction is routinely used to quantify lattice preferred orientations, grain sizes, mis-orientations, and mineral phase distributions, and thereby examine the micro-mechanical properties of deformed rocks. Equally, insights into biomineralization, coral reef growth, volcanic eruption dynamics, magma flow, meteorite formation, and impact metamorphism may be gleaned from electron backscatter diffraction analyses of Earth and planetary materials. Within the fields of materials science and engineering, recent technological innovations have afforded remarkable improvements in electron backscatter diffraction-based methods. This award will support the upgrade and acquisition of cutting-edge electron backscatter diffraction equipment, including: 1) a CMOS-based electron backscatter diffraction detector, capable of collecting 3000 data points per second; 2) a software license to enable high-angular-resolution (HR-) electron backscatter diffraction analyses; and 3) sample holders for high-spatial-resolution Transmission Kikuchi Diffraction (TKD) analyses.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/30/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/30/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2003389</AwardID>
+<Investigator>
+<FirstName>Andrew</FirstName>
+<LastName>Cross</LastName>
+<EmailAddress>across@whoi.edu</EmailAddress>
+<StartDate>06/30/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Woods Hole Oceanographic Institution</Name>
+<CityName>WOODS HOLE</CityName>
+<ZipCode>025431041</ZipCode>
+<PhoneNumber>5082893542</PhoneNumber>
+<StreetAddress>183 OYSTER POND ROAD</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1580</Code>
+<Text>Instrumentation &amp; Facilities</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1580</Code>
+<Text>INSTRUMENTATION &amp; FACILITIES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

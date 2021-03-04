@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Quantizations and Double Affine Representation Theory</AwardTitle>
+<AwardEffectiveDate>06/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>560000.00</AwardTotalIntnAmount>
+<AwardAmount>152138</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>James Matthew Douglass</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Representation theory is broadly understood as a study of symmetry. More precisely, it is  a study of ways for a given algebraic object to be realized concretely via linear symmetries. Quantization means a passage from Classical Physics to Quantum Physics. An interplay between Representation theory and Quantization has been, and still is, of enormous importance for both mathematics and physics. This is a project to both solve some long-tanding classical problems at the interface of Representation theory and Quantization and to uncover and study a new kind of "double affine" symmetry. The principal goals are to fully describe special kinds of symmetries arising from Quantization and determine their crucial numerical characteristics. This project provides research training opportunities for graduate students. &lt;br/&gt;&lt;br/&gt;This project consists of two parts. The first part centers around the Orbit method, an idea going back to Kirillov in the 1960's, that suggests that interesting representations should be constructed from geometric data related to suitable group actions. The PI plans to classify quantizations of equivariant covers of nilpotent orbits in classical Lie algebras and use this classification to solve several important problems in Lie representation theory. The PI also plans to classify certain interesting Harish-Chandra modules. The second part concentrates on the study of the representation theory of double affine type including that of the rational Cherednik algebras over fields of large positive characteristic and of quantum affine algebras of type A. The primary goal of this part of the project is to obtain character formulas for the corresponding categories.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/06/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/06/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2001139</AwardID>
+<Investigator>
+<FirstName>Ivan</FirstName>
+<LastName>Loseu</LastName>
+<EmailAddress>ivan.loseu@yale.edu</EmailAddress>
+<StartDate>04/06/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Yale University</Name>
+<CityName>New Haven</CityName>
+<ZipCode>065208327</ZipCode>
+<PhoneNumber>2037854689</PhoneNumber>
+<StreetAddress>Office of Sponsored Projects</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<StateCode>CT</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1264</Code>
+<Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+</Appropriation>
+</Award>
+</rootTag>

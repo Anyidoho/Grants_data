@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Chalcogenide Polymer Infrared Optics</AwardTitle>
+<AwardEffectiveDate>06/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>255870.00</AwardTotalIntnAmount>
+<AwardAmount>280870</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Steven Konsek</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to make infrared (IR) thermal imaging more affordable and widespread.  Thermal imaging is used for firefighting, warfighter night vision, mechanical monitoring, and automotive safety, in particular. The majority of pedestrian fatalities could potentially be prevented by automotive night vision cameras; however, current infrared lenses are cost-prohibitive, limiting their adoption.  The proposed project will advance the development of a transparent IR material that can lower imaging costs.  Benefits will include lighter night vision goggles in defense applications, greater deployment of thermal imaging in automotive markets, and more accurate machine monitoring for industrial applications.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project aims to develop a new class of chalcogenide optical polymers for infrared imaging applications.  Most mass-produced lenses, such as those in smartphones, are made of polymers that are transparent in the visible but opaque in the IR.  The proposed sulfur-based polymer is based on new chemical synthesis and infrared fingerprint engineering.  The proposed project will address the trade space defined by infrared transparency, encouraging higher chalcogen content; and thermomechanical stability and processability, encouraging higher organic content.  In addition, the material's plastic nature enables novel optical designs that could potentially employ state-of-the-art freeform concepts currently rarely used in infrared imaging.  Such designs can lead to more compact, lighter, and higher performance optical systems for a range of infrared imaging applications.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/21/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/20/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2016089</AwardID>
+<Investigator>
+<FirstName>Jay</FirstName>
+<LastName>Liebowitz</LastName>
+<EmailAddress>jay@norcontech.com</EmailAddress>
+<StartDate>06/05/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Tristan</FirstName>
+<LastName>Kleine</LastName>
+<EmailAddress>tristankleine@gmail.com</EmailAddress>
+<StartDate>05/21/2020</StartDate>
+<EndDate>06/05/2020</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>NORCON TECHNOLOGIES, LLC</Name>
+<CityName>Tucson</CityName>
+<ZipCode>857130000</ZipCode>
+<PhoneNumber>5203701255</PhoneNumber>
+<StreetAddress>3158 S. Chrysler Ave</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8091</Code>
+<Text>SBIR Outreach &amp; Tech. Assist</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>123E</Code>
+<Text>CENTERS: ADVANCED MATERIALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8021</Code>
+<Text>Materials Engineering</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+</Appropriation>
+</Award>
+</rootTag>

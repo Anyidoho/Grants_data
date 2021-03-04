@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NSF-BSF: Transformation, modulation, and coupling of polariton and exciton quantum fluids</AwardTitle>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>561102.00</AwardTotalIntnAmount>
+<AwardAmount>190164</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tom Oder</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Nontechnical Abstract  &lt;br/&gt;This collaborative project brings together an international team and studies how light interacts with electrons when trapped in macroscopic-scale semiconductor structures. These interactions lead to very intriguing phenomena which can be exploited for making quantum devices with remarkable functionalities. The interactions will be created by directing light signals onto semiconductor microscale structures kept at very low temperatures and on which ultra-short voltage pulses are applied. Knowledge gained from this project provides new ways of transporting, storing, and using these exotic signals for building complex circuits, switches, and other novel quantum photonic technologies. The research project also trains graduate, undergraduate and high-school students to be the next generation of leaders in science and industry. It includes outreach activities for K-12 and recruits underrepresented students in this multi-disciplinary research effort.&lt;br/&gt;&lt;br/&gt;Technical Abstract&lt;br/&gt;Exciton-polaritons are artificial quasi-particles in the form of a quantum super-position of light and of electrons, trapped in semiconductor structures. They are known to behave like an ultra-lightweight gas of artificial atoms, combining the properties of both light and massive particles.  It was shown that at low temperatures these quasi-particles condense to a collective quantum ground state known as a Bose-Einstein condensate. In this project, new methods will be developed to transform the coherent polariton quantum fluid into a fluid of dipolar exciton. These dipolar excitons are long-lived and strongly interacting atom-like particles in a semiconductor, featuring rich many-body physics phenomena that have just begun to be understood. The ability to perform transformations between two very different types of quantum fluids, one which is strongly admixed with light and weakly interacting, and one which is much more matter-like and strongly interacting, will allow integrating the different, complementary features of each of the fluids, and will open up a wide range of new ways to manipulate quantum fluids of matter and of light in semiconductors. The ability to modulate the collective ground states can lead to new insights on the complex physics of quantum fluids.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/30/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/30/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2004287</AwardID>
+<Investigator>
+<FirstName>Loren</FirstName>
+<LastName>Pfeiffer</LastName>
+<EmailAddress>loren@princeton.edu</EmailAddress>
+<StartDate>04/30/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Hui</FirstName>
+<LastName>Deng</LastName>
+<EmailAddress>dengh@umich.edu</EmailAddress>
+<StartDate>04/30/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Regents of the University of Michigan - Ann Arbor</Name>
+<CityName>Ann Arbor</CityName>
+<ZipCode>481091274</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress>3003 South State St. Room 1062</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1710</Code>
+<Text>CONDENSED MATTER PHYSICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>054Z</Code>
+<Text>(MGI) Materials Genome Initiative</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7203</Code>
+<Text>QUANTUM INFORMATION SCIENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7504</Code>
+<Text>NSF-INTERNAT COOP IN MATERIALS RES-OTHER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8990</Code>
+<Text>Optics and Photonics</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+</Appropriation>
+</Award>
+</rootTag>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Directed protein evolution: Creating high affinity protein ligands for controlling economically detrimental plant pathogens and pests</AwardTitle>
+<AwardEffectiveDate>06/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>224594.00</AwardTotalIntnAmount>
+<AwardAmount>249594</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Erik Pierstorff</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact of this Small Business Innovation Research (SBIR) Phase I project is to create next generation crop products. Crop loss due to pathogens has been estimated to be approximately 20-40% of total possible yield.  The proposed technology is an environmentally-friendly way to combat pests, even if they evolve to be resistant to conventional methods. This technology can be used for other life sciences applications, including special cancer treatments. &lt;br/&gt;&lt;br/&gt;The proposed project is to generate new and durable resistant crops by producing ligands that can bind to virulence factors of plant pathogens to make them malfunction. The novel protein evolution technology is a rapid and automated platform for developing high-affinity protein ligands. It comprises a self-sustaining, iterative bacterial culture system that drives the emergence of new protein and peptide sequences expressed by the M13 bacteriophage. Once pathogens or pest develop resistance for the ligands we generate, new and stronger binding ligands could be quickly evolved to control them.  The technology is broadly applicable to developing optimized protein sequences for virtually any affinity interaction.  Other applications include protein purification, antibody optimization as well as engineering novel receptors for cancer immunotherapy.  &lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/07/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/20/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2014621</AwardID>
+<Investigator>
+<FirstName>Jiarui</FirstName>
+<LastName>Li</LastName>
+<EmailAddress>ljrluck@gmail.com</EmailAddress>
+<StartDate>05/07/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>INNATRIX, INC.</Name>
+<CityName>CHAPEL HILL</CityName>
+<ZipCode>275990001</ZipCode>
+<PhoneNumber>9193708434</PhoneNumber>
+<StreetAddress>250 BELL TOWER DR</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8091</Code>
+<Text>SBIR Outreach &amp; Tech. Assist</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>144E</Code>
+<Text>Synthetic biology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8038</Code>
+<Text>Biotechnology</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+</Appropriation>
+</Award>
+</rootTag>

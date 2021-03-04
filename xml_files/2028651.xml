@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RAPID: Point-of-Need Detection of COVID-19 using CRISPR-Enabled Cell-Free Synthetic Biology</AwardTitle>
+<AwardEffectiveDate>05/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>200000.00</AwardTotalIntnAmount>
+<AwardAmount>200000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>MCB</Abbreviation>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>David Rockcliffe</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The COVID-19 pandemic highlights a limitation of laboratory-based testing for the SARS-CoV-2 coronavirus in that it does not scale with a sudden and dramatic increase in volume. Laboratory tests, often based on quantitative polymerase chain reaction (qPCR), require equipment, time, expertise and infrastructure, resulting in severe logistical challenges and ultimately resulting in inadequate testing. There is a critical need for diagnostics that can be rapidly deployed at the point-of-need (PON) to enable global surveillance of infectious diseases. Towards addressing this need, this project incorporates a new CRISPR-based approach called CRISPR Isothermal Amplification (CIA) that enables one-pot diagnostic amplification and detection of the SARC-CoV-2 virus at ambient temperatures. This scheme builds off innovations in cell-free synthetic biology and biosensing that enable rapid, low-cost, and PON detection of chemical contaminants and viral pathogens. The platform technology under development could serve several purposes from a quick-screen technology to inform triage and isolation strategies, to a clinical test used on the front lines. There is also the potential for the technology to eventually serve as an at-home test to help inform which subpopulations and sectors of the economy could safely return to productivity towards the end of the pandemic. In addition, the test has the flexibility to be rapidly reprogrammed to detect new emerging pathogens. This work is pursued in close collaboration with a commercial partner, Stemloop, Inc., in order to quickly transition the technology for manufacturing, deployment, and distribution.&lt;br/&gt;&lt;br/&gt;This project employs a new CRISPR Isothermal Amplification (CIA) approach to enable a one-pot amplification and detection of the SARS-CoV-2 genome in an assay for the virus. CIA uses programmed Cas 13 systems to recognize SARS-CoV-2 RNA, trigger nucleic acid amplification and create a detectable output simultaneously in the same reaction where amplification occurs. Computational models of each process are developed alongside the experimental systems and used to guide optimizations to achieve attomolar sensitivity.  The method is unique in that no DNA primers are required. The amplification and detection processes are designed to take less than one hour and cost less than one dollar per test to manufacture.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/17/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/17/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2028651</AwardID>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Jewett</LastName>
+<EmailAddress>jewettlab@gmail.com</EmailAddress>
+<StartDate>04/17/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Julius</FirstName>
+<LastName>Lucks</LastName>
+<EmailAddress>jblucks@northwestern.edu</EmailAddress>
+<StartDate>04/17/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Northwestern University</Name>
+<CityName>Chicago</CityName>
+<ZipCode>606114579</ZipCode>
+<PhoneNumber>3125037955</PhoneNumber>
+<StreetAddress>750 N. Lake Shore Drive</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>158Y</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1N20</Code>
+</Appropriation>
+</Award>
+</rootTag>

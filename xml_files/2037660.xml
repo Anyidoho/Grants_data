@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RAPID: The effects of wildfire on an ecohydrological experiment and the role of abiotic drivers of resistance and resilience in sagebrush-steppe landscapes</AwardTitle>
+<AwardEffectiveDate>07/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>199733.00</AwardTotalIntnAmount>
+<AwardAmount>199733</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kendra McLauchlan</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Wildfire frequency and intensity are rising across the western United States. In the Great Basin region, fire promotes invasion of non-native annual grasses that further perpetuate the fire cycle. Fire and plant invasion threaten the habitat of many native species, the productivity of grasslands, and human livelihood. Understanding how fire affects plant species, soil resources, and ecosystem recovery following fire remains limited. In the sagebrush steppe ecosystem of the western United States, identifying the plant, soil, and climate conditions that control post-fire recovery would help pinpoint what makes these ecosystems resilient or vulnerable to fire. This project will evaluate how differences in soil water and nutrient availability before a fire determine the balance of native and invasive plant species after a fire. The dynamics of soil nutrients and water might explain why some sites are more likely to become invaded than other sites. There are strong connections between the researchers and rangeland managers in the region. The knowledge acquired in this study will help inform our understanding of fire-prone grasslands in the western United States. This project will train several early-career researchers, including a postdoctoral associate and undergraduate students.&lt;br/&gt;&lt;br/&gt;This project will study a 25-year ecohydrological experiment in Idaho that manipulates moisture, soil depth, and plant community composition. The experiment burned in a large 2019 wildfire, providing a unique opportunity to test how pre-fire abiotic and biotic conditions influence the resistance to invasive species after wildfire. This experiment will test a key hypothesis about how non-native annual grasses invade native ecosystems. The expectation is that the primary establishment of non-native grasses causes further changes to the soil that change the ecosystem. To test this hypothesis, several measurements need to be made immediately during the initial vegetation recovery phase: (1) vegetation composition and cover, (2) soil water and nutrient availability and (3) soil water and nutrient movement. These immediate measurements will help understand what happens to soil nitrogen and water availability as bare soil is recolonized by plants. This will allow mechanistic insight into what drives differences in plant community recovery in sagebrush steppe ecosystems.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/07/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/07/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2037660</AwardID>
+<Investigator>
+<FirstName>Marie-Anne</FirstName>
+<LastName>de Graaff</LastName>
+<EmailAddress>marie-annedegraaff@boisestate.edu</EmailAddress>
+<StartDate>07/07/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Boise State University</Name>
+<CityName>Boise</CityName>
+<ZipCode>837250001</ZipCode>
+<PhoneNumber>2084261574</PhoneNumber>
+<StreetAddress>1910 University Drive</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Idaho</StateName>
+<StateCode>ID</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7381</Code>
+<Text>Ecosystem Science</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

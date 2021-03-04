@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps:  A cloud-based searchable catalog to link geographically and population diverse patient genomic, phenotypic and clinical data</AwardTitle>
+<AwardEffectiveDate>06/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth Shuman</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project is to develop a cloud-based, searchable catalog to provide access to global patient data that can be used to provide improved treatments for patients.  Currently, there are many questions that require the ability to link and analyze patient data. The problem is that the majority of patient data currently used comes from the same few institutions in Northern Europe that lack geographic or population diversity. The result is that the patient data has limited use for questions related to populations that do not derive from Northern Europe. The patient dataset under development will allow academic and commercial institutions to ask questions that link patient data from around the world to get answers that are applicable to all patient populations. The data will be available to physicians treating patients to ensure more precise treatments and prescription of drugs.  The data also will allow research institutions and commercial enterprises to develop drugs and speed their delivery to market by shortening clinical trials.  &lt;br/&gt;&lt;br/&gt;This I-Corps project is based on the development of a single cloud-based, searchable data catalog containing patient genomic, phenotypic and clinical data from geographically diverse populations and a research environment within which the data can be analyzed. The ability to use patient data from geographically diverse patient populations will allow for the ability to determine patient-specific treatments with a high degree of precision, not just for those with a Northern European background, but patients everywhere. Academic and commercial institutions will be able to improve their research and expedite results by analyzing patients' data from geographically diverse regions to answer questions in a few hours or days that currently takes years. It will allow commercial institutions to expedite therapeutic research and streamline clinical trials. The result will be more drugs making it through clinical trials for more diseases in a shorter time for less money. The patient data set also will allow commercial institutions to find patients with rare diseases using genetic analysis from different geographies, instead of the current practice of extrapolating based on a doctor-determined prognosis. The goal is to improve medical research and patient treatment where patient data is used.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/13/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/13/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2029812</AwardID>
+<Investigator>
+<FirstName>Julian</FirstName>
+<LastName>Whitelegge</LastName>
+<EmailAddress>jpw@chem.ucla.edu</EmailAddress>
+<StartDate>07/13/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Los Angeles</Name>
+<CityName>LOS ANGELES</CityName>
+<ZipCode>900951406</ZipCode>
+<PhoneNumber>3107940102</PhoneNumber>
+<StreetAddress>10889 Wilshire Boulevard</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+</Appropriation>
+</Award>
+</rootTag>

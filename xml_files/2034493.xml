@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Broadening the Academic Data Science Community</AwardTitle>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>60000.00</AwardTotalIntnAmount>
+<AwardAmount>60000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sylvia Spengler</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The Academic Data Science Alliance (ADSA) was created to enable the broad dissemination of new approaches and best practices in data science to colleges and universities nationwide. ADSA’s goals are to provide community resources and events for academic data scientists at any level to share research advances and educational approaches. ADSA also provides a collaboration space for university leadership to share their challenges and success stories around programs for data science. ADSA supports a peer network of early career academic data scientists to forge collaborations and implement novel training approaches on their campuses.  This project supports the ADSA Annual Meeting and the Data Science Leadership Summit. &lt;br/&gt;&lt;br/&gt;The ADSA Annual Meeting provides an opportunity for academic researchers at any level (graduate students, postdocs, staff researchers and faculty) to collectively address common issues in data science research, education and training, program administration, and advocacy for data scientist career paths in higher education. The Data Science Leadership Summit convenes heads of current and nascent data science programs, and faculty interested in creating new initiatives on their campuses: to form an academic community for data science; to share best practices where they face similar challenges and opportunities; and to take collective responsibility in preparing next-generation data scientists to contribute in the best interests of society. The ADSA Career Development Network provides a peer-network for early career academic data scientists to support each other in their professional development.  Outcomes from these meetings are provided online for public consideration.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/10/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2034493</AwardID>
+<Investigator>
+<FirstName>Micaela</FirstName>
+<LastName>Parker</LastName>
+<EmailAddress>micaela@academicdatascience.org</EmailAddress>
+<StartDate>09/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Ronin Institute for Independent Scholarship Incorporated</Name>
+<CityName>Montclair</CityName>
+<ZipCode>070432314</ZipCode>
+<PhoneNumber>9737072485</PhoneNumber>
+<StreetAddress>127 Haddon Place</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7484</Code>
+<Text>IIS Special Projects</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7364</Code>
+<Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+</Appropriation>
+</Award>
+</rootTag>

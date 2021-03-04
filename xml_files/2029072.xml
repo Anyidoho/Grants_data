@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RAPID: Investigating Performance of an Online Platform for Matching Supply and Demand for Medical Equipment During the COVID-19 Pandemic</AwardTitle>
+<AwardEffectiveDate>05/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>100000.00</AwardTotalIntnAmount>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Georgia-Ann Klutke</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The COVID-19 pandemic has led to a sudden surge in demand for medical supplies, including personal protective equipment (PPE) necessary to protect first responders and healthcare workers.  This surge has exposed gaps in the established supply chains for procurement of such equipment, leading medical facilities, particularly those that lack the scale to buy equipment in large quantities, to face shortages. In response, small-scale suppliers have emerged that can redirect idle design and manufacturing capacity for non-essential equipment to production of critical medical equipment.  In collaboration with the University of Wisconsin Makerspace, the PIs have created an online platform that has enabled this fragmented and inherently temporary supply chain to efficiently match small-scale suppliers with hospitals in need of supplies.  This Rapid Response Research (RAPID) project supports valuable data collection efforts about participating manufacturers, medical facilities, and overall system performance of the online matching platform.  These data will improve understanding of the role that pop-up supply chains can play in addressing supply shortages during pandemics and other nationwide emergencies.&lt;br/&gt;&lt;br/&gt;The online platform is driven by an optimization algorithm that efficiently matches buyers with sellers by order size, price, lead time, etc. The PIs will collect and archive data from the platform on manufacturer characteristics (size, capacity, lead times, location, etc.), medical facility characteristics (size, type, requirements, urgency, etc.), and match logistics available through the platform, and will perform follow-up surveys to gather information on impact of the matching system and the effects on business operations.  These data will be used to understand performance of the matching platform during the COVID-19 pandemic, identify factors that influence whether a recommended match leads to a successful transaction, understand the impact of quality variability on pop-up supply chain performance, and study the impact of improving the optimization algorithm on supply chain performance.  The project will involve a graduate student who will gain valuable experience in designing optimization methods for effective supply chain design.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/20/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/20/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2029072</AwardID>
+<Investigator>
+<FirstName>Justin</FirstName>
+<LastName>Boutilier</LastName>
+<EmailAddress>jboutilier@wisc.edu</EmailAddress>
+<StartDate>04/20/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Auyon</FirstName>
+<LastName>Siddiq</LastName>
+<EmailAddress>auyon.siddiq@anderson.ucla.edu</EmailAddress>
+<StartDate>04/20/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Wisconsin-Madison</Name>
+<CityName>MADISON</CityName>
+<ZipCode>537151218</ZipCode>
+<PhoneNumber>6082623822</PhoneNumber>
+<StreetAddress>21 North Park Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>158Y</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8023</Code>
+<Text>Health Care Enterprise Systems</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1N20</Code>
+</Appropriation>
+</Award>
+</rootTag>

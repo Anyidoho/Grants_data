@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NSF Convergence Accelerator Track C: Interconnecting Quantum Computers for the Next-Generation Internet</AwardTitle>
+<AwardEffectiveDate>09/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>930000.00</AwardTotalIntnAmount>
+<AwardAmount>930000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>01060500</Code>
+<Directorate>
+<Abbreviation>O/D</Abbreviation>
+<LongName>Office Of The Director</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OIA</Abbreviation>
+<LongName>Office of Integrative Activities</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pradeep Fulay</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The NSF Convergence Accelerator supports use-inspired, team-based, multidisciplinary efforts that address challenges of national importance and will produce deliverables of value to society in the near future.  Just as the internet has transformed virtually every aspect of our lives by enabling connectivity amongst a myriad of users in different geographical locations, a quantum internet could have a similar impact.  A quantum internet would distribute quantum computing capabilities securely and broadly to a broad user base (academic and nonacademic).  Those capabilities could enable advances in various applications from cybersecurity, to data analytics, to medicine.  This program seeks to merge quantum computers over a quantum internet, whilst leveraging the current internet infrastructure.  &lt;br/&gt;&lt;br/&gt;The primary goal of this program is to enable trapped ion quantum computers to communicate over the internet.  The main technical thrusts include: i) developing a high efficiency qubit interface, ii) developing a chip scale quantum reconfigurable add-drop multiplexer, and iii) devising protocols to leverage the hardware to realize a full-scale quantum network.  The network will use Ytterbium ions for memory (data) qubits and Barium ions for the optical (interconnect) qubit.  This project is focused on developing long range (kilometer distance) quantum interconnects between remote quantum computing sites.  As such, the Mid-Atlantic Regional Quantum Internet (MARQI) network, will be formed.  This demonstration will show secure and anonymous communication beyond the current state of the art.  The ability to connect quantum computers over the internet will provide a major technological advancement. Outreach efforts to develop educational modules for the general public and industry that will educate them on the current state and future potential of quantum technology is planned.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/09/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2040695</AwardID>
+<Investigator>
+<FirstName>Saikat</FirstName>
+<LastName>Guha</LastName>
+<EmailAddress>saikat@email.arizona.edu</EmailAddress>
+<StartDate>09/09/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Dirk</FirstName>
+<LastName>Englund</LastName>
+<EmailAddress>englund@mit.edu</EmailAddress>
+<StartDate>09/09/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Edo</FirstName>
+<LastName>Waks</LastName>
+<EmailAddress>edowaks@umd.edu</EmailAddress>
+<StartDate>09/09/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Norbert</FirstName>
+<LastName>Linke</LastName>
+<EmailAddress>linke@umd.edu</EmailAddress>
+<StartDate>09/09/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Tripti</FirstName>
+<LastName>Sinha</LastName>
+<EmailAddress>tsinha@umd.edu</EmailAddress>
+<StartDate>09/09/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Maryland, College Park</Name>
+<CityName>College Park</CityName>
+<ZipCode>207425141</ZipCode>
+<PhoneNumber>3014056269</PhoneNumber>
+<StreetAddress>3112 LEE BLDG 7809 Regents Drive</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+</Institution>
+<ProgramElement>
+<Code>131Y</Code>
+<Text>Convergence Accelerator Resrch</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+</Appropriation>
+</Award>
+</rootTag>

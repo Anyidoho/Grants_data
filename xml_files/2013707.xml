@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Integrated propulsion solution to enable reusable upper stages of space vehicles</AwardTitle>
+<AwardEffectiveDate>06/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>225000.00</AwardTotalIntnAmount>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anna Brady-Estevez</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) project is to advance the development of reusable vehicles for space. Current space launch solutions use multi-million-dollar rockets discarded after a single use, increasing launch costs and limiting availability. Even the best solutions reuse only a portion of the rocket a handful of times, resulting in launch costs of $5,000/kg and higher. Rockets offering 100% reusability and operating like aircraft reduce cost, availability concerns, and service potential of space launch vehicles. The proposed technology advances reusable space launch vehicles.&lt;br/&gt;&lt;br/&gt;This SBIR Phase I project proposes to develop new technology enabling space launch vehicles to re-enter the atmosphere and land propulsively at a target destination for reuse. Importantly, robust design solutions are proposed so that extensive refurbishment efforts are not required. Technical challenges include the combination of high-efficiency propulsion, rigorous thermal protection, and low structural mass needed to complete in-space mission objectives. This research investigates a new technical solution combining fundamental vehicle performance with system-level efficiencies to enable reusable second-stage vehicle designs. The optimization parameters include environmental conditions, energy balance, performance predictions, component sizing, and mechanical design elements.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/22/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/22/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2013707</AwardID>
+<Investigator>
+<FirstName>Andrew</FirstName>
+<LastName>Lapsa</LastName>
+<EmailAddress>andy@stoke-space.com</EmailAddress>
+<StartDate>05/22/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>STOKE SPACE TECHNOLOGIES, INC.</Name>
+<CityName>RENTON</CityName>
+<ZipCode>980580617</ZipCode>
+<PhoneNumber>2062407647</PhoneNumber>
+<StreetAddress>18628 SE 180TH ST</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<StateCode>WA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8034</Code>
+<Text>Hardware Components</Text>
+</ProgramReference>
+</Award>
+</rootTag>

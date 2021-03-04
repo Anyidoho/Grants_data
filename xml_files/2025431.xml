@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER: Examining Women STEM Faculty's Participation in Entrepreneurship Programs</AwardTitle>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>299775.00</AwardTotalIntnAmount>
+<AwardAmount>299775</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rebecca Shearman</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This EAGER project engages in research that has the potential to be transformative in the field of innovation. The project explores entrepreneurship education programs (EEPs) from a pathways-to-entry perspective to understand the influencers impacting women faculty’s participation in these educational programs and to assist in the development of EEPs that engages a broader women STEM faculty population.&lt;br/&gt;&lt;br/&gt;Innovation is one of the most important drivers of economic growth and prosperity in the 21st century, and universities nationwide are fostering entrepreneurship and innovation in STEM fields through EEPs.  It is imperative to assure that the benefits of EEPs are reaped by the entire STEM faculty population. While diversity-related issues are increasingly being investigated, STEM education research fails to examine how exclusionary structures perpetuate in our education. This also holds true for entrepreneurship education which significantly lacks research that takes participation of women into account. To address this gap, the proposed project will examine faculty participation in EEPs, particularly with an emphasis on women and the intersectionality of gender and race. It will focus on two research questions: 1) Why do Women STEM faculty choose to engage, or not engage, in EEPs? and 2) How do these reasons differ with the intersection of race? The purpose of the project is to leverage research in entrepreneurship assessment and education to explore ways to foster a larger, more diverse community of entrepreneurially-minded, innovative faculty by broadening participation in EEPs to women.&lt;br/&gt;&lt;br/&gt;The outcomes of this project will provide the entrepreneurship education community with research-based insights for developing EEPs that are inclusive and offer actionable guidance to EEP stakeholders for promoting the participation of women STEM faculty.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/29/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/29/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2025431</AwardID>
+<Investigator>
+<FirstName>Aileen</FirstName>
+<LastName>Huang-Saad</LastName>
+<EmailAddress>aileenhs@umich.edu</EmailAddress>
+<StartDate>06/29/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Prateek</FirstName>
+<LastName>Shekhar</LastName>
+<EmailAddress>pshekhar@njit.edu</EmailAddress>
+<StartDate>06/29/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Regents of the University of Michigan - Ann Arbor</Name>
+<CityName>Ann Arbor</CityName>
+<ZipCode>481091274</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress>3003 South State St. Room 1062</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1714</Code>
+<Text>Special Projects - CNS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+</Appropriation>
+</Award>
+</rootTag>

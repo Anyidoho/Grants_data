@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: Expanding the Reach of Industrial Career Training for Graduate Students</AwardTitle>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>26601.00</AwardTotalIntnAmount>
+<AwardAmount>26601</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Swatee Naik</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The 16th annual Graduate Student Mathematical Modeling Camp (GSMMC) will be held June 9–12, 2021 at the University of Delaware, followed the week after by the 36th annual Mathematical Problems in Industry (MPI) workshop, June 14–18, 2021 at the University of Vermont.  GSMMC is a mentored, problem-solving workshop, at which small teams of Ph.D. students from across the U.S. are guided through successful mathematical modeling of real-world problems presented by faculty or experienced postdoctoral mentors. Under careful mentoring, student participants build their modeling, teamwork and presentation skills during the week: via the teamwork on modeling and simulating the problems; through the final team presentations made at the end of the week; and in writing the final reports that are produced. Training activities also include numerical simulations and the preparation of a final report outlining their discoveries.  These skills are put to use and consolidated the following week at MPI, where industrial participants present immediate modeling challenges facing their industries, on which academic participants (faculty, postdocs, and the Ph.D. students from GSMMC) work. Significant progress on the industrial problems is usually made, and Ph.D. student participants take the lead in presenting the findings to the industrial participants from industry in final presentations at the week's end. In addition to building their skillsets and resumes, student participants are exposed to valuable networking interactions with a range of industrial participants.&lt;br/&gt;&lt;br/&gt;The GSMMC-MPI program is designed to integrate interdisciplinary research and education for graduate students. The GSMMC is focused on graduate student education and training: its chief intellectual merit lies in the development and analysis, by students, of the mathematical models for the problems presented. Problems are highly interdisciplinary, presenting students with a novel intellectual challenge. With the preparatory training provided by the GSMMC, students are ready for the more open-ended, research-level environment of MPI. The questions posed at MPI challenge participants to design new ways of modeling and analyzing industrial mathematics problems in emerging areas of technology. Mathematical modeling, analytical techniques, numerical simulations, and data analysis must all be used effectively. The collaborative approach to problem solving, which brings together mathematicians ranging from graduate students to experienced faculty, is central to the structure of MPI and provides significant additional training to graduate students, while promoting effective scientific communication. Full details for the Camp may be found at https://www.mathsci.udel.edu/events/conferences/gsmmc-2021, and for MPI at https://mpi2021.w3.uvm.edu/.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/20/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/20/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2016095</AwardID>
+<Investigator>
+<FirstName>Louis</FirstName>
+<LastName>Rossi</LastName>
+<EmailAddress>rossi@math.udel.edu</EmailAddress>
+<StartDate>06/20/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Edwards</LastName>
+<EmailAddress>dedwards@udel.edu</EmailAddress>
+<StartDate>06/20/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Delaware</Name>
+<CityName>Newark</CityName>
+<ZipCode>197160099</ZipCode>
+<PhoneNumber>3028312136</PhoneNumber>
+<StreetAddress>210 Hullihen Hall</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Delaware</StateName>
+<StateCode>DE</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1260</Code>
+<Text>INFRASTRUCTURE PROGRAM</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1271</Code>
+<Text>COMPUTATIONAL MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+</Appropriation>
+</Award>
+</rootTag>

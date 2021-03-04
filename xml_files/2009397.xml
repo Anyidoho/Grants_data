@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Satellite Galaxies as Probes of Local Non-Linear Structure</AwardTitle>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>335395.00</AwardTotalIntnAmount>
+<AwardAmount>335395</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AST</Abbreviation>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Zoran Ninkov</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Models of the formation of galaxies over cosmic time predict that large galaxies should host smaller, satellite galaxies. Observations of these satellites disagree with the number and size predicted by the models. Since these satellites are smaller and fainter than their host galaxies, the number of known systems is small. This project will conduct a survey of nearby host galaxies to get a better census of satellite galaxies and therefore better understand if there is a disagreement between models and observations. The project will also try to improve the standards for admissions to graduate school in astronomy with an effort to increasing diversity in the field. They will also provide public outreach for observational astronomy using the Discovery Channel Telescope.&lt;br/&gt;&lt;br/&gt;The project will use the Sloan Atlas, combined with the SDSS to identify satellite galaxies of 82 host systems. They will also use the Discovery Channel Telescope to increase the number of satellites with known spectroscopic distance. The project will produce a sample of about 1,300 satellite galaxies about these hosts. The sample will be used to perform statistical studies of the intrinsic clustering, spatial anisotropies, and luminosity functions of these satellite galaxies. The results will be compared with the Illustris TNG cosmological simulations. The PI will work with the department to develop a protocol for explicitly including holistic approaches for graduate admissions with the goal of increasing diversity in the graduate student pool. The PI will also host open night observing sessions for the public at Boston University every clear Wednesday night. Additional scientific literacy outreach will be done at the DCT with a 3-day "Space Beyond Earth" event held for BU alumni.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/26/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/26/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2009397</AwardID>
+<Investigator>
+<FirstName>Tereasa</FirstName>
+<LastName>Brainerd</LastName>
+<EmailAddress>brainerd@bu.edu</EmailAddress>
+<StartDate>06/26/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Trustees of Boston University</Name>
+<CityName>BOSTON</CityName>
+<ZipCode>022151300</ZipCode>
+<PhoneNumber>6173534365</PhoneNumber>
+<StreetAddress>881 COMMONWEALTH AVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1217</Code>
+<Text>EXTRAGALACTIC ASTRON &amp; COSMOLO</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1207</Code>
+<Text>OBSERVATIONAL ASTRONOMY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+</Appropriation>
+</Award>
+</rootTag>

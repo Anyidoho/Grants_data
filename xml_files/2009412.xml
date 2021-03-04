@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Lifting the veil on Wolf-Rayet rotation using wind structure: Multi-wavelength and Spectropolarimetric Approaches</AwardTitle>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>302768.00</AwardTotalIntnAmount>
+<AwardAmount>302768</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AST</Abbreviation>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Hans Krimm</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>When a Wolf-Rayet (WR) star goes supernova, its core collapses to form either a black hole or a neutron star. The outcome depends on how fast the WR star was spinning, but this is difficult to measure for WR stars, which are shrouded by their own wind. However, distortions in the wind can form corotating interaction regions (CIRs), which act as clocks and enable the spin period to be determined. Ignace and his team will monitor WR stars to look for CIRs. They will determine the spin period and further interpret these observations using their theoretical models to help us understand how wind features are formed. Undergraduate students will be recruited for a summer research program. Ignace and his team will develop a planetarium show for the general public and local high schools. The show on ?space weather? will include a segment on how CIR?s in the Solar wind can enhance geomagnetic storms. &lt;br/&gt;&lt;br/&gt;The team will enhance an existing Monte Carlo radiative transfer code to characterize how rotational effects can modulate the wind and form CIRs. The comparison of the models to observations with the Echelle SpectroPolarimetric Device for the Observation of Stars on the Canada France Hawaii Telescope will result in a robust picture of the complex structures in WR winds. For the first time, the team will be able to relate electron scattering polarization in thick winds with a model for axisymmetric WR winds, as a function of stellar rotation relative to critical break-up. Modeling both varying and non-varying contributions to polarization is important for measuring periods and constraining mass-loss rates. To complete the picture, the team will model the influence of CIRs on variable IR/radio continuum flux. Polarization probes structures in the inner wind; the long-wavelength continuum probes the asymptotic flow.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/10/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/10/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2009412</AwardID>
+<Investigator>
+<FirstName>Richard</FirstName>
+<LastName>Ignace</LastName>
+<EmailAddress>ignace@etsu.edu</EmailAddress>
+<StartDate>07/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>East Tennessee State University</Name>
+<CityName>Johnson City</CityName>
+<ZipCode>376141707</ZipCode>
+<PhoneNumber>4234396000</PhoneNumber>
+<StreetAddress>P O Box 70565</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<StateCode>TN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1215</Code>
+<Text>STELLAR ASTRONOMY &amp; ASTROPHYSC</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1206</Code>
+<Text>THEORETICAL &amp; COMPUTATIONAL ASTROPHYSICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1207</Code>
+<Text>OBSERVATIONAL ASTRONOMY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+</Appropriation>
+</Award>
+</rootTag>

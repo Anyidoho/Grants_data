@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Conformal Blocks and Affine Grassmannian Associated to Parahoric Group Schemes</AwardTitle>
+<AwardEffectiveDate>06/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>154999.00</AwardTotalIntnAmount>
+<AwardAmount>154999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>James Matthew Douglass</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Representation theory is a branch of algebra studying symmetries, especially symmetries of linear mathematical structures, using groups of invertible matrices. On the other hand, algebraic geometry is based on the use of abstract algebraic techniques, mainly from commutative algebra, for solving geometric problems about the sets of zeros of multivariable polynomials. The research supported by this NSF award is at the crossroads of representation theory and algebraic geometry, to use representation theory to solve geometric problems and to use geometric methods to understand representation theory.&lt;br/&gt;&lt;br/&gt;The research projects center on two main themes. In the first, the PI will develop a theory of conformal blocks for general parahoric group schemes over curves. The research will focus on Pappas-Rapoport conjecture, vanishing conjecture and Verlinde formula for twisted conformal blocks. This will lead to applications in orbifold conformal field theory and geometric Langlands program for parahoric group schemes. For the second theme, the PI will develop connections between the geometry of twisted affine Grassmannian and representation theory.  The geometry of affine Grassmannians can be related to Kac-Moody theory, representation theory of reductive groups and their bases via geometric Satake correspondence, and it also plays crucial role in symplectic duality. The research along this direction will advance the role of twisted affine Grassmannians in Kac-Moody theory, ramified geometric Satake, symplectic duality, and a connection with Springer theory for symmetric spaces.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/30/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>03/30/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2001365</AwardID>
+<Investigator>
+<FirstName>Jiuzu</FirstName>
+<LastName>Hong</LastName>
+<EmailAddress>jiuzu@email.unc.edu</EmailAddress>
+<StartDate>03/30/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of North Carolina at Chapel Hill</Name>
+<CityName>CHAPEL HILL</CityName>
+<ZipCode>275991350</ZipCode>
+<PhoneNumber>9199663411</PhoneNumber>
+<StreetAddress>104 AIRPORT DR STE 2200</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1264</Code>
+<Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+</ProgramElement>
+</Award>
+</rootTag>

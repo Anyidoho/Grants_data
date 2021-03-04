@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Identifying Motivating Factors of Undergraduate Women Pursuing Physics Degrees</AwardTitle>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>260221.00</AwardTotalIntnAmount>
+<AwardAmount>101966</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kathleen McCloud</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award supports the funding to analyze the motivational factors identified by women pursuing undergraduate physics degrees. This project will develop qualitative methods and natural language processing (NLP) to identify positive and negative motivating factors in existing datasets consisting of written narratives that describe the factors that encouraged or discouraged women from pursuing physics degrees. This project will also develop an NLP text classifier and a methodology for disaggregation of gender and ethnicity, making intersectional analyses feasible. The initial qualitative analysis and development of the NLP algorithm will utilize data collected as part of the American Physical Society Conferences for Undergraduate Women in Physics evaluation survey. The analysis will be extended by using the NLP algorithm to analyze data collected by the American Institute of Physics Statistical Research Center's Follow-up Survey of Physics Bachelors.&lt;br/&gt; &lt;br/&gt;This project will promote the representation of women in physics by developing an in-depth understanding of the factors motivating women to pursue physics degrees. This knowledge allows for the expansion of targeted interventions and outreach efforts to encourage women into physics careers. Furthermore, disaggregating data by gender, race, and ethnicity will increase the avenues for engaging women of color or gender non-binary persons.  The resources developed as part of this project will be shared with the American Institute of Physics Statistical Research Center, and the American Physical Society's Education and Diversity department. These two large professional organizations in physics will support further use and development of these methods, thereby potentially impacting many future physicists.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/26/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/19/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2011766</AwardID>
+<Investigator>
+<FirstName>Eric</FirstName>
+<LastName>Brewe</LastName>
+<EmailAddress>eb573@drexel.edu</EmailAddress>
+<StartDate>08/26/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Drexel University</Name>
+<CityName>Philadelphia</CityName>
+<ZipCode>191021119</ZipCode>
+<PhoneNumber>2158955849</PhoneNumber>
+<StreetAddress>1505 Race St, 10th Floor</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>9134</Code>
+<Text>Integrative Activities in Phys</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7621</Code>
+<Text>PHYSICS-BROADEN PARTICIPATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+</Appropriation>
+</Award>
+</rootTag>

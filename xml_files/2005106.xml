@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>ICASSP 2020 Student Travel Grant. To Be Held in Barcelona Spain, May 4-8, 2020.</AwardTitle>
+<AwardEffectiveDate>02/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>25000.00</AwardTotalIntnAmount>
+<AwardAmount>25000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Mohammod Ali</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) is an annual flagship conference of the IEEE Signal Processing Society and is the world's largest and most comprehensive technical conference on signal processing and its application, covering broad fields of signal processing. The 45th edition of this well-established international conference will be held in Barcelona, Spain from May 4 to May 8, 2020. More than 3000 participants are expected to attend this conference. The 2020 conference will feature world-class presentations by internationally renowned speakers on cutting-edge topics and provide a great opportunity for attendees to network with other researchers. In addition, the conference will also feature several industry sessions and create a forum to foster innovation and entrepreneurship by academia and industry. Therefore, the conference will serve as a valuable event for U.S. graduate students to connect with international experts in signal processing research and to gain new knowledge for their future career development. To support training of the next generation scientists and engineers working on signal processing for various applications, this NSF grant will provide travel support for at least 25 students from U.S. institutions to attend the conference.  The travel grants will be awarded competitively to graduate students from U.S. institutions who will present their accepted papers at the conference. The awardees will be selected by a committee of the conference and the paper quality will be considered in the selection process. Priority will be given to students from underrepresented groups. The proposed graduate student travel support will have long-term and broad impacts on signal processing research in U.S. institutions, with wide range of applications covering communications, security, imaging, computer vision, speech recognition, radar, sonar, etc.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>12/12/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>12/12/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2005106</AwardID>
+<Investigator>
+<FirstName>Pau</FirstName>
+<LastName>Closas</LastName>
+<EmailAddress>closas@northeastern.edu</EmailAddress>
+<StartDate>12/12/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Northeastern University</Name>
+<CityName>BOSTON</CityName>
+<ZipCode>021155005</ZipCode>
+<PhoneNumber>6173733004</PhoneNumber>
+<StreetAddress>360 HUNTINGTON AVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7564</Code>
+<Text>CCSS-Comms Circuits &amp; Sens Sys</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>153E</Code>
+<Text>Wireless comm &amp; sig processing</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

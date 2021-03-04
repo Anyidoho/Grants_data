@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Development of Hydrogeology Experimental System for Radiolabeled Fluid and Colloid Imaging</AwardTitle>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>256461.00</AwardTotalIntnAmount>
+<AwardAmount>256461</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030000</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EAR</Abbreviation>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Russell Kelz</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This Division of Earth Sciences Instrumentation and Facilities Program grant supports development of a novel experimental system capable of performing Positron emission tomographic (PET) imaging of fluid flow through permeable geologic media.  PET is a technique widely used for cancer research and therapy.  The apparatus would be used to make quantitative measurements of fluid flow in heterogeneous subsurface environments with applications to important scientific questions in hydrogeology, subsurface energy resources, and environmental science. This project will enhance scientific infrastructure for research and education. The enhanced infrastructure will facilitate interdisciplinary research collaborations, with a focus on developing new partnerships with minority serving institutions and regional universities. The experimental system and associated research projects will provide research opportunities that will cultivate full participation of underrepresented demographics in science and higher education.&lt;br/&gt;&lt;br/&gt;The system will be capable of safely handling, injecting, imaging, and disposing of pressurized short-lived radiolabeled fluids, gases, and colloids to support multiscale, multiphase flow experiments that will expand existing fluid flow experimental techniques and imaging utilization in hydrogeology and subsurface energy resources research. The experimental apparatus would be mobile and would take advantage of a positron source at the University of Wisconsin?s veterinary school.  Research applications have implications for remediation efforts within contaminated aquifers, efforts to limit nanoparticle contamination of groundwaters, exploration of engineering solutions and ramifications of subsurface CO2 sequestration, and improving efficiency of geothermal energy production.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/05/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/05/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2002412</AwardID>
+<Investigator>
+<FirstName>Christopher</FirstName>
+<LastName>Zahasky</LastName>
+<EmailAddress>czahasky@wisc.edu</EmailAddress>
+<StartDate>07/05/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Wisconsin-Madison</Name>
+<CityName>MADISON</CityName>
+<ZipCode>537151218</ZipCode>
+<PhoneNumber>6082623822</PhoneNumber>
+<StreetAddress>21 North Park Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1580</Code>
+<Text>Instrumentation &amp; Facilities</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1580</Code>
+<Text>INSTRUMENTATION &amp; FACILITIES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

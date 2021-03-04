@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Expanding Deep-sea Horizons: Scientific Priorities in Abyssal Research</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>57827.00</AwardTotalIntnAmount>
+<AwardAmount>57827</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06040100</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OCE</Abbreviation>
+<LongName>Division Of Ocean Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Brian Midson</SignBlockName>
+<PO_EMAI>bmidson@nsf.gov</PO_EMAI>
+<PO_PHON>7032928145</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The Woods Hole Oceanographic Institution (WHOI) will host a series of three online workshops and one in person workshop to identify key science priorities at abyssal depths and verification needs when Alvin comes out of overhaul. The online meetings will be preceded by a widely distributed survey to determine the research community's opinions on the key areas that remain under investigated in the abyss and on what new and current instrumentation is needed to investigate the deep ocean.&lt;br/&gt;&lt;br/&gt;The online meetings will be tentatively organized around three themes: abyssal operations, trenches and transform faults, and abyssal plains and seamounts. An in-person meeting will bring together deep-sea researchers from all major disciplines and at different career stages to synthesize the online meetings into two manuscripts, one that reviews state of research in the abyss and defines the community consensus on research priorities and a second that provides guidance to DeSSC, NSF, and NDSF in planning a science verification expedition when the 6500mrated HOV Alvin comes out of overhaul in 2021.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>12/17/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>12/17/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2009117</AwardID>
+<Investigator>
+<FirstName>Samuel</FirstName>
+<LastName>Soule</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Samuel A Soule</PI_FULL_NAME>
+<EmailAddress>ssoule@whoi.edu</EmailAddress>
+<PI_PHON>5082893213</PI_PHON>
+<NSF_ID>000431954</NSF_ID>
+<StartDate>12/17/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Woods Hole Oceanographic Institution</Name>
+<CityName>WOODS HOLE</CityName>
+<CountyName>BARNSTABLE</CountyName>
+<ZipCode>025431041</ZipCode>
+<PhoneNumber>5082893542</PhoneNumber>
+<StreetAddress>183 OYSTER POND ROAD</StreetAddress>
+<StreetAddress2>FENNO HOUSE MS#39</StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA09</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>001766682</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>WOODS HOLE OCEANOGRAPHIC INSTITUTION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>001766682</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Woods Hole Oceanographic Institution]]></Name>
+<CityName>Woods Hole</CityName>
+<CountyName>BARNSTABLE</CountyName>
+<StateCode>MA</StateCode>
+<ZipCode>025431535</ZipCode>
+<StreetAddress><![CDATA[360 Woods Hole Road]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5412</Code>
+<Text>SUBMERSIBLE SUPPORT</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<FUND_OBLG>2020~57827</FUND_OBLG>
+</Award>
+</rootTag>

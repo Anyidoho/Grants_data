@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RAPID: Eco-epidemiological, population, and community ecology implications of RHDV2 emergence in New World lagomorphs (rabbits and close relatives)</AwardTitle>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>199940.00</AwardTotalIntnAmount>
+<AwardAmount>199940</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Diana Pilson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Beginning in early 2020, populations of multiple species of wild rabbits in the southwestern US have had mass mortality events due to the introduction of a novel pathogen: rabbit hemorrhagic disease virus 2 (RHDV2). This virus likely arrived in North America via the trade in non-native domestic European rabbits. The virus is spreading rapidly. Less than four months after RHDV2 was identified in dead wild rabbits in southeastern New Mexico and southwestern Texas, it has spread to seven US states and multiple Mexican municipalities, and has affected six rabbit species. The epidemic has also received extensive press coverage, much of it emphasizing how little is understood about impacts of RHDV2, and how changes in rabbit populations might in turn influence plant and animal communities. This work will provide detailed information on how RHDV2 influences rabbit populations and their associated ecosystems, and also information on the potential for rabbits to recover from infection. The study will also allow insights into the extent to which a novel pathogen might influence the abundance of herbivores and their predators, and thus play a significant role in the structure and function of arid-land ecosystems. This information will be provided to partnering state, federal and tribal wildlife and agricultural agencies who are tasked with managing native and domestic rabbits.&lt;br/&gt;&lt;br/&gt;The project will provide insights into whether and how this emerging virus is able to persist in an animal community comprised of multiple host species, and whether it is spreading via a patchwork of smaller outbreaks versus a contiguous viral wave. This research will address these issues by (1) conducting occupancy and abundance surveys of rabbit populations for which pre-outbreak data are available to determine how the populations have changed numerically following RHDV2 exposure, and (2) serological assessments of rabbit populations to understand whether some individuals survive exposure to RHDV2. This information in turn will be used to (3) develop epidemiologic models to understand how the virus may affect rabbit populations, and how it may persist in ecosystems that include multiple rabbit host species. The information will also permit (4) predictions of whether and how RHDV2 is likely to spread in regions where it has yet to occur. Finally, this project will also allow for data collection to (5) understand how RHDV2, and the associated declines in rabbit abundance, may influence the predator community that depends on rabbits for food.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/05/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/05/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2040698</AwardID>
+<Investigator>
+<FirstName>Matthew</FirstName>
+<LastName>Gompper</LastName>
+<EmailAddress>gompperm@nmsu.edu</EmailAddress>
+<StartDate>08/05/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Gary</FirstName>
+<LastName>Roemer</LastName>
+<EmailAddress>groemer@nmsu.edu</EmailAddress>
+<StartDate>08/05/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Todd</FirstName>
+<LastName>Esque</LastName>
+<EmailAddress>todd_esque@usgs.gov</EmailAddress>
+<StartDate>08/05/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Walsh</LastName>
+<EmailAddress>dwalsh@usgs.gov</EmailAddress>
+<StartDate>08/05/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>New Mexico State University</Name>
+<CityName>Las Cruces</CityName>
+<ZipCode>880038002</ZipCode>
+<PhoneNumber>5756461590</PhoneNumber>
+<StreetAddress>Corner of Espina St. &amp; Stewart</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New Mexico</StateName>
+<StateCode>NM</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1128</Code>
+<Text>Population &amp; Community Ecology</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7242</Code>
+<Text>Ecology of Infectious Diseases</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NSF Convergence Accelerator Track C: Synergistic Thrusts Towards Practical Topological Quantum Computing</AwardTitle>
+<AwardEffectiveDate>09/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>785000.00</AwardTotalIntnAmount>
+<AwardAmount>785000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>01060500</Code>
+<Directorate>
+<Abbreviation>O/D</Abbreviation>
+<LongName>Office Of The Director</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OIA</Abbreviation>
+<LongName>Office of Integrative Activities</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pradeep Fulay</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The NSF Convergence Accelerator supports use-inspired, team-based, multidisciplinary efforts that address challenges of national importance and will produce deliverables of value to society in the near future. This project seeks to develop approaches that address issues of decoherence and crosstalk by scalable topological superconductors (TSC). Investigation for achieving realistic large-scale quantum computers is required to advance the field of quantum information science. This project will integrate Majorana zero modes (MZMs) into conventional superconducting qubit architectures to advance their application to quantum computing. By having outreach programs towards K-12 students and research experiences for undergraduates, this project will broaden participation in quantum with a focus on underrepresented minorities.&lt;br/&gt; &lt;br/&gt;The project will build and establish a cross-sector team that will develop advances in controlling the topological nature of materials to advance quantum computing to deliver fault-tolerant qubits and their quantum interconnects. This project seeks (1) to understand and demonstrate the non-local topological nature of the MZMs by detecting the electron teleportation through a pair of MZMs; (2) to establish the basic elements for measuring the parity state in a teleportation-based T-qubit; (3) to explore flux quantization caused by a supercurrent loop that is mediated by the MZMs and set up the basic flux (or pseudo-spin) measurements of a T-qubit; (4) to identify and plan the Phase II research program, and (5) to build a strong team of academic, governmental lab, and industrial partners. Building on recent developments of a new TSC material platform, this project aims to demonstrate the quantum nature and the non-local topological protection of MZMs in the platform as well as build topological qubits that can be integrated into existing quantum computing circuitry. This may lead to greater functionality in superconducting circuits which can significantly advance topological quantum computing. The project deliverable includes a platform supporting topological qubit that is more robust and more scalable. By establishing a nationwide student exchange program and outreach activities to K-12 students, this project seeks to engage students in quantum research and training to broaden participation.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/31/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2040620</AwardID>
+<Investigator>
+<FirstName>Peng</FirstName>
+<LastName>Wei</LastName>
+<EmailAddress>peng.wei@ucr.edu</EmailAddress>
+<StartDate>08/31/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Liang</FirstName>
+<LastName>Fu</LastName>
+<EmailAddress>liangfu@MIT.EDU</EmailAddress>
+<StartDate>08/31/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>William</FirstName>
+<LastName>Oliver</LastName>
+<EmailAddress>william.oliver@mit.edu</EmailAddress>
+<StartDate>08/31/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Patrick</FirstName>
+<LastName>Lee</LastName>
+<EmailAddress>palee@mit.edu</EmailAddress>
+<StartDate>08/31/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jagadeesh</FirstName>
+<LastName>Moodera</LastName>
+<EmailAddress>moodera@mit.edu</EmailAddress>
+<StartDate>08/31/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Massachusetts Institute of Technology</Name>
+<CityName>Cambridge</CityName>
+<ZipCode>021394301</ZipCode>
+<PhoneNumber>6172531000</PhoneNumber>
+<StreetAddress>77 MASSACHUSETTS AVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>131Y</Code>
+<Text>Convergence Accelerator Resrch</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+</Appropriation>
+</Award>
+</rootTag>

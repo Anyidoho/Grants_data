@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>HBCU-Excellence in Research: Howard University Beltsville Center for Planetary  Boundary Layer Studies</AwardTitle>
+<AwardEffectiveDate>05/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>998935.00</AwardTotalIntnAmount>
+<AwardAmount>998935</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020105</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AGS</Abbreviation>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jielun Sun</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award supports building a regional center for atmospheric studies at the historical Howard University Beltsville Campus (HUBC) observation site. The project will enhance the atmosphere observational capability in the greater Washington-Baltimore area with a suite of measurements such as wind speed/direction, air temperature, water vapor and aerosol concentrations from the surface to near 10 miles above. The collected data will be used to understand how thunderstorms develop through observational data analysis and computer models. The project involves scientists and students from Howard University, University of Maryland at Baltimore, and the Pennsylvania State University. The enhanced observation capabilities through the project would provide under-represented students the opportunity to be involved in an international community for cutting edge atmospheric research. &lt;br/&gt;&lt;br/&gt;The investigators will update the ALVICE (Atmospheric Lidar for Validation, Interagency Collaboration and Education) Raman Lidar system developed by NASA. In addition to the remote sensing observation from the ALVICE mobile laboratory, radiosondes will be launched regularly as part of Howard University?s participation in the international Global Climate Observing System Reference Upper-Air Network (GRUAN). The PSU high resolution WRF-EnKF data assimilation (DA) system will also be used with the observation from the HUBC site and field data collected from the PECAN (Plains Elevated Convection at Night) field campaign to focus on convection initiation, particularly on ?difficult to predict? events. The project will enhance HUBCs ability to serve as a regional center for boundary layer research.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/27/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/27/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2000103</AwardID>
+<Investigator>
+<FirstName>Jose</FirstName>
+<LastName>Fuentes</LastName>
+<EmailAddress>jdfuentes@psu.edu</EmailAddress>
+<StartDate>04/27/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Belay</FirstName>
+<LastName>Demoz</LastName>
+<EmailAddress>bdemoz@umbc.edu</EmailAddress>
+<StartDate>04/27/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Charles</FirstName>
+<LastName>Ichoku</LastName>
+<EmailAddress>charles.ichoku@howard.edu</EmailAddress>
+<StartDate>04/27/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Whiteman</LastName>
+<EmailAddress>david.whiteman@howard.edu</EmailAddress>
+<StartDate>04/27/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Xingchao</FirstName>
+<LastName>Chen</LastName>
+<EmailAddress>xzc55@psu.edu</EmailAddress>
+<StartDate>04/27/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Howard University</Name>
+<CityName>Washington</CityName>
+<ZipCode>200599000</ZipCode>
+<PhoneNumber>2028064759</PhoneNumber>
+<StreetAddress>2400 Sixth Street N W</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<StateCode>DC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>070Y</Code>
+<Text>HBCU-EiR - HBCU-Excellence in</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1525</Code>
+<Text>PHYSICAL &amp; DYNAMIC METEOROLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>4444</Code>
+<Text>INTERDISCIPLINARY PROPOSALS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

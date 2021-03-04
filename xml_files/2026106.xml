@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase II:  Artificially Intelligent Solution to Maximize Value Creation and Upcycling Potential of Aluminum Scrap</AwardTitle>
+<AwardEffectiveDate>09/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>992485.00</AwardTotalIntnAmount>
+<AwardAmount>992485</AwardAmount>
+<AwardInstrument>
+<Value>Cooperative Agreement</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Benaiah Schrag</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This Small Business Innovation Research Phase II project will develop an artificially intelligent sorting software (AISS) for the metal scrap processing industry. Scrap packages of unknown composition can result in costly melt losses and increased consumption of primary aluminum to balance out composition. Recycled aluminum production consumes 5% of the total energy required to form primary aluminum and yields significantly less waste per ton. The AISS aims to (1) enable production of high-quality, maximum-value scrap by combining market and compositional data to optimize sorting criteria and (2) use artificial intelligence to predict optimally salable scrap packages; the estimated value of this information is $1 billion, representing over 4% of total industry revenue. &lt;br/&gt;&lt;br/&gt;This SBIR Phase II project will advance translation of a system combining market value and compositional data to produce maximum-value nonferrous scrap sortation decisions. The proposed work will deliver the AISS to scrap processors for identification, in real time, of maximum-value commodity packages by analyzing several data streams. It will recommend optimized sorting criteria for maximum profit generation, predict scrap stream composition, and monitor scrap-package composition for guaranteed quality. This project will: (1) enhance the AISS to include stream prediction and real-time data integration, (2) scale integration and testing to validate the AISS hardware package, and (3) complete integration, testing, and commercial-scale optimization of the AISS software-hardware package with sensor-sorting systems. This project will develop the first real-time adaptive sortation algorithm introduced to the non-ferrous scrap sortation industry.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/14/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2026106</AwardID>
+<Investigator>
+<FirstName>Sean</FirstName>
+<LastName>Kelly</LastName>
+<EmailAddress>Sean.kelly@solvusglobal.com</EmailAddress>
+<StartDate>09/14/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>SOLVUS GLOBAL LLC</Name>
+<CityName>Worcester</CityName>
+<ZipCode>016050000</ZipCode>
+<PhoneNumber>5087331808</PhoneNumber>
+<StreetAddress>104 Prescott St.</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5373</Code>
+<Text>SBIR Phase II</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8033</Code>
+<Text>Hardware Software Integration</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+</Appropriation>
+</Award>
+</rootTag>

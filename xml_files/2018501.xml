@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>MRI: Acquisition of a Single-Crystal X-Ray Diffractometer</AwardTitle>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>324241.00</AwardTotalIntnAmount>
+<AwardAmount>324241</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Carlos Murillo</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award is supported by the Major Research Instrumentation and the Chemistry Research Instrumentation programs. The University of California Santa Cruz is acquiring a single crystal X-ray diffractometer to support Professor Scott Oliver and colleagues: Pradip Mascharak, Scott Lokey, John MacMillan and Timothy Johnstone. In general, an X-ray diffractometer allows accurate and precise measurements of the full three-dimensional structure of a molecule, including bond distances and angles, and provides accurate information about the spatial arrangement of a molecule relative to neighbors. The studies described here impact many areas, including organic and inorganic chemistry, materials chemistry and biochemistry. This instrument is an integral part of teaching as well as research and research training of undergraduate students in chemistry and biochemistry at this institution as well other departments. The science enabled by this instrument has the potential to impact society at this Hispanic-Serving Institution (HSI) through the development of new materials to address environmental pollution and energy production, and new catalysts to improve the synthesis of commodity and industrial chemicals. In addition, the instrumentation provides direct research experience for students in programs like the Minority Access to Research Careers Program and ACCESS, an academic bridge program for community college students who want to pursue careers in research science. The university allows nearby 2-year community colleges and 4-year post-secondary institutions that are also HSIs to have access to this instrumentation free of charge.&lt;br/&gt;&lt;br/&gt;The award of the X-ray diffractometer is aimed at enhancing research and education at all levels. The science enabled by this instrument provides relevant societal benefits through the development of new materials to address environmental pollution and energy production, and new catalysts to improve the synthesis of commodity and industrial chemicals. The instrumentation is used for studying main-group bioinorganic chemistry and compounds that may have the potential for use in the delivery of medicines. In addition, the instrument acquisition benefits exploration of marine natural products with the potential to discover possible therapeutic targets and therapeutics. The diffractometer is also used to characterize high-pressure and variable-temperature mineral physics.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/22/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/22/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2018501</AwardID>
+<Investigator>
+<FirstName>Pradip</FirstName>
+<LastName>Mascharak</LastName>
+<EmailAddress>pradip@ucsc.edu</EmailAddress>
+<StartDate>07/22/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Scott</FirstName>
+<LastName>Lokey</LastName>
+<EmailAddress>lokey@chemistry.ucsc.edu</EmailAddress>
+<StartDate>07/22/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Scott</FirstName>
+<LastName>Oliver</LastName>
+<EmailAddress>soliver@ucsc.edu</EmailAddress>
+<StartDate>07/22/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>MacMillan</LastName>
+<EmailAddress>jomacmil@ucsc.edu</EmailAddress>
+<StartDate>07/22/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Timothy</FirstName>
+<LastName>Johnstone</LastName>
+<EmailAddress>johnstone@ucsc.edu</EmailAddress>
+<StartDate>07/22/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Santa Cruz</Name>
+<CityName>Santa Cruz</CityName>
+<ZipCode>950641077</ZipCode>
+<PhoneNumber>8314595278</PhoneNumber>
+<StreetAddress>1156 High Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>Major Research Instrumentation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8037</Code>
+<Text>Advanced Manufacturing</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Machine Learning Enhanced Hardware for Optimization and Self-tuning of High-Finesse Optical Cavities</AwardTitle>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>255556.00</AwardTotalIntnAmount>
+<AwardAmount>255556</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Peter Atherton</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact of this Small Business Innovation Research (SBIR) Phase I project will be to demonstrate the utility of powerful computational techniques, like machine learning, for auto-alignment of sophisticated optical instruments. This is particularly important for instruments deployed in the field, where environmental fluctuations continuously perturb components in unpredictable ways. Successful implementation of such technologies would allow complex lasers and instruments to transition from the laboratory to commercial use. This could be particularly impactful in the growing quantum communication industry. This project will advance the development of machine learning to align these sensitive instruments autonomously.  &lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research Phase I project will investigate the use of machine learning to maintain alignment of exquisite filters made from optical cavities. To date, no commercial solution exists for auto-alignment of these cavities, which are common components in complex optical instruments. This is due to the complexity of the parameter sets governing alignment, and the challenge to train the system to choose the optimal path to restore alignment. The primary deliverables of this project will be a set of modular machine learning-based optimization algorithms and a commercial off-the-shelf &lt;30MHz-bandwidth self-tuning optical filter hardware module. Since the proposed adaptive control strategy does not rely on a single underlying model, the developed framework will be modular and easily transferable to other nonlinear systems, which depend on photonic arrangements with varying parameters and control features.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/20/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/13/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2025905</AwardID>
+<Investigator>
+<FirstName>Michelle</FirstName>
+<LastName>Fritz</LastName>
+<EmailAddress>chellymarie03@gmail.com</EmailAddress>
+<StartDate>09/01/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Io</FirstName>
+<LastName>Flament</LastName>
+<EmailAddress>iflament.auc@gmail.com</EmailAddress>
+<StartDate>08/20/2020</StartDate>
+<EndDate>09/01/2020</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>QUNNECT, LLC</Name>
+<CityName>Stony Brook</CityName>
+<ZipCode>117946040</ZipCode>
+<PhoneNumber>6463423369</PhoneNumber>
+<StreetAddress>1500 Stony Brook Rd</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7203</Code>
+<Text>QUANTUM INFORMATION SCIENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8033</Code>
+<Text>Hardware Software Integration</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+</Appropriation>
+</Award>
+</rootTag>

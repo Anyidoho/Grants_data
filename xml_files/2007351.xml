@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Compaction in Action: Blue, Green, and Red Nuggets at Redshift Zero</AwardTitle>
+<AwardEffectiveDate>08/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>430582.00</AwardTotalIntnAmount>
+<AwardAmount>430582</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AST</Abbreviation>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Zoran Ninkov</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project will use existing survey data along with new observations to study compact galaxies across different stages of their evolution. As gas clouds collide, they are thought to produce compact blue galaxies (called "blue nuggets") that are undergoing rapid star formation. As the blue nuggets continue to accrete gas, their star formation will decrease, leaving behind compact red galaxies (called "red nuggets") that eventually form elliptical galaxies through accretion of satellite galaxies. This project will study the nearby population of blue nuggets, red nuggets, and nuggets in transition (so-called "green nuggets"). The project will be able to look at all phases of nugget evolution and better understand how star formation and colliding streams of gas produce these objects and influence their structure. The project will also make the data available for the astronomical community and provide tools so that the data can be used in education. The project will support a two-week Computational Astronomy &amp; Physics Boot Camp for undergraduates and post-baccalaureates who may not have the resources to participate in research over the entire summer.&lt;br/&gt;&lt;br/&gt;This project will perform a systematic study of blue, red, and green nuggets in the z=0 RESOLVE (REsolved Spectroscopy Of a Local VolumE) survey. The research will look at understanding how and when blue nuggets quench, whether colliding-stream compaction still occurs at redshift zero, and how nuggets evolve structurally as the pass from blue through green and on to red. The project will use RESOLVE's environment metrics, multi-wavelength photometry, optical spectroscopy, and 21 cm HI gas observations. This data will be supplemented by data from other observations to look for kinematic signatures of colliding streams, mergers, tidal stripping, and disk rebuilding. The project will expand the utility of RESOLVE's searchable online database by creating a new Data Science Portal providing computational methods tutorials, example data analysis projects, and suggested tutorial sequences. The project will conduct a two-week Computational Astronomy &amp; Physics Boot Camp, which will serve five undergraduate and post-baccalaureate students per year.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/15/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/15/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2007351</AwardID>
+<Investigator>
+<FirstName>Sheila</FirstName>
+<LastName>Kannappan</LastName>
+<EmailAddress>sheila@physics.unc.edu</EmailAddress>
+<StartDate>07/15/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of North Carolina at Chapel Hill</Name>
+<CityName>CHAPEL HILL</CityName>
+<ZipCode>275991350</ZipCode>
+<PhoneNumber>9199663411</PhoneNumber>
+<StreetAddress>104 AIRPORT DR STE 2200</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1217</Code>
+<Text>EXTRAGALACTIC ASTRON &amp; COSMOLO</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1206</Code>
+<Text>THEORETICAL &amp; COMPUTATIONAL ASTROPHYSICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1207</Code>
+<Text>OBSERVATIONAL ASTRONOMY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+</Appropriation>
+</Award>
+</rootTag>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER: Electrical detection of individual biomolecular interactions and machine learning-assisted simulations: from single-molecule biophysics to the RISC complex</AwardTitle>
+<AwardEffectiveDate>05/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>300000.00</AwardTotalIntnAmount>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>MCB</Abbreviation>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jaroslaw Majewski</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This EAGER award will fund the development of a novel nanotechnology based method to measure biomolecular interactions between two or more proteins or between proteins and nucleic acids.  These types of interactions are interactions are at the heart of most biochemical processes.  The new method developed in this work could be applied to numerous biological problems, paving the way to a whole new body of knowledge in biophysics. This research will enhance the training and education possibilities of the next generations of biochemists, scientists, and engineers in general, and improve the workforce by training them to use the modern machine-learning tools. This project will also promote the STEM participation of women and underrepresented minorities.&lt;br/&gt;&lt;br/&gt;The proposed research will use novel nanotechnology methods to measure the electrical conductivities related to biomolecular interactions. The overall objective for this project is the electronic quantification of biomolecular interactions, including both thermodynamic and kinetic information as a proof-of-concept. The central hypothesis of this approach is that electronic fingerprints from biomolecular interactions contain thermodynamic and kinetic information that correlate with the biological function of this complex. The direct observation of the dynamics of interaction between individual biomolecules will allow a development of a complete biophysical picture underlying the biochemistry of biomolecular interactions. The research offers radically different interdisciplinary approach based on expertise in single-molecule biophysics and biochemistry in the experimental front, and extensive theory-driven computer simulations experience using Molecular Dynamics and Quantum Chemistry on the computational side.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/09/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/09/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2027530</AwardID>
+<Investigator>
+<FirstName>Valeri</FirstName>
+<LastName>Barsegov</LastName>
+<EmailAddress>Valeri_Barsegov@uml.edu</EmailAddress>
+<StartDate>04/09/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jin</FirstName>
+<LastName>Xu</LastName>
+<EmailAddress>Jin_Xu@uml.edu</EmailAddress>
+<StartDate>04/09/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Juan</FirstName>
+<LastName>Artes Vivancos</LastName>
+<EmailAddress>juan_artesvivancos@uml.edu</EmailAddress>
+<StartDate>04/09/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Massachusetts Lowell</Name>
+<CityName>Lowell</CityName>
+<ZipCode>018543692</ZipCode>
+<PhoneNumber>9789344170</PhoneNumber>
+<StreetAddress>Office of Research Admin.</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1144</Code>
+<Text>Molecular Biophysics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+</Award>
+</rootTag>

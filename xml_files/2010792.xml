@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>The NIST/NSF Center for High Resolution Neutron Scattering</AwardTitle>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>16000002.00</AwardTotalIntnAmount>
+<AwardAmount>3200000</AwardAmount>
+<AwardInstrument>
+<Value>Interagency Agreement</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Guebre Tessema</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration/>
+<MinAmdLetterDate>08/17/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/17/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2010792</AwardID>
+<Investigator>
+<FirstName>Craig</FirstName>
+<LastName>Brown</LastName>
+<EmailAddress>craig.brown@nist.gov</EmailAddress>
+<StartDate>08/17/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Julie</FirstName>
+<LastName>Borchers</LastName>
+<EmailAddress>julie.borchers@nist.gov</EmailAddress>
+<StartDate>08/17/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Dan</FirstName>
+<LastName>Neumann</LastName>
+<EmailAddress>Dan.neumann@nist.gov</EmailAddress>
+<StartDate>08/17/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Yamali</FirstName>
+<LastName>Hernandez</LastName>
+<EmailAddress>yamali@nist.gov</EmailAddress>
+<StartDate>08/17/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Joseph</FirstName>
+<LastName>Dura</LastName>
+<EmailAddress>joseph.dura@nist.gov</EmailAddress>
+<StartDate>08/17/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY</Name>
+<CityName>Gaithersburg</CityName>
+<ZipCode>208998200</ZipCode>
+<PhoneNumber>3019756633</PhoneNumber>
+<StreetAddress>100 BUREAU DRIVE  MS-8200</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+</Institution>
+<ProgramElement>
+<Code>079F</Code>
+<Text>CHRNS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>088Y</Code>
+<Text>AM-Advanced Manufacturing</Text>
+</ProgramElement>
+</Award>
+</rootTag>

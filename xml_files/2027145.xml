@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RAPID: Plasmonically-enhanced Detection of Corona Virus Disease (COVID-19)</AwardTitle>
+<AwardEffectiveDate>04/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>100008.00</AwardTotalIntnAmount>
+<AwardAmount>100008</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Aleksandr Simonian</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Coronavirus Disease 2019 (COVID-19) is a highly contagious, pandemic disease that has rapidly spread to several hundred thousand people worldwide and caused many deaths. To facilitate the surveillance and control of the spread of the virus, Prof. Singamaneni of Washington University at St. Louis aims to develop a rapid and low-cost diagnostic method that can detect infection in individuals that are asymptomatic or exhibiting mild symptoms.  The sensitive biosensing method is designed to rapidly assess the immune response to the coronavirus across a large population in a high-throughput manner and to enable understanding of the epidemiology of the highly contagious disease. The novel biosensor is suitable for point-of-care and resource-limited settings and can be easily adapted to a broad range of public health threats. This research project provides opportunities to graduate students to be trained in sensor design and the study of sensor performance. &lt;br/&gt;&lt;br/&gt;The aim of this project is to design and realize a dual-modal lateral flow assay for highly sensitive and specific detection of IgG and IgM antibodies to coronavirus (SARS-CoV-2) using plasmon-enhanced fluorescence.  Specifically, the dual-modal lateral flow assay relies on plasmonic-fluor, an ultrabright fluorescent nanostructure, to achieve high sensitivity and low detection limit. In addition to ultrabright fluorescence signal, plasmonic-fluors exhibit large absorption and scattering cross-section, making them attractive labels that can be directly visualized by naked eye at high target concentrations.  This dual-modal lateral flow assay enables simultaneous detection of relatively high concentrations of the antibodies as a simple colorimetric signal and low concentrations of the antibodies through highly sensitive fluorescence signal.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/07/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/07/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2027145</AwardID>
+<Investigator>
+<FirstName>Srikanth</FirstName>
+<LastName>Singamaneni</LastName>
+<EmailAddress>singamaneni@seas.wustl.edu</EmailAddress>
+<StartDate>04/07/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Washington University</Name>
+<CityName>Saint Louis</CityName>
+<ZipCode>631304862</ZipCode>
+<PhoneNumber>3147474134</PhoneNumber>
+<StreetAddress>CAMPUS BOX 1054</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<StateCode>MO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1642</Code>
+<Text>Special Initiatives</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7909</Code>
+<Text>BIOSENS-Biosensing</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+</Award>
+</rootTag>

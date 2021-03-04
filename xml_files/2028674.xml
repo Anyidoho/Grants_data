@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RAPID: Collaborative Research: The Diffusion of State Policy Responses to the 2019 Novel Coronavirus</AwardTitle>
+<AwardEffectiveDate>05/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>8730.00</AwardTotalIntnAmount>
+<AwardAmount>8730</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>SES</Abbreviation>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jan Leighley</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>When the 2019 novel coronavirus arrived in the United States in February and March of 2020, state governments quickly began enacting policies intended to contain and mitigate its spread. Understanding the timing and sequence of these policy choices, and those policies? eventual consequences, is critical for assessing how governments can be most effective during pandemics. This project collects data on state and local governments? responses to COVID-19, including policies related to closing schools, canceling travel, banning public gatherings, closing restaurants and bars, delaying rent payments, and rules on medical licenses.  This data allows researchers to examine the factors that influence states? policy choices, whether those factors differ from the ways in which states enact policies during normal times, which policies are effective in slowing the spread and morbidity of the virus, and how states roll back policies in a manner that allows economic activity to resume while maintaining preparedness to avoid and mitigated waves of the virus. &lt;br/&gt;&lt;br/&gt;This project collects data on state government responses to COVID-19 by scraping government websites daily, focusing on sites dedicated to COVID-19 and those associated with the executive branch, state legislatures, and state departments of public health.  It also collects data on the number of diagnosed cases, fatalities, recoveries in the states, and mobility data that tracks geographic movements from mobile phones. The policy recommendations or decisions recorded from state government pages include decisions related to closing schools, canceling travel, banning public gatherings (and their size), closing restaurants and bars, travel quarantines, postponing elections, safe shelter orders, limiting elective medical procedures, as well as when states modify these policies; additional data is collected from official state Twitter accounts. This data allows researchers to examine the factors that influence states? policy choices, whether those factors differ from the ways in which states enact policies during normal times, which policies are effective in slowing the spread and morbidity of the virus, and how states roll back policies in a manner that allows economic activity to resume while maintaining preparedness to avoid and mitigated waves of the virus. &lt;br/&gt;&lt;br/&gt;This project is jointly funded by the Accountable Institutions and Behavior Program and the Established Program to Stimulate Competitive Research (EPSCoR).&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/28/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/28/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2028674</AwardID>
+<Investigator>
+<FirstName>Jeffrey</FirstName>
+<LastName>Harden</LastName>
+<EmailAddress>jharden2@nd.edu</EmailAddress>
+<StartDate>04/28/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Notre Dame</Name>
+<CityName>NOTRE DAME</CityName>
+<ZipCode>465565708</ZipCode>
+<PhoneNumber>5746317432</PhoneNumber>
+<StreetAddress>940 Grace Hall</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>120Y</Code>
+<Text>AIB-Acctble Institutions&amp;Behav</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1N20</Code>
+</Appropriation>
+</Award>
+</rootTag>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>MRI: Acquisition of an Inductively Coupled Plasma Mass Spectrometer for Multidiscipline Research and Education</AwardTitle>
+<AwardEffectiveDate>08/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>144389.00</AwardTotalIntnAmount>
+<AwardAmount>144389</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Carlos Murillo</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award is supported by the Major Research Instrumentation and the Chemistry Research Instrumentation programs. Rowan University is acquiring an inductively coupled ionization, mass spectrometer (ICP-MS) to support the research projects in the groups of Professors Lei Yu and colleagues Kauser Jahan, Tabbetha Dobbins, Harold Connolly and James Grinias. In general, mass spectrometry (MS) is one of the key analytical methods used to identify and characterize small quantities of chemical species in complex samples. An ICP-MS combines a high-temperature and an ionization coupled plasma source with a mass spectrometer. The ICP source converts the atoms of the elements in the sample to ions. These ions are subsequently separated and detected by the mass spectrometer. This is a highly-sensitive analytical technique capable of measuring very low concentrations of metals and non-metals in liquid samples. The acquisition strengthens the research infrastructure at the university and regional area. The instrument broadens participation by involving diverse students with this modern analytical technique. It is also used in outreach activities involving students and faculty from Chemistry, Geology, and Paleontology. Analysis results are useful for improving the public health and well-being of Camden and other communities in Southern New Jersey.&lt;br/&gt;&lt;br/&gt;The award of the mass spectrometer is aimed at enhancing research and education at all levels. It especially impacts measurements of the electrochemical oxidation of metal carbides and the dynamic solid-electrolyte-interface change of borohydrides for solid state electrolytes in lithium-ion batteries. The instrumentation is also used for exploring supercritical fluid chromatography combined with ICP-MS for high-throughput synthetic reaction products and catalysts measurements. In addition, it contributes to the analysis of silver-eluting thin films for antimicrobial materials development. The mass spectrometer is also used to understand the solar system by analyzing the aluminum 26- magnesium 26 isotopic ratio. The ICP spectrometer is also employed in studies tracking heavy metal contamination and mitigation in water for environmental protection.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/10/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/10/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2018320</AwardID>
+<Investigator>
+<FirstName>Kauser</FirstName>
+<LastName>Jahan</LastName>
+<EmailAddress>jahan@rowan.edu</EmailAddress>
+<StartDate>08/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Tabbetha</FirstName>
+<LastName>Dobbins</LastName>
+<EmailAddress>dobbins@rowan.edu</EmailAddress>
+<StartDate>08/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Lei</FirstName>
+<LastName>Yu</LastName>
+<EmailAddress>yu@rowan.edu</EmailAddress>
+<StartDate>08/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Harold</FirstName>
+<LastName>Connolly</LastName>
+<EmailAddress>connollyh@rowan.edu</EmailAddress>
+<StartDate>08/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>Grinias</LastName>
+<EmailAddress>grinias@rowan.edu</EmailAddress>
+<StartDate>08/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Rowan University</Name>
+<CityName>Glassboro</CityName>
+<ZipCode>080281701</ZipCode>
+<PhoneNumber>8562564057</PhoneNumber>
+<StreetAddress>Office of Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>Major Research Instrumentation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8037</Code>
+<Text>Advanced Manufacturing</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8396</Code>
+<Text>Clean Energy Technology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8399</Code>
+<Text>Energy Storage or Transmission</Text>
+</ProgramReference>
+</Award>
+</rootTag>

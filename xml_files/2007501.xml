@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CHS: Small: Envisioning and Prototyping Artificial Intelligence Product and Service Innovations with User Experience Designers</AwardTitle>
+<AwardEffectiveDate>08/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>500000.00</AwardTotalIntnAmount>
+<AwardAmount>500000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>William Bainbridge</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Design innovations follow technical advances. Philips? 1962 invention of the cassette recorder was a technical advance. Design innovations followed, placing cassette audio recording  and playback capabilities into new forms people found useful and valuable. These included the boombox, car stereo, Walkman, and home answering machine. Artificial intelligence (AI) has achieved many technical advances, but insufficient design innovation. To enable their innovation capabilities, design teams need to better understanding what AI can do. This research will address current breakdowns in the innovation process. It will develop new taxonomies, tools, and theory?to unleash the creative skills of designers in industry and academia?for envisioning and prototyping innovative uses and forms for AI products and services. The research team will disseminate refined versions of the new AI design innovation resources through online training modules, undergraduate and graduate courses, courses for professional user experience (UX) designers, and workshops with professionals at practitioner-focused events.&lt;br/&gt;&lt;br/&gt;For AI innovation, the research team will perform these design activities: (1) develop and evaluate a taxonomy of AI capabilities, while addressing algorithmic bias and privacy; (2) develop and evaluate a taxonomy of design patterns for how AI system outputs are presented to potential innovators, including approaches to explainable AI; (3) co-design new tools for wireframing AI system behaviors, documenting AI concepts, and communicating with and across AI development teams, through prototyping workshops with professional UX designers; and (4) develop theory and design implications through field evaluations of the AI design innovation taxonomies, tools, and communicative forms.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/04/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/04/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2007501</AwardID>
+<Investigator>
+<FirstName>Jodi</FirstName>
+<LastName>Forlizzi</LastName>
+<EmailAddress>forlizzi@cs.cmu.edu</EmailAddress>
+<StartDate>08/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Zimmerman</LastName>
+<EmailAddress>johnz@cs.cmu.edu</EmailAddress>
+<StartDate>08/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Carnegie-Mellon University</Name>
+<CityName>PITTSBURGH</CityName>
+<ZipCode>152133815</ZipCode>
+<PhoneNumber>4122688746</PhoneNumber>
+<StreetAddress>5000 Forbes Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7367</Code>
+<Text>HCC-Human-Centered Computing</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7367</Code>
+<Text>Cyber-Human Systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

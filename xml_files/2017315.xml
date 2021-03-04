@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Modeling and Analyzing the Conditions under which Firms Strategically Allocate Resources</AwardTitle>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>432731.00</AwardTotalIntnAmount>
+<AwardAmount>432731</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>SES</Abbreviation>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jan Leighley</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This study advances scientific knowledge on how interest groups make investments to affect targeted outcomes. The project develops a theoretical framework that explains how groups strategically allocate their resources. The project produces a database relevant to that links more than 75 million public reports and contribution filings of elected office holders and firms. This project also provides interactive online learning tools so that students and teachers with different educational backgrounds can learn more about representation across various policy issues such as international trade, healthcare, education, and national security. &lt;br/&gt; &lt;br/&gt;The project develops a theoretical model that provides a micro-foundation for analyzing the conditions under which firms strategically allocate important resources. The model features the standard multi-sector component with heterogeneous firms, selection into production and firm entry, and endogenous activities pertinent to government. This study will also develop open-source software to facilitate access and analysis of the project?s PostgreSeQL relational database, which allows researchers to readily explore/export large scale data for computational social science research.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/19/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/19/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2017315</AwardID>
+<Investigator>
+<FirstName>In Song</FirstName>
+<LastName>Kim</LastName>
+<EmailAddress>insong@mit.edu</EmailAddress>
+<StartDate>07/19/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Massachusetts Institute of Technology</Name>
+<CityName>Cambridge</CityName>
+<ZipCode>021394301</ZipCode>
+<PhoneNumber>6172531000</PhoneNumber>
+<StreetAddress>77 MASSACHUSETTS AVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>120Y</Code>
+<Text>AIB-Acctble Institutions&amp;Behav</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

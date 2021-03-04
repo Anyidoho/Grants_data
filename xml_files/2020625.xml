@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SaTC: CORE: Small: Fast Algorithm Originated Fault Detection Scheme for Ring-LWE based Cryptographic Hardware</AwardTitle>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>114253.00</AwardTotalIntnAmount>
+<AwardAmount>114253</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sandip Kundu</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Post-quantum cryptography (PQC) refers to cryptograhic algorithms that are thought to be resistant to attacks by quantum computers. Recently, PQC has received significant attention from the research community. Ring-Learning-with-Errors (Ring-LWE) based cryptography is regarded as one of the most promising PQC candidates because of its strong security proof and ease of implementation. When the cryptographic algorithms are implemented in hardware circuits, fault detection is an essential protection strategy to fight against both natural and maliciously injected faults in cryptographic circuits. This project aims to develop novel fault detection scheme for the standard Ring-LWE based PQC.&lt;br/&gt;&lt;br/&gt;This project will develop  multiplication algorithms that allow quick detection of faults for  Ring-LWE based PQC. The project envisions three tasks. The first task will develop mathematical foundation for fast multiplication in Ring-LWE based PQC circuits. The second task will develop efficient fault detection scheme for the Ring-LWE based cryptography. The final task involve simulation and testing to validate above work.&lt;br/&gt;&lt;br/&gt;This project is expected to make significant impact.  The outcome from this project will lead to the design of efficient Ring-LWE based PQC on hardware platform. The fault detection scheme is expected to generate secure implementation of Ring-LWE based PQC. The results and data from this project will be broadly disseminated.&lt;br/&gt;&lt;br/&gt;The repository of this project will be stored and documented as per Villanova University policy and will be accessible through: http://www.ece.villanova.edu/~jxie02/&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/15/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/20/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2020625</AwardID>
+<Investigator>
+<FirstName>Jiafeng</FirstName>
+<LastName>Xie</LastName>
+<EmailAddress>jiafeng.xie@villanova.edu</EmailAddress>
+<StartDate>08/15/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Villanova University</Name>
+<CityName>Villanova</CityName>
+<ZipCode>190851676</ZipCode>
+<PhoneNumber>6105194220</PhoneNumber>
+<StreetAddress>800 Lancaster Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8060</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+</Appropriation>
+</Award>
+</rootTag>

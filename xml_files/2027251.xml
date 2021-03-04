@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RAPID: CORPUS: An Edge Intelligence-Assisted Multi-Granularity COVID-19 Risk Predication and Update System</AwardTitle>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>150000.00</AwardTotalIntnAmount>
+<AwardAmount>150000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Marilyn McClure</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Since the first COVID-19 case was diagnosed and reported at the end of December 2019, there have been more than 1.6 million COVID-19 cases reported, causing more than 100,000 death worldwide as of April 10, 2020. The outbreak of COVID-19 has significantly affected individuals and our society as a whole, and many national and international events have been canceled over COVID-19 fears, including NBA, NCAA events, Mobile World Congress. For the sake of either individual, institutes, or governments, a risk prediction and update system are urgently needed. However, to design and implement such a system, there are several system challenges. First, how to derive the infection risk level from different granularities, i.e., individual-, event-, and institution-levels? Second, how to dynamically update the risk level based on the latest outbreak news? Third, how to preserve user sensitive data while sharing adequate data for risk level calculation? To attack these challenges in this RAPID project, researchers at Wayne State University and Henry Ford Health Systems design and implement CORPUS, an edge intelligence-assisted, multi-granularity COVID-19 Risk Prediction, and Update System, which includes a mobile app running on personal phones, as well as a large-scale distributed protocol behind the app collecting and updating the information. First, CORPUS will build a multi-granularity risk analysis model, from fine-grained personal risk to small clustered meeting risk, to coarse-grained large clustered event risk, and institutional/organization risk. Second, CORPUS employs a data propagation protocol to build and update the risk analysis model. The data that can contribute to CORPUS include spatial data (such as GPS signal), temporal data (such as calendar event), as well as the input from the user (such as meeting with a specific person). Third, CORPUS leverages privacy-preserving algorithms such as node-level feature pooling and anonymous parameter of the model instead of raw user data, to ensure the confidentiality of personal information when multi-granularity models request personal risk information. &lt;br/&gt;&lt;br/&gt;With the rapid expansion of COVID-19, there is an urgent need for the individual to know their infection risk when traveling to a place in the foreseeable future. CORPUS can meet their needs by leveraging personalized information and edge intelligence. For a group or an organization, CORPUS will provide risk-related information to help them to judge the feasibility of holding a meeting or an event during an outbreak, especially for large-scale international events (such as the Olympics and World Cup). They can also proactively take action based on the risk information provided by CORPUS to reduce the spread of COVID-19. CORPUS will help governments perceive the risk of infection in their jurisdictions, and thus guide infection prevention and control for effective governance.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/22/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/22/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2027251</AwardID>
+<Investigator>
+<FirstName>Ming</FirstName>
+<LastName>Dong</LastName>
+<EmailAddress>mdong@cs.wayne.edu</EmailAddress>
+<StartDate>06/22/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Weisong</FirstName>
+<LastName>Shi</LastName>
+<EmailAddress>weisong@wayne.edu</EmailAddress>
+<StartDate>06/22/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Wayne State University</Name>
+<CityName>Detroit</CityName>
+<ZipCode>482023622</ZipCode>
+<PhoneNumber>3135772424</PhoneNumber>
+<StreetAddress>5057 Woodward</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>158y</Code>
+<Text/>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1N20</Code>
+</Appropriation>
+</Award>
+</rootTag>

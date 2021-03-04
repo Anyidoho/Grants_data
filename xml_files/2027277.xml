@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>ATD: Algorithms for Threat Detection in Knowledge Graphs</AwardTitle>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>607050.00</AwardTotalIntnAmount>
+<AwardAmount>607050</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Leland Jameson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project develops new mathematical algorithms and models involving knowledge graphs. A knowledge graph represents what is known about a subject in the form of labeled nodes and edges. More than simply labeled data, knowledge graphs organize data according to high-level meanings and assign globally unique identification to each node in the graph to match real-world entities. Much work on knowledge graphs treats databases and queries. In contrast, in the context of threat detection, this project focuses on algorithms that identify latent information in the graph and predictive models associated with data on the graph. The project will involve a combination of mathematical methods for subgraph isomorphism detection, time series analysis, agent-based and multiscale modeling, and pattern recognition. The project will train a postdoctoral scholar, PhD student, and six undergraduate researchers through involvement in the research.&lt;br/&gt;&lt;br/&gt;This project brings together several different focused problems with large, multimodal, complex datasets. The data is organized into a knowledge graph in which additional information is added and absorbed as it becomes available. This project considers three types of knowledge graphs each for different applications: (1) knowledge graphs constructed from complex multi-part narratives; (2) knowledge graphs constructed from heterogeneous online content; and (3) knowledge graphs associated with large-scale human interaction dynamics such as a global pandemic. For (1), algorithms will be designed to identify important causal subgraphs. For (2), the project aims to identify threats in space and time based on templated patterns. For (3), desired goals are both a predictive ability for actions from a micro to macro scale along with tools to assess potential impact versus cost of preventative measures, from local to regional to country-wide scale.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/20/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/20/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2027277</AwardID>
+<Investigator>
+<FirstName>Andrea</FirstName>
+<LastName>Bertozzi</LastName>
+<EmailAddress>bertozzi@math.ucla.edu</EmailAddress>
+<StartDate>07/20/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>P. Jeffrey</FirstName>
+<LastName>Brantingham</LastName>
+<EmailAddress>branting@ucla.edu</EmailAddress>
+<StartDate>07/20/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Los Angeles</Name>
+<CityName>LOS ANGELES</CityName>
+<ZipCode>900951406</ZipCode>
+<PhoneNumber>3107940102</PhoneNumber>
+<StreetAddress>10889 Wilshire Boulevard</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>046Y</Code>
+<Text>ATD-Algorithms for Threat Dete</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>U184</Code>
+<Text/>
+</ProgramElement>
+<ProgramReference>
+<Code>6877</Code>
+<Text>ALGORITHMS IN THREAT DETECTION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

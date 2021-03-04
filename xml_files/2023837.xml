@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>GRC Defects in Semiconductors: Defect Formation, Characterization, Control and Utilization</AwardTitle>
+<AwardEffectiveDate>04/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>5000.00</AwardTotalIntnAmount>
+<AwardAmount>5000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Julio Gea-Banacloche</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award will provide partial support for students, early career researchers and under-represented sectors of the scientific community that are engaged in research related to defects in semiconductors, to attend the 2020 Defects in Semiconductors Gordon Research Conference and Gordon Research Seminar. The Conference and Seminar will take place August 15 to 21, 2020, at Colby-Sawyer College, New London, New Hampshire. &lt;br/&gt;&lt;br/&gt;Defects in semiconductors are playing an increasingly important role in quantum sensing and quantum information science, and the conference program shows ample evidence of this, with sessions devoted to. e.g., single photon sources and  magnetometry in diamond devices using NV centers. In addition to the conference itself, graduate students and postdoctoral researchers can benefit from the two-day Gordon Research Seminar, designed by and for their peers. Attendance at both the GRS and GRC can provide young scientists with a unique opportunity to actively engage in this important area of research for the development of present and future quantum technologies. The training of a future quantum workforce has been recently recognized as an important strategic goal for U.S. science policy.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/25/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>03/25/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2023837</AwardID>
+<Investigator>
+<FirstName>Kai-Mei</FirstName>
+<LastName>Fu</LastName>
+<EmailAddress>kaimeifu@uw.edu</EmailAddress>
+<StartDate>03/25/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Gordon Research Conferences</Name>
+<CityName>West Kingston</CityName>
+<ZipCode>028921502</ZipCode>
+<PhoneNumber>4017834011</PhoneNumber>
+<StreetAddress>512 Liberty Lane</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Rhode Island</StateName>
+<StateCode>RI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7281</Code>
+<Text>QIS - Quantum Information Scie</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7203</Code>
+<Text>QUANTUM INFORMATION SCIENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

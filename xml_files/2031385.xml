@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER: Fundamental Study on Multistage Sustainability Assessment and Decision Making for Reshaping Technology Innovations</AwardTitle>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>219998.00</AwardTotalIntnAmount>
+<AwardAmount>219998</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Bruce Hamilton</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This exploratory research project will create a framework for systematically assessing the sustainability of emerging technologies. Sustainability assessment and decision-making for technology innovations is a key step towards achievement of industrial sustainability goals. This research will address how technology innovation can be reshaped to fully incorporate sustainability principles from the early development stage. The approach will use a unique methodology that incorporates sustainability science, large-scale system science, and engineering.  The methodology and case studies are anticipated to be valuable for enhancing research and education on the sustainability of emerging technologies.&lt;br/&gt;&lt;br/&gt;The project will employ a methodological framework for conducting systematic sustainability assessment of emerging technologies in their early development life cycle stages by recommending technology sets after performing sustainability impact evaluation. The framework will feature capability to effectively apply sustainability science and systems theory to methodically conduct multistage sustainability assessment, identify intertwined sustainability aspects, systematically process uncertain information, and provide system-level optimal decision support for technology innovations in different product development and manufacturing stages. This framework will be constructed using a hierarchical assessment and decision making scheme, and consist of a coherent set of concepts, propositions, principles, and methods that could improve the ability of researchers, decision makers, and organizations to reshape technology innovations. The proposed framework will be tested through investigating new technologies for nanopaint design and coating manufacturing, as compared to current coating material and application technologies.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/18/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/18/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2031385</AwardID>
+<Investigator>
+<FirstName>Yinlun</FirstName>
+<LastName>Huang</LastName>
+<EmailAddress>yhuang@wayne.edu</EmailAddress>
+<StartDate>05/18/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Wayne State University</Name>
+<CityName>Detroit</CityName>
+<ZipCode>482023622</ZipCode>
+<PhoneNumber>3135772424</PhoneNumber>
+<StreetAddress>5057 Woodward</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7643</Code>
+<Text>EnvS-Environmtl Sustainability</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+</Award>
+</rootTag>

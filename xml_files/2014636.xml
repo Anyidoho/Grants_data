@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Bootstrap Methods in High Dimensions: Complex Dependence Structures and Refinements</AwardTitle>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>100000.00</AwardTotalIntnAmount>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Gabor Szekely</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Bootstrap methods constitute a class of powerful statistical methodologies for uncertainty quantification in statistical analysis. Recent developments demonstrate that bootstraps are effective in developing theoretically valid inferential methods for high-dimensional or large-scale data. Modern-day data availability allows us to access large-scale data with complex dependence structures, for which there is a serious need to develop high-quality inference methods. Examples of such data include data observed on networks, multiway-clustered data often seen in economics, environmental data, and high-frequency financial data. In this project, the PI aims to develop bootstrap methods for such large-scale data with complex dependence structures, as well as make refinements on existing bootstrap methods for independent data. Additionally, the project will provide research training opportunities for graduate students.&lt;br/&gt;&lt;br/&gt;The first line of research this project aims at is to develop novel bootstrap methods effective in high dimensions for i) exchangeable arrays, ii) irregularly spaced spatial data, and iii) diffusion (or, more generally, Markov) processes. Those new bootstrap methods have direct applications to inference with high dimensional data such as simultaneous and multiple testing and nonparametric inference such as the construction of simultaneous confidence bands. The second line of research is to make refinements on high dimensional bootstrap methodology with independent data. One is to develop error bounds for the general exchangeably weighted bootstrap in the high dimensional regime that are comparable to the Gaussian multiplier bootstrap. The other is to develop error bounds for the nonparametric bootstrap that can explain the superior performance in numerical experiments in the increasing dimension setup.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/17/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/17/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2014636</AwardID>
+<Investigator>
+<FirstName>Kengo</FirstName>
+<LastName>Kato</LastName>
+<EmailAddress>kk976@cornell.edu</EmailAddress>
+<StartDate>06/17/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Cornell University</Name>
+<CityName>Ithaca</CityName>
+<ZipCode>148502820</ZipCode>
+<PhoneNumber>6072555014</PhoneNumber>
+<StreetAddress>373 Pine Tree Road</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1269</Code>
+<Text>STATISTICS</Text>
+</ProgramElement>
+</Award>
+</rootTag>

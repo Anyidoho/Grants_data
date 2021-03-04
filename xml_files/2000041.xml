@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Non-Linear Diffusion Modeling: From Geometry, to Materials, to Social Dynamics</AwardTitle>
+<AwardEffectiveDate>06/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>280377.00</AwardTotalIntnAmount>
+<AwardAmount>280377</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Marian Bocea</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The principal investigator (PI) will investigate a series of problems in mathematics with applications to diverse areas of Science. A good number of the issues the PI plans to address are a natural continuation of problems he has explored recently that keep progressing and diffusing through a wider mathematical community. The questions to be studied have a certain universality in the sense that the same paradigm reappears from geometry and analysis, to fluid dynamics and material sciences, to financial mathematics and, more recently, biology and stochastic geometry. The project provides research training opportunities for graduate students and postdoctoral researchers.&lt;br/&gt;&lt;br/&gt;The first project concerns compressible flow (for instance, a gas) in porous media, in particular when the flow has a "history" that clogs with time the porous media (the Caputo diffusion model). Some important aspects of the Caputo diffusion model are being studied by the PI and an advanced graduate student, in particular when it occurs through two media with different porosity (transmission condition). Related mathematical phenomena concern the saline flow through semipermeable membranes (where the salt can flow only in one direction through the membrane). Another case where the flow is induced by global considerations concerns the quasi-geostrophic equation: this equation describes the evolution of the temperature on the surface of the ocean, and here temperature is influenced at a distance though the atmosphere. In collaboration with a graduate student the PI is working on the time evolution of this process in the land-sea interphase. Another interesting problem considered is concerned with "overlapping" interactions. An example is the structure of pricing for buying vs selling of goods. There is an area of "values" of the underlying good where the two prices diverge, and one where they come together. Mathematically, these are very interesting problems concerned with the stability of the configuration, in particular for the edge dividing one behavior from the other in a nonlinear way. In a different area, the PI is studying issues of segregation and predator-prey models.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/27/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/27/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2000041</AwardID>
+<Investigator>
+<FirstName>Luis</FirstName>
+<LastName>Caffarelli</LastName>
+<EmailAddress>caffarel@math.utexas.edu</EmailAddress>
+<StartDate>04/27/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at Austin</Name>
+<CityName>Austin</CityName>
+<ZipCode>787595316</ZipCode>
+<PhoneNumber>5124716424</PhoneNumber>
+<StreetAddress>3925 W Braker Lane, Ste 3.340</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1281</Code>
+<Text>ANALYSIS PROGRAM</Text>
+</ProgramElement>
+</Award>
+</rootTag>

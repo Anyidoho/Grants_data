@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Building the research innovation workforce: a workshop to identify new insights and directions to advance the research computing community.</AwardTitle>
+<AwardEffectiveDate>07/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>163960.00</AwardTotalIntnAmount>
+<AwardAmount>163960</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alan Sussman</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The research enterprise requires a skilled research innovation workforce, consisting of highly trained and skilled practitioners in areas such as advanced cyberinfrastructure (CI), research software engineering, operations, and user support. A recent report from the National Science and Technology Council highlighted the need for this workforce. This project will conduct a series of virtual workshop sessions among a variety of affinity groups that includes academics and practioners to discuss and explore the problems and challenges affecting the growth and vitality of the research innovation workforce, and to discuss and identify potential strategies and solutions to help address these challenges. The workshop will be conducted entirely virtually with the aid of a skilled workshop facilitator. The outcomes of the proposed workshop will be a set of recommendations to the National Science Foundation related to CI professional workforce development; a better understanding of the challenges and problems affecting research innovation gleaned from discussions within and across affinity groups; and increased awareness of potentially cross-cutting strategies and solutions to encourage the growth and health of the national research innovation workforce.&lt;br/&gt;&lt;br/&gt;The workshop seeks to facilitate a discussion among the affinity groups who collectively participate in the research enterprise, specifically targeting issues related to building and enhancing the CI professional workforce (e.g. research software engineers, research data science professionals, advanced cyberinfrastructure systems professionals, etc.) with the goal of identifying problem areas, discussing and identifying potential solutions, and developing a set of recommendations for consideration by the national research community and the NSF. The workshop co-chairs and steering committee represent a broad group of stakeholders. The primary goal of the proposed workshop is to explore the challenges and potential strategies and solutions to address the need for an advanced CI research innovation workforce that is essential to advancing the frontiers of computational and data-intensive scientific research. The workshop will result in a report with recommendations for fostering growth and career paths for a diverse, inclusive, and emerging set of professionals that collaborates across traditional boundaries and enables research and education.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/14/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>09/25/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2036534</AwardID>
+<Investigator>
+<FirstName>Thomas</FirstName>
+<LastName>Hacker</LastName>
+<EmailAddress>tjhacker@purdue.edu</EmailAddress>
+<StartDate>07/14/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Dana</FirstName>
+<LastName>Brunson</LastName>
+<EmailAddress>dbrunson@internet2.edu</EmailAddress>
+<StartDate>07/14/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Preston</FirstName>
+<LastName>Smith</LastName>
+<EmailAddress>psmith@purdue.edu</EmailAddress>
+<StartDate>07/14/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Lisa</FirstName>
+<LastName>Arafune</LastName>
+<EmailAddress>lisa.arafune@gmail.com</EmailAddress>
+<StartDate>09/25/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Purdue University</Name>
+<CityName>West Lafayette</CityName>
+<ZipCode>479072114</ZipCode>
+<PhoneNumber>7654941055</PhoneNumber>
+<StreetAddress>Young Hall</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7361</Code>
+<Text>EDUCATION AND WORKFORCE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>026Z</Code>
+<Text>NSCI: National Strategic Computing Initi</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+</Appropriation>
+</Award>
+</rootTag>

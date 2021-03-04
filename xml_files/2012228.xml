@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps: Smart and Holistic Agent Management System</AwardTitle>
+<AwardEffectiveDate>01/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth Shuman</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact of this I-Corps project is to develop a software system with geographical, weather, and behavioral information to produce timely, interactive, and continuous improvement results for logistics operations.  The tool is aimed at food and beverage distributors, business and service companies, and those in the retail industry who need on-time delivery with an excellent level of predictability.  Home-delivery operations account for around 53% of total logistics costs in the retail industry. This project will develop a solution for the last-mile delivery industry, predicted to be a $55 B industry by 2025.  The envisioned solution will result in increasing customer satisfaction and strong economic value by reducing costs and maximizing utilization of resources.&lt;br/&gt;&lt;br/&gt;This I-Corps project will advance and automate the organization, dispatching, and routing of vehicles in urban environments using hierarchical and distributed decision-making using network modeling, agent-based simulation, and machine learning. These hierarchical decision-making processes can aid businesses in optimizing loading and sorting, dispatching, and routing operations, . Unlike existing schemes that have only partial near-optimal routing, and do not effectively take feedback from the different elements of the supply chain (e.g., customers, drivers, etc.), the proposed technology scheme also includes packing, loading and sorting optimization in synchronization with dispatching and routing.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/10/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>01/10/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2012228</AwardID>
+<Investigator>
+<FirstName>Luis</FirstName>
+<LastName>Rabelo</LastName>
+<EmailAddress>lrabelo@mail.ucf.edu</EmailAddress>
+<StartDate>01/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>The University of Central Florida Board of Trustees</Name>
+<CityName>Orlando</CityName>
+<ZipCode>328168005</ZipCode>
+<PhoneNumber>4078230387</PhoneNumber>
+<StreetAddress>4000 CNTRL FLORIDA BLVD</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

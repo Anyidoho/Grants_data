@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  IM3UNE: A Platform for Integrated Monitoring, Mapping, Modeling and Understanding of Novel Epidemics Like COVID-19</AwardTitle>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>255631.00</AwardTotalIntnAmount>
+<AwardAmount>255631</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alastair Monk</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact /commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to assist with preparedness and decision-making for situations like the COVID-19 pandemic. This health crisis has been exacerbated by a lack of real-time information or predictive information about the extent, location, and spread of the disease. This Phase I project ingests data streams from government agencies, healthcare providers, and the general public, returning real-time, actionable information to assist in guiding a broad and coordinated response. While this platform is particularly relevant in the COVID-19 pandemic, it is disease agnostic, and will have utility for seasonal influenza and other infectious diseases, positively impacting public health.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project will create a platform aimed at providing real-time identification of infectious disease outbreaks and predictions of disease spread, with an initial focus on COVID-19. Among the gaps in the response to the COVID-19 pandemic is capability to accurately track the magnitude, location, and spread of infectious agents. This project aims to assess and demonstrate the value of leveraging multiple modalities and sources of data for early detection and prediction of disease outbreaks, with focus on COVID-19. The approach will combine data fusion methods and epidemiological modeling approaches with continual input from subject matter experts in an effort to generate actionable information and predictive models related to disease spread. A variety of data streams providing information on disease incidence, transportation data, and sub-population interaction data will be used to construct progressively more sophisticated SEIR models. These efforts will result in an improved understanding of the utility and applicability of various data streams to epidemiological monitoring and forecasting, as well as platform for users of various levels of technical expertise.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/04/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/04/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2029153</AwardID>
+<Investigator>
+<FirstName>Ashlee</FirstName>
+<LastName>Valente</LastName>
+<EmailAddress>ashlee.valente@geomdata.com</EmailAddress>
+<StartDate>08/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>GEOMETRIC DATA ANALYTICS</Name>
+<CityName>CHAPEL HILL</CityName>
+<ZipCode>275146716</ZipCode>
+<PhoneNumber>9194487871</PhoneNumber>
+<StreetAddress>636 ROCK CREEK ROAD</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1718</Code>
+<Text>BIOINFORMATICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5383</Code>
+<Text>HUMAN &amp;/OR BIOLOGICAL</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7602</Code>
+<Text>INFORMATION INTEGRATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8018</Code>
+<Text>Smart and Connected Health</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8032</Code>
+<Text>Software Services and Applications</Text>
+</ProgramReference>
+</Award>
+</rootTag>

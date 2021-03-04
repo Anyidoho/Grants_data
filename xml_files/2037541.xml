@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RAPID:  Airborne CoV-2 Viability and Oxidation</AwardTitle>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>199997.00</AwardTotalIntnAmount>
+<AwardAmount>199997</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020104</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AGS</Abbreviation>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sylvia Edgerton</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This RAPID project seeks to improve the understanding of the airborne transmission of (SARS) CoV-2, the virus behind the COVID-19 pandemic, via sub-micron airborne particles. Chamber experiments will be conducted to help determine how long (SARS) CoV-2 remains viable in sub-micron aerosol and how atmospheric oxidation, particle size, and other environmental conditions affect viability. The team includes well-established infectious-disease scientists, coronavirus microbiologists and aerosol scientists with a unique combination of techniques and instruments.&lt;br/&gt;&lt;br/&gt;The two objectives of this research are to: (1) Conduct controlled chamber experiments using a non-pathogenic model coronavirus embedded in submicron aerosol in the presence/absence of ozone (O3) and hydroxyl (OH) radicals (separately) to examine how viability is influenced by atmospheric oxidation; and (2) Measure the concentrations of (SARS) CoV-2 and non-pathogenic T3 bacteriophage in aerosol with a novel BioSpot sampler and a gelatin filter sampler in at least 2 locations (e.g., wastewater treatment plant, hospital, daycare, nursing home, grocery store, classroom), and if viable viruses are detected to examine the ability of airborne O3 or OH radical treatment to inactivate the airborne (SARS) CoV-2 virus. &lt;br/&gt;&lt;br/&gt;This research is expected to lead to a better understanding of the viability of coronaviruses in sub-micron aerosol. It is anticipated that this effort will provide information relevant to the improved design of mitigation measures and shared indoor/outdoor spaces that are more resilient to respiratory virus transmission and more conducive to protecting public health.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/28/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/28/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2037541</AwardID>
+<Investigator>
+<FirstName>Barbara</FirstName>
+<LastName>Turpin</LastName>
+<EmailAddress>bjturpin@email.unc.edu</EmailAddress>
+<StartDate>06/28/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of North Carolina at Chapel Hill</Name>
+<CityName>CHAPEL HILL</CityName>
+<ZipCode>275991350</ZipCode>
+<PhoneNumber>9199663411</PhoneNumber>
+<StreetAddress>104 AIRPORT DR STE 2200</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1524</Code>
+<Text>Atmospheric Chemistry</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+</Award>
+</rootTag>

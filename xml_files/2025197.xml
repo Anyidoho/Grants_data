@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>How genomic shock triggers transposition during hybrid dysgenesis</AwardTitle>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>821430.00</AwardTotalIntnAmount>
+<AwardAmount>821430</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>MCB</Abbreviation>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Stephen DiFazio</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project seeks to determine how genome instability is triggered by transposable elements. Transposable elements (TEs) are selfish DNA elements that proliferate through genomes and cause mutation. More than sixty years ago, the geneticist Barbara McClintock demonstrated that DNA damage can lead to TE activation but how this happens is poorly understood. Moreover, since TEs themselves cause DNA damage, the activation of some TEs can trigger the activation of others. This is known as co-mobilization. By combining genetic manipulation with new methods of genome sequencing, this project will determine how the DNA damage caused by TEs triggers co-mobilization. The outcomes will provide new insight into how genome integrity is maintained across generations. This project will engage diverse undergraduate student researchers, providing training in genetic modification and genome analysis. Furthermore, it involves development and dissemination of teaching tools to the broader community, including video tutorials and software modules for genetic simulations.&lt;br/&gt;&lt;br/&gt;To determine how TE mobilization triggers the movement of other TEs, hybrid dysgenesis in Drosophila virilis will be used as a model. Hybrid dysgenesis is a syndrome of sterility caused by rampant transposition when paternally inherited TEs become mis-regulated in the germline. Long-read sequencing will be performed to directly measure transposition and co-mobilization across generations. This approach will be combined with strain-specific CRISPR to identify genetic factors that shape the profile of co-mobilization. There are two primary models for how co-mobilization may occur. One model proposes that TE activation is caused by disrupted genome defense. An alternate model is that TEs are directly activated by elements of the host DNA damage response. These two hypotheses will be tested using reporter analysis. Finally, the same methods will also be used to characterize co-mobilization in other model systems, in order to determine the generality of TE co-mobilization across species.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/28/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/28/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2025197</AwardID>
+<Investigator>
+<FirstName>Justin</FirstName>
+<LastName>Blumenstiel</LastName>
+<EmailAddress>jblumens@ku.edu</EmailAddress>
+<StartDate>07/28/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Kansas Center for Research Inc</Name>
+<CityName>Lawrence</CityName>
+<ZipCode>660457568</ZipCode>
+<PhoneNumber>7858643441</PhoneNumber>
+<StreetAddress>2385 IRVING HILL RD</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Kansas</StateName>
+<StateCode>KS</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1112</Code>
+<Text>Genetic Mechanisms</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

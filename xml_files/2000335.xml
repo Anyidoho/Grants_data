@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Young Mathematicians in C*-Algebras 2020</AwardTitle>
+<AwardEffectiveDate>06/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>31454.00</AwardTotalIntnAmount>
+<AwardAmount>31454</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Christian Rosendal</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award provides funding for US participation in the conference "Young Mathematicians in C*-Algebras" that will be held August 10-15, 2020 at the University of Münster, Germany. This conference is organized for and by Master's/Ph.D. students and postdocs in operator algebras and related areas, with the goal of fostering scientific interaction between young researchers. Young Mathematicians in C*-Algebras focuses on recent developments in operator algebras (both von Neumann and C*-algebras), noncommutative geometry, and related areas of mathematical analysis, with a particular emphasis on the interplay between operator algebras and the fields of geometric group theory, logic, and dynamical systems. &lt;br/&gt;&lt;br/&gt;The conference will feature three mini-courses by established researchers (Jesse Peterson, Astrid an Huef, and Christopher Schafhauser) alongside many contributed talks by participants, as well as mentoring activities designed to increase retention of underrepresented groups in operator algebras and a keynote address by Betül Tanbay. This award gives US-based early career researchers and members of underrepresented groups an opportunity to attend and participate in this conference. The organizing committee will strive to make this funding opportunity known to target groups via advertising in a variety of venues. More information will be made available at: https://ymcstara.org/.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/06/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>02/06/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2000335</AwardID>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Brannan</LastName>
+<EmailAddress>mbrannan@math.tamu.edu</EmailAddress>
+<StartDate>02/06/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ian</FirstName>
+<LastName>Charlesworth</LastName>
+<EmailAddress>ilc@math.berkeley.edu</EmailAddress>
+<StartDate>02/06/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kari</FirstName>
+<LastName>Eifler</LastName>
+<EmailAddress>keifler@math.tamu.edu</EmailAddress>
+<StartDate>02/06/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Texas A&amp;M University</Name>
+<CityName>College Station</CityName>
+<ZipCode>778454375</ZipCode>
+<PhoneNumber>9798626777</PhoneNumber>
+<StreetAddress>400 Harvey Mitchell Pkwy South</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1281</Code>
+<Text>ANALYSIS PROGRAM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+</Appropriation>
+</Award>
+</rootTag>

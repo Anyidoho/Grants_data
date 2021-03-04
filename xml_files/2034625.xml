@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RAPID: Understanding and Enhancing Internet Connectivity of Underserved Communities During the COVID-19 Crisis</AwardTitle>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>199303.00</AwardTotalIntnAmount>
+<AwardAmount>199303</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Deepankar Medhi</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>In the absence of pharmaceutical interventions for COVID-19, governments and authorities had to rely on other measures for curbing the impact of the pandemic. Almost everywhere in the world, measures of social distancing and shelter-at-home orders were put in place, leading to the need for people to work from home (WFH), including schooling. This situation once again highlighted the issue of digital divide. Even today, not everyone in the US has access to computing and broadband Internet connection. The objective of this project is twofold; (a) understand how underserved communities in Pittsburgh gained Internet access and what problems they faced, and (b) identify ways to improve the connectivity of underserved communities, by utilizing and significantly enhancing existing wireless mesh technologies, that will allow to share highly underutilized bandwidth resources with communities in need. The project seeks to bridge local information divide – which is leading to well-being divide – in the pandemic situation, where reliance on networked technologies is impacting people’s livelihoods. &lt;br/&gt;&lt;br/&gt;The main expected technical contributions of this project is the design of networks that can “ship” network capacity from underutilized locations to underserved locations, using low-cost mesh networks. Unlike previous approaches to mesh networking, the constraints of this problem are the immutable locations and the tradeoffs between capacity that can be allocated and the capacity that is needed. The limitations on these degrees of freedom will influence network design, as well as, mechanisms (routing, wireless channelization, adaptive rates) to dynamically deliver capacity to location which have the demand. The project will also provide a data-driven way to identify and target underutilized network resources, as well as, underserved locations and populations in need for network access. The dimensions of this problem are numerous, not well understood, and span social, infrastructural and technological factor. &lt;br/&gt;&lt;br/&gt;This project will support the work of MetaMesh in operating and expanding PittMesh, which is a crucial resource for underserved communities especially in times of crisis. Furthermore, the findings can support the development of policies to promote connectivity of unserved communities. While this would be applicable to widespread emergencies such as the COVID-19 pandemic shutdown, the project will explore policy proposals that would support narrower emergency response, as well as, promoting resilient service to underserved communities. In a world that is changing to online interactions (either mid-term or long-term), broadband connectivity is practically an essential household utility. Additional information about the project can be found at: http://www.pitt.edu/~kpele/PROJECTS/covid-netaccess.html&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/22/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/22/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2034625</AwardID>
+<Investigator>
+<FirstName>Prashant</FirstName>
+<LastName>Krishnamurthy</LastName>
+<EmailAddress>prashant@tele.pitt.edu</EmailAddress>
+<StartDate>06/22/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Martin</FirstName>
+<LastName>Weiss</LastName>
+<EmailAddress>mbw@pitt.edu</EmailAddress>
+<StartDate>06/22/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Konstantinos</FirstName>
+<LastName>Pelechrinis</LastName>
+<EmailAddress>kpele@pitt.edu</EmailAddress>
+<StartDate>06/22/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Eleanor</FirstName>
+<LastName>Mattern</LastName>
+<EmailAddress>emm225@pitt.edu</EmailAddress>
+<StartDate>06/22/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Pittsburgh</Name>
+<CityName>Pittsburgh</CityName>
+<ZipCode>152603203</ZipCode>
+<PhoneNumber>4126247400</PhoneNumber>
+<StreetAddress>300 Murdoch Building</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>158Y</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1N20</Code>
+</Appropriation>
+</Award>
+</rootTag>

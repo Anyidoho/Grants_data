@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SHF: Small: Synthesis of Complex Deep Neural Networks on Distributed Resource-Constrained Devices</AwardTitle>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>499867.00</AwardTotalIntnAmount>
+<AwardAmount>499867</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sankar Basu</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Deep neural network (DNN) machine learning algorithms have become significantly complex in order to address challenges in modern Information Technology applications such as smart city, autonomous driving, pervasive health care, among others. This complexity necessitates execution on high-end computing platforms which typically reside in a cloud infrastructure. Such applications rely on simple Internet of Things (IoT) devices, such as sensors, to gather data, which typically transfer their data via network to the cloud infrastructure for DNN processing and then receive back an inference. However, such an approach is not scalable to the billions of IoT devices that are projected in the near future. In addition, it cannot work when the network infrastructure is unavailable, and may not allow customization to learn from individual needs or for specific environments. In this project, new techniques will be investigated to directly deploy complex DNNs onto simple IoT devices which work in parallel, with the primary goal to perform an inference task as fast as possible. Technology developed in this project will enable rapid development of smart IoT devices, which can serve as fundamental building blocks of next generation smart services. The research outcomes will be disseminated through intellectual property filing, publication, lectures, and software distribution. They will also be integrated as new curriculum materials into existing courses.  Graduate and undergraduate students will be involved in the research activities, with an effort to recruit from women and underrepresented minorities.&lt;br/&gt;&lt;br/&gt;Specific research activities include: (1) exploring a new methodology to synthesize a complex DNN as a collection of smaller DNNs which are mapped to distributed IoT devices; (2) developing "class-aware" structure simplification techniques to aggressively prune any of the small DNNs when the goal is to cover a subset of the label space on a single IoT device and generate a "don't know" signal for the rest; (3) enhancing the inference accuracy via performing low-cost customizations which arise from usage and environmental factors, when implemented locally on each IoT device.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/20/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/15/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2006394</AwardID>
+<Investigator>
+<FirstName>Yu Hen</FirstName>
+<LastName>Hu</LastName>
+<EmailAddress>hu@engr.wisc.edu</EmailAddress>
+<StartDate>08/20/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Azadeh</FirstName>
+<LastName>Davoodi</LastName>
+<EmailAddress>adavoodi@wisc.edu</EmailAddress>
+<StartDate>08/20/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Wisconsin-Madison</Name>
+<CityName>MADISON</CityName>
+<ZipCode>537151218</ZipCode>
+<PhoneNumber>6082623822</PhoneNumber>
+<StreetAddress>21 North Park Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>2878</Code>
+<Text>Special Projects - CCF</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>075Z</Code>
+<Text>Artificial Intelligence (AI)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>086Z</Code>
+<Text>Neuromorphic Computing</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7945</Code>
+<Text>DES AUTO FOR MICRO &amp; NANO SYST</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+</Appropriation>
+</Award>
+</rootTag>

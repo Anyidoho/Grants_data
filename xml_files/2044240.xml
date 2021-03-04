@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>BEA Outgoing IAA for the Development of Trade-in-Value-Added Statistics</AwardTitle>
+<AwardEffectiveDate>09/30/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>1500000.00</AwardTotalIntnAmount>
+<AwardAmount>1500000</AwardAmount>
+<AwardInstrument>
+<Value>Contract Interagency Agreement</Value>
+</AwardInstrument>
+<Organization>
+<Code>04030000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>NCSE</Abbreviation>
+<LongName>National Center For S&amp;E Statistics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ledia Guci</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration/>
+<MinAmdLetterDate>09/21/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>09/21/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2044240</AwardID>
+<Investigator>
+<FirstName>Thomas</FirstName>
+<LastName>Howells</LastName>
+<EmailAddress>thomas.howells@bea.gov</EmailAddress>
+<StartDate>09/21/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Bureau of Economic Analysis</Name>
+<CityName>Washington</CityName>
+<ZipCode>20230</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<StateCode>DC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8804</Code>
+<Text>S&amp;E Indicators</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+</Appropriation>
+</Award>
+</rootTag>

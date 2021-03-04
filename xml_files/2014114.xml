@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RUI: Studies of Nucleon Structure at Jefferson Lab</AwardTitle>
+<AwardEffectiveDate>08/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>510000.00</AwardTotalIntnAmount>
+<AwardAmount>170000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Allena K. Opper</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>It is now a well-established fact that nucleons (protons and neutrons) are made up of more elementary constituents: quarks and gluons.  The research program supported by this award aims to study the internal structure of nucleons.  More specifically, the PIs and their team of students will scatter electrons from protons and neutrons at Jefferson Laboratory to measure the electric and magnetic properties of the nucleon, which represent where the quarks and gluons are inside the nucleons.  This group contributes to these efforts through the design of new experiments, the construction of advanced particle detectors, and the development of novel analysis, modeling, and data acquisition software.  The PIs provide meaningful, substantive projects to both undergraduate and graduate students.  The PIs? mentoring of the students in these challenging projects prepares the students for STEM careers.&lt;br/&gt;&lt;br/&gt;This group?s long-established program of experiments embody Jefferson Lab?s fundamental mission: to elucidate the underlying structure of protons, neutrons, and mesons.  They focus on experiments that will further our understanding of the quark spin structure of the proton and neutron in the non-perturbative regime.  As this program moves forward using Jefferson Lab?s recently commissioned 12 GeV electron beam, this group is poised to take advantage of the increased physics reach.  The PIs continue to lead efforts to extend the measurements of the proton and neutron electromagnetic form factors to the highest momentum transfers possible at Jefferson Lab, and also investigate possible modification of the proton form factor ratio within the nuclear medium.  These experiments provide strong tests of the available theoretical models of nucleon structure, and at the same time serve as an impetus for the development of new and more advanced models based on Quantum Chromo-Dynamics (QCD).&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/03/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/03/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2014114</AwardID>
+<Investigator>
+<FirstName>Edward</FirstName>
+<LastName>Brash</LastName>
+<EmailAddress>brash@pcs.cnu.edu</EmailAddress>
+<StartDate>08/03/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Heddle</LastName>
+<EmailAddress>david.heddle@cnu.edu</EmailAddress>
+<StartDate>08/03/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Christopher Newport University</Name>
+<CityName>Newport News</CityName>
+<ZipCode>236063072</ZipCode>
+<PhoneNumber>7575947392</PhoneNumber>
+<StreetAddress>1 Avenue of the Arts</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1232</Code>
+<Text>Nuclear &amp; Hadron Quantum Chrom</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9229</Code>
+<Text>RES IN UNDERGRAD INST-RESEARCH</Text>
+</ProgramReference>
+</Award>
+</rootTag>

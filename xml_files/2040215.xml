@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>TWC: Large: Collaborative: Computing Over Distributed Sensitive Data</AwardTitle>
+<AwardEffectiveDate>02/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>95700.00</AwardTotalIntnAmount>
+<AwardAmount>95700</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nina Amla</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Information about individuals is collected by a variety of organizations including government agencies, banks, hospitals, research institutions, and private companies. In many cases, sharing this data among organizations can bring benefits in social, scientific, business, and security domains, as the collected information is of similar nature, of about similar populations. However, much of this collected data is sensitive as it contains personal information, or information that could damage an organization's reputation or competitiveness. Sharing of data is hence often curbed for ethical, legal, or business reasons. &lt;br/&gt;&lt;br/&gt;This project develops a collection of tools that will enable the benefits of data sharing without having the data owners share the data. The techniques developed respect principles of data ownership and privacy requirement, and draw on recent scientific developments in privacy, cryptography, machine learning, computational statistics, program verification, and system security. The tools developed in this project will contribute to the existing research and business infrastructure, and hence enable new ways to create value in information whose use would have been otherwise restricted. The project supports the development of new curricula material and train a new generation of researchers and citizens with the multidisciplinary perspectives required to address the complex issues surrounding data privacy.</AbstractNarration>
+<MinAmdLetterDate>09/08/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2040215</AwardID>
+<Investigator>
+<FirstName>Marco</FirstName>
+<LastName>Gaboardi</LastName>
+<EmailAddress>gaboardi@bu.edu</EmailAddress>
+<StartDate>09/08/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Trustees of Boston University</Name>
+<CityName>BOSTON</CityName>
+<ZipCode>022151300</ZipCode>
+<PhoneNumber>6173534365</PhoneNumber>
+<StreetAddress>881 COMMONWEALTH AVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8060</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7434</Code>
+<Text>CNCI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7925</Code>
+<Text>LARGE PROJECT</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0119</Code>
+</Appropriation>
+</Award>
+</rootTag>

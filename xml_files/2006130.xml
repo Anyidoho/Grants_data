@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  A non-viral gene editing platform for cell therapies in the veterinary market</AwardTitle>
+<AwardEffectiveDate>06/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>225000.00</AwardTotalIntnAmount>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Erik Pierstorff</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact of this Small Business Innovation Research (SBIR) Phase I project is to advance a novel way to treat cancer.  The proposed project will use of reprogrammed, living immune cells to recognize and destroy cancer. The technology developed here can be used for treatment of this disease in dogs, and ultimately for humans.  &lt;br/&gt;&lt;br/&gt;The proposed project is focused on application of novel gene editing technology to the engineering of cell therapies and demonstrating the safety of the resultant therapeutic modality in canines. This therapeutic modality is a human T immune cell reprogrammed with a Chimeric Antigen Receptor engineered to bind to CD20 (chCAR20-T cells), a protein found on the surface of cancerous B cells. Identifying optimal gene delivery and gene editing conditions is a primary focus towards enhanced manufacturing of CAR-T cells without the use of a virus. These optimal methods will be used to generate doses of allogeneic chCAR20-T cells and tested against multiple lines of CD20+ canine cancers in order to confirm their cytotoxic activity. The final objective of this proposal is to transplant chCAR20-T cells into laboratory canines to prove safety in vivo.  This manufacturing platform can be applied to the development of human cell therapies.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/08/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/08/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2006130</AwardID>
+<Investigator>
+<FirstName>Wesley</FirstName>
+<LastName>Wierson</LastName>
+<EmailAddress>wes@leahlabs.com</EmailAddress>
+<StartDate>05/08/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>LIFENGINE ANIMAL HEALTH LABORATORIES INCORPORATED</Name>
+<CityName>ROCHESTER</CityName>
+<ZipCode>559023648</ZipCode>
+<PhoneNumber>5159799851</PhoneNumber>
+<StreetAddress>14 4TH ST SW STE 203</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<StateCode>MN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8038</Code>
+<Text>Biotechnology</Text>
+</ProgramReference>
+</Award>
+</rootTag>

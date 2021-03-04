@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Rapid, pre-symptomatic detection of COVID-19 and unknown viruses using a novel biosensor chip, computer vision and machine learning.</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>248706.00</AwardTotalIntnAmount>
+<AwardAmount>248706</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Henry Ahn</SignBlockName>
+<PO_EMAI>hahn@nsf.gov</PO_EMAI>
+<PO_PHON>7032927069</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to develop a novel device to detect COVID-19, its derivative strains, and new, unknown viruses in pre-symptomatic environments. Current methods depend on knowing the viral structure and/or producing antibodies to specific, known viral proteins.  This project will provide pre-symptomatic virus detection using a standard throat or nasal swab in a rapid point-of-care format (20 minutes) for preemptive detection of emerging viral infections of both known and unknown origin. The project integrates machine learning with novel devices. This could potentially alleviate social distancing concerns, particularly in special environments, such as nursing homes and schools. &lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project employs cellular phenotyping to detect viral infection of cells. A cell’s phenotype is the particular cell’s morphology, functionality and otherwise observable characteristics which result from the specific combination of its present genomic and protein expression. This project combines a novel computer vision algorithm with lithographically-prepared, highly-characterized microchip substrates that impart specific, quantifiable, physical, and chemical cues to cells. This enables in-vitro observation of their responses and to quantitatively characterize cell phenotype and detection of meaningful cell behavior deviations or anomalies due to the onset of cellular viral infection. This project will demonstrate: 1) the capability of a machine vision image analysis algorithm to extract the most relevant datasets; and 2) the ability to detect meaningful feature vectors due to infection onset. The anticipated technical results are to characterize cell phenotype through in-vitro studies, demonstrate the use of infected cell phenotype features to diagnose viral infections with traditional modes of light microscopy, and describe the phenotyping of cell lines infected with a SARS-CoV-2-like coronavirus.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/01/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2033921</AwardID>
+<Investigator>
+<FirstName>Stephen</FirstName>
+<LastName>Turner</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Stephen Turner</PI_FULL_NAME>
+<EmailAddress>originsllc@yahoo.com</EmailAddress>
+<PI_PHON>3016060840</PI_PHON>
+<NSF_ID>000825722</NSF_ID>
+<StartDate>09/01/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>NANOCRINE, INC.</Name>
+<CityName>FREDERICK</CityName>
+<CountyName>FREDERICK</CountyName>
+<ZipCode>217016814</ZipCode>
+<PhoneNumber>3016060840</PhoneNumber>
+<StreetAddress>3011 PALATINE DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD06</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>117497549</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>NANOCRINE, INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[NANOCRINE, INC.]]></Name>
+<CityName/>
+<CountyName>FREDERICK</CountyName>
+<StateCode>MD</StateCode>
+<ZipCode>217013034</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>004E</Code>
+<Text>BIOMEDICAL ENG AND DIAGNOSTICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8009</Code>
+<Text>Scientifc Software Integration</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8038</Code>
+<Text>Biotechnology</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<FUND_OBLG>2020~248706</FUND_OBLG>
+</Award>
+</rootTag>

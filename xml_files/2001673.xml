@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Research in Mathematical Physics and Algebraic Geometry</AwardTitle>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>520000.00</AwardTotalIntnAmount>
+<AwardAmount>196570</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>James Matthew Douglass</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The goal of this project is to explore and push forward some of the major issues at the interface of algebraic geometry with string theory and quantum field theory. The research will employ and combine a variety of techniques from algebraic geometry, topology, integrable systems, string theory, and quantum field theory. The project also includes many broader impact activities such as curricular development at the graduate and undergraduate level, and research training opportunities for postdocs, graduate and undergraduate students. &lt;br/&gt;&lt;br/&gt;Exploration of the interactions of string theory and quantum field theory with algebraic geometry has been extremely productive for decades, and the power of this combination of tools and approaches only seems to strengthen with time. In this project, the PI plans to carry out: (1) a quantum field theory-inspired attack on the geometric Langlands conjecture via non-abelian Hodge theory; (2) a mathematical investigation of the recently discovered physical theories of class S in terms of variations of Hitchin systems; (3) applications of ideas from supergeometry to higher loop calculations in string theory; (4) exploration of moduli questions in algebraic geometry, some of them motivated by a quantum field theory conjecture, others purely within algebraic geometry; (5) extension of his construction of Calabi-Yau integrable systems realizing Hitchin's system to meromorphic and parabolic versions; and (6) further exploration of aspects of F-theory and establishment of its mathematical foundations. Each of these specific research areas represents a major open problem in math and/or in physics, whose solution will make a major contribution to the field.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/07/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/07/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2001673</AwardID>
+<Investigator>
+<FirstName>Ron</FirstName>
+<LastName>Donagi</LastName>
+<EmailAddress>donagi@math.upenn.edu</EmailAddress>
+<StartDate>04/07/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Pennsylvania</Name>
+<CityName>Philadelphia</CityName>
+<ZipCode>191046205</ZipCode>
+<PhoneNumber>2158987293</PhoneNumber>
+<StreetAddress>Research Services</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1264</Code>
+<Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+</Appropriation>
+</Award>
+</rootTag>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Genius of Place Database</AwardTitle>
+<AwardEffectiveDate>06/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>224297.00</AwardTotalIntnAmount>
+<AwardAmount>224297</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rajesh Mehta</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to bring biomimetic ideas to traditional architecture. This project consists of a development of a robust and innovative database to catalyze incorporating scientific concepts into designs for the built environment.  This project will inspire the design of naturally resilient structures. &lt;br/&gt;&lt;br/&gt;This SBIR Phase I project proposes to develop an innovative sustainability tool that abstracts the knowledge of biology from scientific literature and makes it available to architects and designers such that the built environment sector can support biomimetic ideas implementable in terms of material availability and structural codes. The project will be organized by building challenge category, biome, and function.  It will filter champion organisms that have already solved the specified function, and provide translated principles and images to explain the solution.  The project will interpret, capture, store, and systematically distribute their translation of natural systems models for diverse application in the built environment.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/18/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/18/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2015132</AwardID>
+<Investigator>
+<FirstName>Cynthia</FirstName>
+<LastName>Fishman</LastName>
+<EmailAddress>discover@biomimicrydesignalliance.org</EmailAddress>
+<StartDate>05/18/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>BIOMIMICRY DESIGN ALLIANCE, LLC</Name>
+<CityName>DENVER</CityName>
+<ZipCode>802202714</ZipCode>
+<PhoneNumber>7132695881</PhoneNumber>
+<StreetAddress>1229 KRAMERIA ST</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8032</Code>
+<Text>Software Services and Applications</Text>
+</ProgramReference>
+</Award>
+</rootTag>

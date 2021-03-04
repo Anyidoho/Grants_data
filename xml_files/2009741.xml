@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Advection and Deposition of Microscale Droplets in Respiratory Airways</AwardTitle>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>196092.00</AwardTotalIntnAmount>
+<AwardAmount>196092</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pedro Embid</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Infectious diseases transmitted by tiny droplets of respiratory fluids affect tens of millions of people worldwide. Better understanding of the mechanism of transmission of infections can lead improvements in both treatment and protection strategies. While the main focus of the project is on transmission of tuberculosis, its broader societal impacts include potential applications to other infectious diseases such as influenza and COVID-19. Educational impacts of the project include training both graduate and undergraduate students in an interdisciplinary environment with close interaction between applied mathematicians and biomedical researchers. &lt;br/&gt;&lt;br/&gt;The main focus of the project is on the development of mathematical models describing transport and deposition of droplets of respiratory fluids containing the disease agent produced by cough or sneezing of an infected individual. Using a multiscale framework, dynamics of an individual droplet and its interaction with the airway wall is investigated and then incorporated into a global model based on Vlasov-type equation for droplet transport in a geometry representing respiratory airways. The effects of phase change such as evaporation and condensation on the size distribution of the droplets and the nature of their interaction with the wall are considered. A model of respiratory liquid accounts for the presence of components such as proteins, surfactants, and salts. The key questions addressed are the deposition location and size distributions of the droplets as functions of the initial distribution, as well as environmental parameters such as temperature and humidity.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/27/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/27/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2009741</AwardID>
+<Investigator>
+<FirstName>Vladimir</FirstName>
+<LastName>Ajaev</LastName>
+<EmailAddress>ajaev@mail.smu.edu</EmailAddress>
+<StartDate>07/27/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Southern Methodist University</Name>
+<CityName>Dallas</CityName>
+<ZipCode>752750302</ZipCode>
+<PhoneNumber>2147682030</PhoneNumber>
+<StreetAddress>6425 BOAZ</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1266</Code>
+<Text>APPLIED MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+</Award>
+</rootTag>

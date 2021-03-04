@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CC* Planning: NC Regional Science DMZ</AwardTitle>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>99796.00</AwardTotalIntnAmount>
+<AwardAmount>99796</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kevin Thompson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Scientific approaches relying on big data and on large data transfers require unique cyberinfrastructure, called Science DMZs, to support fast and easy data transfers and access of data. Typically, the benefits of these complicated Science DMZs have accrued to large, well-resourced ?Research-Intensive? institutions, which compounds an already growing disparity between large and small institutions, especially often-lesser-resourced minority serving institutions. This also makes it much more difficult for smaller institutions with a primarily instructional mission to expand existing research and expose students to scientific approaches or collaborations, including those that may rely on big data.&lt;br/&gt;&lt;br/&gt;Through a partnership between Duke University, North Carolina Central University, Davidson College, and MCNC (NC?s regional research and education network provider), this project plans the creation of a shared Science DMZ (sS-DMZ) as a service of the North Carolina Research and Education Network so that lesser-resourced institutions do not have to bear all setup and maintenance costs and can instead commit their resources to local infrastructure, their scientific researchers and pursuit of new research grants. This project works with regional higher-ed institutions to 1) establish community trust and shared governance responsibility necessary to expand participation in a sS DMZ program and 2) architect the approach to build the technical solution of operating a sS-DMZ. The resulting proposal will also inform the feasibility of a sSDMZ in other Research and Education Networks in the United States as an approach to reduce overall costs while increasing access to Big Data science.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/24/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/24/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2018401</AwardID>
+<Investigator>
+<FirstName>Tracy</FirstName>
+<LastName>Futhey</LastName>
+<EmailAddress>futhey@duke.edu</EmailAddress>
+<StartDate>06/24/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Charles</FirstName>
+<LastName>Kneifel</LastName>
+<EmailAddress>charley.kneifel@duke.edu</EmailAddress>
+<StartDate>06/24/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jean</FirstName>
+<LastName>Davis</LastName>
+<EmailAddress>jeandavis@mcnc.org</EmailAddress>
+<StartDate>06/24/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Eva</FirstName>
+<LastName>Kraus</LastName>
+<EmailAddress>leah.kraus@nccu.edu</EmailAddress>
+<StartDate>06/24/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kevin</FirstName>
+<LastName>Davis</LastName>
+<EmailAddress>kedavis@davidson.edu</EmailAddress>
+<StartDate>06/24/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Duke University</Name>
+<CityName>Durham</CityName>
+<ZipCode>277054010</ZipCode>
+<PhoneNumber>9196843030</PhoneNumber>
+<StreetAddress>2200 W. Main St, Suite 710</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8080</Code>
+<Text>Campus Cyberinfrastructure</Text>
+</ProgramElement>
+</Award>
+</rootTag>

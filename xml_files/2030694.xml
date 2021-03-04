@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RAPID: Vulnerable Populations, Online Information, and COVID-19</AwardTitle>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>85427.00</AwardTotalIntnAmount>
+<AwardAmount>85427</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>SES</Abbreviation>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jan Leighley</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Vulnerable populations are especially at-risk if they consume inaccurate information about COVID-19. This project generates data and analyses that can be used to better limit and control the spread of inaccurate information about COVID-19 that targets vulnerable populations. The data shows how the amount and focus of inaccurate information on several online platforms changed after the initial outbreak of the COVID-19 crisis, and how the information moved across platforms and among different groups. The project examines how to potentially mitigate the effects of inaccurate information about the pandemic on public health, and in particular seeks to protect individuals in vulnerable groups from relying on inaccurate information. &lt;br/&gt;&lt;br/&gt;This project collects data on online groups across multiple online platforms. Using a combination of human- and machine-coding, the diffusion of inaccurate information targeted to vulnerable groups across platforms is documented. Mathematical modeling is used to understand the dynamics of how inaccurate information diffuses across networks, as well as the relative potential effectiveness of strategies to reduce its spread.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/23/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/23/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2030694</AwardID>
+<Investigator>
+<FirstName>Neil</FirstName>
+<LastName>Johnson</LastName>
+<EmailAddress>neiljohnson@gwu.edu</EmailAddress>
+<StartDate>06/23/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Yonatan</FirstName>
+<LastName>Lupu</LastName>
+<EmailAddress>ylupu@gwu.edu</EmailAddress>
+<StartDate>06/23/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>George Washington University</Name>
+<CityName>Washington</CityName>
+<ZipCode>200520086</ZipCode>
+<PhoneNumber>2029940728</PhoneNumber>
+<StreetAddress>1922 F Street NW</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<StateCode>DC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>118Y</Code>
+<Text>Security &amp; Preparedness</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>120Y</Code>
+<Text>AIB-Acctble Institutions&amp;Behav</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8060</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>065Z</Code>
+<Text>Human factors for security research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7434</Code>
+<Text>CNCI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1N20</Code>
+</Appropriation>
+</Award>
+</rootTag>

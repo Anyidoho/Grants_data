@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CSHL 2020 Conference "From Neuroscience to Artificially Intelligent Systems," Cold Spring Harbor, New York, March 24-28, 2020</AwardTitle>
+<AwardEffectiveDate>02/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>49312.00</AwardTotalIntnAmount>
+<AwardAmount>49312</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08090200</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IOS</Abbreviation>
+<LongName>Division Of Integrative Organismal Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sridhar Raghavachari</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The conference,"From Neuroscience to Artificially Intelligent Systems", to be held at Cold Spring Harbor Laboratory will bring together researchers from diverse disciplines such as neuroscience, cognitive science, machine learning and computer science to articulate a convergence approach to explore new directions in artificially intelligent systems. While machine learning (ML) and artificial intelligence (AI) has revolutionized our ability to process large data sets and infer patterns within them. Algorithmic advances in ML and AI have created entirely new sectors of the economy and have the potential for myriad societal benefits. However, natural systems remain more adept at interacting with the world compared to artificial ones. Moreover, they do so with considerably less processing and energetic constraints. The guiding principle of this conference is that insights from neuroscience are vital for designing the next generation of AI and ML systems. This meeting will assemble an international gathering of scientists from both AI and neuroscience disciplines. Participants will be drawn from academic centers, research institutes and industrial centers and will include leaders in the field, established investigators, junior faculty, postdoctoral fellows, and graduate students. This broad representation will enable excellent coverage of the scientific topics while providing opportunities for synergistic interactions among the participants. The intimate and informal setting will promote  community-level  discussion  of  challenges  and  opportunities  for  the  field. The results of this project will achieve broad impact by identifying new and facile approaches to draw from insights into brain function to design ML and AI algorithms. Invited workshop participants will include a very diverse range of participants in order to achieve diversity across a number of dimensions, including faculty rank, gender, underrepresented groups and institutional diversity. This approach will facilitate the scientific and professional development of early career researchers as well as the inclusion of scientists from traditionally underrepresented groups.&lt;br/&gt;&lt;br/&gt;The workshop will bring together research leaders across diverse disciplines for intensive discussions aimed at leveraging insights from neuroscience to design the next generation of machine learning and artificially intelligent systems. This meeting will focus on the most successful examples of unification and seek to explore their basis and generalization. The meeting will identify tools, models and theories from biology, evolution and neuroscience that can be used to catalyze new designs of artificially intelligent systems that can potentially be as adept as natural ones. This activity is consistent with the National Artificial Intelligence Research and Development Strategic Plan, which identifies as its first strategic objective the need to make long-term investments in AI research in areas with the potential for long-term payoffs in AI.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/17/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>01/17/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2005611</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Stewart</LastName>
+<EmailAddress>stewart@cshl.edu</EmailAddress>
+<StartDate>01/17/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Anthony</FirstName>
+<LastName>Zador</LastName>
+<EmailAddress>zador@cshl.edu</EmailAddress>
+<StartDate>01/17/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Cold Spring Harbor Laboratory</Name>
+<CityName>COLD SPRING HARBOR</CityName>
+<ZipCode>117244220</ZipCode>
+<PhoneNumber>5163678307</PhoneNumber>
+<StreetAddress>1 BUNGTOWN ROAD</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7713</Code>
+<Text>Activation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

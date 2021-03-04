@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CNS Core: Small: Harnessing Wireless Actuation</AwardTitle>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>497200.00</AwardTotalIntnAmount>
+<AwardAmount>497200</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alexander Sprintson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The project will perform a deep exploration of a new category of wireless systems -- systems that actively use wireless signals to heat objects of interest. While there has been much work on using wireless signals to sense the environment, the ability of wireless signals to influence the environment -- i.e., wireless actuation -- has been relatively less explored. Perhaps the most common wireless actuation equipment is the microwave oven, which heats food using radio waves, yet lacks the ability to precisely and programmatically cook food according to pre-specified patterns of heating. Through this project, we aim to develop a mechanism to effectively control wireless signals to heat objects-of-interest at a significantly finer granularity. Beyond cooking, the proposed work targets applications in manufacturing and control of soft robots. The proposed work has a detailed integrated education and outreach program including curriculum development and summer workshops for K-12 students from underrepresented communities in Greater Pittsburgh. &lt;br/&gt;&lt;br/&gt;The proposed work will lead to the following intellectual contributions: (1) The design of microwave-safe equipment to sense and modify wireless signals within a chamber; (2) The development of algorithms and system design that actively heat the object-of-interest according to the desired pattern in 3-D space both with and without physical movement; (3) An end-to-end implementation of the system and evaluation of performance for diverse tasks, including cooking, programmatically applying heat for 3-D fabrication and design of heat-based soft robotic systems. The proposed work will more broadly impact multiple disciplines including wireless systems, robotics, manufacturing, and human-computer interfaces.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/28/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/15/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2007786</AwardID>
+<Investigator>
+<FirstName>Swarun</FirstName>
+<LastName>Kumar</LastName>
+<EmailAddress>swarun@cmu.edu</EmailAddress>
+<StartDate>08/28/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Carnegie-Mellon University</Name>
+<CityName>PITTSBURGH</CityName>
+<ZipCode>152133815</ZipCode>
+<PhoneNumber>4122688746</PhoneNumber>
+<StreetAddress>5000 Forbes Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7363</Code>
+<Text>Networking Technology and Syst</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+</Appropriation>
+</Award>
+</rootTag>

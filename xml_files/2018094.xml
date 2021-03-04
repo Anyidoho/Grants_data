@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Perceived Causes and Clarity of Financial Market Jumps</AwardTitle>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>520000.00</AwardTotalIntnAmount>
+<AwardAmount>520000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>SES</Abbreviation>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Senay Agca</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Abstract&lt;br/&gt;&lt;br/&gt;This project examines what causes stock market jumps by exploring and characterizing next-day newspaper accounts of daily stock market moves both in the United States and a range of other countries. This project advances the body of knowledge in this area in both the scale and the scope. The project examines over 5,000 stock market jumps in 15 countries back to the 1900s and characterizes information on what triggered the jump through human processing. The project further explores the geographic source of the market-moving information, and the clarity of perceptions about the reasons for the jump. Considering stock market jumps of different types and levels of clarity indicate different downstream effects on market volatility.&lt;br/&gt;&lt;br/&gt;This project explores stock market jumps by examining newspaper accounts over a long time period and for a large set of countries. The project examines the significant role the United States plays in global stock markets, particularly since 1980. The project further explores the countercyclical role of government policy; jumps associated with monetary policy and government spending are the most over-represented following negative non-policy market moves. The project further investigates the impact of both the cause and the clarity of stock market jumps on future market volatility. Jumps driven by non-policy events and jumps that are less clearly attributed to a single cause tend to have significant positive effects on volatility over the next days and weeks.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/16/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/16/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2018094</AwardID>
+<Investigator>
+<FirstName>Nicholas</FirstName>
+<LastName>Bloom</LastName>
+<EmailAddress>nbloom@stanford.edu</EmailAddress>
+<StartDate>07/16/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Steven</FirstName>
+<LastName>Davis</LastName>
+<EmailAddress>Steven.Davis@chicagobooth.edu</EmailAddress>
+<StartDate>07/16/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Scott</FirstName>
+<LastName>Baker</LastName>
+<EmailAddress>s-baker@kellogg.northwestern.edu</EmailAddress>
+<StartDate>07/16/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>National Bureau of Economic Research Inc</Name>
+<CityName>Cambridge</CityName>
+<ZipCode>021385398</ZipCode>
+<PhoneNumber>6178683900</PhoneNumber>
+<StreetAddress>1050 Massachusetts Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1320</Code>
+<Text>Economics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1320</Code>
+<Text>ECONOMICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

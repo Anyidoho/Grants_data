@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Summer School for Young Researchers on Representations of Finite Groups</AwardTitle>
+<AwardEffectiveDate>06/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>10000.00</AwardTotalIntnAmount>
+<AwardAmount>10000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>James Matthew Douglass</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project will support travel of U.S.-based graduate students to attend the international conference "Representations in Castro: A Summer School." The conference is aimed at early-career mathematicians (especially graduate students) and is to be held September 7-12, 2020, at the Centro Internacional de Encuentros Matematicos (CIEM) in Castro Urdiales, Spain. The summer school is primarily for the purpose of training young researchers and encouraging their mastery of the subject area.  It will begin with three days of introductory lectures, followed by three days of more advanced lectures introducing the students to some current hot topics in the mathematical area of representation theory. The conference has three organizers and five speakers, representing a total of six countries. Hence, by allowing U.S.-based students to attend the summer school, this grant will stimulate important international collaboration and networking in the area.   Women and members of other groups underrepresented in mathematics are especially encouraged to participate, as building a network of peers early in one's research career has been shown to be especially crucial for staying active and visible in the field.&lt;br/&gt; &lt;br/&gt;The summer school will encourage cross-pollination between the two related (but sometimes seemingly distant) fields of character theory and module theory.  Many of the recent advances and open conjectures in the area of representation theory have made it clear that there is a strong benefit to combining the techniques from both sides.  The introductory lectures are designed for graduate students and postdocs with a good background in algebra but no prior knowledge in representation theory. They will cover the general theory from two different points of view: one focusing on the more numerical, character-theoretic point of view, and the other on the homological, module-theoretic point of view.  These courses will have a strong focus on arriving at some of the key definitions and concepts in block theory. The second part of the summer school will be aimed at showing the students some of the current directions of representation theory and how both perspectives play a role in some of the fundamental conjectures in the area.  Throughout the summer school, lectures will be alternated with discussion and problem sessions led by the speakers and organizers.  By providing students with an intensive introductory series of courses and lectures on current hot topics in the area, the summer school aims to motivate young researchers to use their talents to advance the state of knowledge in the area and to inspire a new generation of well-rounded representation theorists. The conference website is https://sites.msudenver.edu/castrosummerschool/2019/09/17/hello-world/.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/21/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/21/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2001077</AwardID>
+<Investigator>
+<FirstName>Amanda</FirstName>
+<LastName>Schaeffer Fry</LastName>
+<EmailAddress>aschaef6@msudenver.edu</EmailAddress>
+<StartDate>04/21/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Metropolitan State University of Denver</Name>
+<CityName>Denver</CityName>
+<ZipCode>802041806</ZipCode>
+<PhoneNumber>3033527004</PhoneNumber>
+<StreetAddress>890 Auraria Parkway</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1264</Code>
+<Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

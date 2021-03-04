@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SHF: Small: Personalizing API Documentation</AwardTitle>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>500000.00</AwardTotalIntnAmount>
+<AwardAmount>500000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sol Greenspan</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Application programming interfaces (APIs), including libraries, frameworks, toolkits, software development kits and web services, are used throughout most programmers' code. Since programming is a human activity, the usability of the APIs has a big impact on the effectiveness of the programmer and the resulting code: poor usability of APIs has been shown to result in bugs and security holes in code, as well as to reduce the programmer's productivity. Further, today's programmers must be learning new APIs all the time, as they switch projects or start using new packages or web services. A longstanding, but often overlooked, complaint about the usability of APIs is in the documentation. To be effective, API documentation must inform programmers, who have varying levels of expertise, how to correctly and effectively use the API. This project will create and empirically evaluate a system that automatically estimates the knowledge needs to use an API, and the needs and learning style of the user, to create personalized documentation focused on what the user needs to know. The project has the potential to significantly improve API usability and API learning, which could improve programmer effectiveness and productivity, and reduce bugs and security flaws, which would have a significant impact on all computerized systems. &lt;br/&gt;&lt;br/&gt;This project involves fundamental research to identify and represent the knowledge that a programmer has, and programmers' learning styles, as it relates to APIs, based on user-centered studies and computational techniques including mining software repositories and natural language processing. From these sources, the system will identify how to create personalized documentation, which presents the right information in an appropriate format, without requiring the documentation writer to do much more work. The research will also identify new ways to support process-oriented learning and tinkering so they are both more effective. The research includes validating all of these for effectiveness through appropriate user studies using real and large APIs in collaboration with the research team's industrial partners. The research also aims to support diverse learning styles that are often the styles favored by underrepresented populations that tend to be unsupported in software.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/24/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/24/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2007482</AwardID>
+<Investigator>
+<FirstName>Brad</FirstName>
+<LastName>Myers</LastName>
+<EmailAddress>bam@cs.cmu.edu</EmailAddress>
+<StartDate>06/24/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Bogdan</FirstName>
+<LastName>Vasilescu</LastName>
+<EmailAddress>vasilescu@cmu.edu</EmailAddress>
+<StartDate>06/24/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Carnegie-Mellon University</Name>
+<CityName>PITTSBURGH</CityName>
+<ZipCode>152133815</ZipCode>
+<PhoneNumber>4122688746</PhoneNumber>
+<StreetAddress>5000 Forbes Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7798</Code>
+<Text>Software &amp; Hardware Foundation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7944</Code>
+<Text>SOFTWARE ENG &amp; FORMAL METHODS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

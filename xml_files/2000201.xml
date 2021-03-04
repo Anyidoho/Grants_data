@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: HBCU-Excellence in Research--Planetary Boundary Layer Processes from an Incipient Surface/Upper Air Mesonet Network in the Baltimore-Washington Region</AwardTitle>
+<AwardEffectiveDate>06/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>199902.00</AwardTotalIntnAmount>
+<AwardAmount>199902</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020105</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AGS</Abbreviation>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nicholas Anderson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award funds the acquisition of instruments that measure meteorological properties from the Earth?s surface to lower atmosphere.  The main research goal of this project is to study the influence of the urban heat island in the Baltimore to Washington DC greater metropolitan areas.  This region has varied land use, topography, and water bodies that complicate forecasts of weather, especially for air quality.  The instrumentation will enhance the research capacity at two Historically Black Colleges and Universities (HBCUs) and provide hands-on instrumentation opportunities for students.&lt;br/&gt;&lt;br/&gt;The overarching long-term goal of the project is to use a combination of ground-based and remote sensing techniques to answer questions about how the Planetary Boundary Layer (PBL) changes based on land surface characteristics.  A small collection of instrumentation for boundary layer studies exists in the Baltimore-Washington region, and this award will add to that by providing funds for three eddy covariance systems for surface fluxes, a ceilometer for the assessment of boundary layer height, and two radiosonde ground stations for balloon-based observations of the atmosphere.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/09/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/09/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2000201</AwardID>
+<Investigator>
+<FirstName>Ricardo</FirstName>
+<LastName>Sakai</LastName>
+<EmailAddress>ricardo.k.sakai@howard.edu</EmailAddress>
+<StartDate>06/09/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Belay</FirstName>
+<LastName>Demoz</LastName>
+<EmailAddress>bdemoz@umbc.edu</EmailAddress>
+<StartDate>06/09/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Howard University</Name>
+<CityName>Washington</CityName>
+<ZipCode>200599000</ZipCode>
+<PhoneNumber>2028064759</PhoneNumber>
+<StreetAddress>2400 Sixth Street N W</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<StateCode>DC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>070Y</Code>
+<Text>HBCU-EiR - HBCU-Excellence in</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1525</Code>
+<Text>PHYSICAL &amp; DYNAMIC METEOROLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>4444</Code>
+<Text>INTERDISCIPLINARY PROPOSALS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

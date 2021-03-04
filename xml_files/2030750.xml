@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER: Rapid and Sensitive Drug Testing for COVID-19</AwardTitle>
+<AwardEffectiveDate>06/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>199999.00</AwardTotalIntnAmount>
+<AwardAmount>199999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>William Olbricht</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>With vaccines against the COVID-19 pandemic still months-to-years away, current treatments for infected patients focus on anti-viral drugs. However, like many viruses that cause serious morbidity and mortality, coronaviruses can mutate and develop drug resistance. Effective treatment may require the availability of multiple effective drugs. Thousands of drug candidates are available, but a current bottleneck is drug testing, which entails virus growth in cell cultures, a labor intensive, low sensitivity, and time-consuming process that can take up to a week to perform. ThIs EAGER project exploits microscopic fluid flows in cell and virus cultures to enhance sensitivity and speed, potentially reducing test times to one day. The project aims to identify best conditions for testing of drugs against the COVID-19 virus, which will expand opportunities to effectively treat infected patients.&lt;br/&gt;&lt;br/&gt;The gold standard for testing anti-viral drugs is the plaque assay, which gives direct measures of drug effect on the production and spread of infectious virus particles in the cell culture. However, the plaque assay is labor-intensive, limited in sensitivity for drug testing, and it can take a week to perform. As an alternative, a team with expertise in virology and fluid dynamics will advance a faster, more sensitive assay. The approach exploits flow-enhanced infection spread and automated quantitative imaging, which they will optimize for coronavirus drug testing. The technology exploits microscale flows that sweep across infected cells, enhancing the spread of infection; in cell-culture wells, radial flows spontaneously arise from enhanced evaporative cooling at the fluid surface near the center of the each well, driving natural convection. The project may enable a 10-to100-fold higher sensitivity in one-tenth the time for testing drug candidates against COVID-19. Such accelerated testing could help efficiently identify drugs that significantly reduce morbidity and mortality from the ongoing pandemic and its possible re-emergence.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/06/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/06/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2030750</AwardID>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Yin</LastName>
+<EmailAddress>john.yin@wisc.edu</EmailAddress>
+<StartDate>05/06/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Graham</LastName>
+<EmailAddress>mdgraham@wisc.edu</EmailAddress>
+<StartDate>05/06/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Wisconsin-Madison</Name>
+<CityName>MADISON</CityName>
+<ZipCode>537151218</ZipCode>
+<PhoneNumber>6082623822</PhoneNumber>
+<StreetAddress>21 North Park Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1642</Code>
+<Text>Special Initiatives</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+</Award>
+</rootTag>

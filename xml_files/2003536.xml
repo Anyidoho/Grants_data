@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Geometric Representation Theory: A Double Conference</AwardTitle>
+<AwardEffectiveDate>05/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>18750.00</AwardTotalIntnAmount>
+<AwardAmount>18750</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>James Matthew Douglass</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The conference "Geometric Representation Theory" will take place June 22-26, 2020 and will have a novel format, in that it will be held simultaneously in two locations: at the Perimeter Institute in Waterloo, Canada and also the Max Planck Institute for Mathematics in Bonn, Germany.  The conference will bring together a wide range of researchers in the field from across both continents and highlight a number of exciting directions in representation theory, an active area of research with deep connections to geometry, number theory and physics. The organizers have invited fifteen leaders in the field to give lectures that will be shown at both sites simultaneously, live on one continent and on the other by video conferencing. Due to the time difference, the morning in Europe and afternoon in North America are not suitable for shared talks, and during this time, there will be local talks given by junior researchers and time for discussion and collaboration.  The double location format is designed to lower the travel costs and carbon footprint of the conference while still encouraging international collaboration.  NSF funds will be used to support ten to fifteen researchers who are early-career or from groups underrepresented in the mathematical sciences to attend the conference at the North American site.&lt;br/&gt;&lt;br/&gt;The invited speakers represent a wide range of areas falling within the topic of geometric representation theory and the conference will aim to facilitate interaction between these groups and between the two locations.  Talks will highlight a number of exciting directions including recent advances from interactions with physics, connections between the geometric and classical Langlands program, new homotopical methods, combinatorial representation theory and topology.  A conference website can be found at the address:  https://perimeterinstitute.ca/conferences/geometric-representation-theory&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/28/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>02/28/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2003536</AwardID>
+<Investigator>
+<FirstName>Carl</FirstName>
+<LastName>Mautner</LastName>
+<EmailAddress>mautner@math.ucr.edu</EmailAddress>
+<StartDate>02/28/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Riverside</Name>
+<CityName>RIVERSIDE</CityName>
+<ZipCode>925210217</ZipCode>
+<PhoneNumber>9518275535</PhoneNumber>
+<StreetAddress>Research &amp; Economic Development</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1264</Code>
+<Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

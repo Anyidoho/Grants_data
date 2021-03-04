@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Targeted Infusion Project: Infusing Innovative IoT Technologies into the Computer Science Curriculum at Prairie View A&amp;M University</AwardTitle>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>399931.00</AwardTotalIntnAmount>
+<AwardAmount>399931</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11060000</Code>
+<Directorate>
+<Abbreviation>EHR</Abbreviation>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<Abbreviation>HRD</Abbreviation>
+<LongName>Division Of Human Resource Development</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Michelle Claville</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The Historically Black Colleges and Universities Undergraduate Program (HBCU-UP), through Targeted Infusion Projects, supports the development, implementation, and study of evidence-based innovative models and approaches for improving the preparation and success of HBCU undergraduate students so that they may pursue STEM graduate programs and/or careers. Prairie View A&amp;M University (PVAMU) aspires to enhance its computer science by infusing ?Internet of Things? therein. The project?s focus is in line with NSF?s ?10 Big Ideas? as it affords undergraduate students with the opportunity to contribute to, and engage in emerging technologies.  This work is important as it addresses the need to ensure that all students are engaged in a national initiative that fortifies the country?s international stature.  The project promises to enhance Computer Science (CS) undergraduate education at PVAMU through enriching courses and providing students with research opportunities. The project design includes foundational and practical components that promise to effect institutional change, while influencing the enhancement of similar departments at other institutions.&lt;br/&gt;&lt;br/&gt;The overarching goal of this project is to increase the learning and research capabilities at Historically Black Colleges and Universities (HBCUs) in Internet of Things (IoT) and Data Science. This project has four main objectives: (1) To develop innovative IoT learning modules that can be easily integrated with existing courses at the CS curriculum at PVAMU to engage students in smart IoT education. A new project-based course will be developed and integrated into the current CS curriculum. This course will consist of a series of modules focusing on intelligent IoT technologies. (2) To build an IoT Innovation Lab that will offer the opportunity for undergraduate students to learn cutting-edge IoT technologies and enrich their learning environment. (3) To develop an IoT ecosystem that encapsulates a high-performance big data platform that can be used by students for initiating and managing IoT applications. (4) To establish an IoT Special Interest Group (IoT-SIG) to encourage broad adoption of IoT technologies within the HBCU community. Also, an annual summer IoT workshop will be organized, which will invite underrepresented students and faculty from other HBCUs to participate in a project-based IoT competition at the PVAMU campus. Furthermore, the research results, source code, developed learning modules and related teaching materials will be available to the research and educational community to benefit other institutions and enrich the NSF learning material repository. The proposed educational approach is scalable and replicable, and can be easily adopted by other institutions with similar degree programs.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/19/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/19/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2011330</AwardID>
+<Investigator>
+<FirstName>Yonggao</FirstName>
+<LastName>Yang</LastName>
+<EmailAddress>yoyang@pvamu.edu</EmailAddress>
+<StartDate>06/19/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kiranmai</FirstName>
+<LastName>Bellam</LastName>
+<EmailAddress>kibellam@pvamu.edu</EmailAddress>
+<StartDate>06/19/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ahmed</FirstName>
+<LastName>Ahmed</LastName>
+<EmailAddress>amahmed@pvamu.edu</EmailAddress>
+<StartDate>06/19/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Prairie View A &amp; M University</Name>
+<CityName>Prairie View</CityName>
+<ZipCode>774460519</ZipCode>
+<PhoneNumber>9362611689</PhoneNumber>
+<StreetAddress>P.O. Box 519</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1594</Code>
+<Text>Hist Black Colleges and Univ</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

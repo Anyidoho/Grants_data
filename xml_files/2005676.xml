@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>AAVSO Workshop for Spectroscopic Observations: Empowering Amateur Astronomers</AwardTitle>
+<AwardEffectiveDate>03/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>49620.00</AwardTotalIntnAmount>
+<AwardAmount>49620</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AST</Abbreviation>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Hans Krimm</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The primary goal of the workshop is to train up to 100 amateur astronomers in how to use spectroscopy as a tool for astronomy, collect spectroscopic data, and reduce and share them with the international variable star research community through a well-established database organized by the American Association of Variable Star Observers.  Professional and experienced amateur astronomers will organize and run the workshop and provide presentations and hands-on experience with instrumentation and data reduction software, making recommendations for best practices in spectroscopy.  The workshop will increase the active engagement of amateur observers in scientific projects, and will benefit the professional community by developing a network of amateur astronomers trained in spectroscopy. &lt;br/&gt;&lt;br/&gt;This workshop targets citizen astronomers, providing training to enable their active participation in scientific projects.  The organizers will ask attendees to share educational resources from the workshop within their local communities and to serve as a local resource to help others become more skilled in spectroscopy. In addition, five high school teachers from underserved communities will be recruited to participate in the workshop. These educators will bring spectroscopic science into the classroom, enhancing the scientific curriculum with technical knowledge and connections to authentic research.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/27/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>02/27/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2005676</AwardID>
+<Investigator>
+<FirstName>Stella</FirstName>
+<LastName>Kafka</LastName>
+<EmailAddress>skafka@aavso.org</EmailAddress>
+<StartDate>02/27/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>American Association of Variable Star Observrs</Name>
+<CityName>Cambridge</CityName>
+<ZipCode>021381203</ZipCode>
+<PhoneNumber>6173540484</PhoneNumber>
+<StreetAddress>49 Bay State Road</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1215</Code>
+<Text>STELLAR ASTRONOMY &amp; ASTROPHYSC</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1207</Code>
+<Text>OBSERVATIONAL ASTRONOMY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

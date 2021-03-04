@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Real-time computer automated identification and quantification of insects entering the SolaRid insect control device (ICD)</AwardTitle>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>224989.00</AwardTotalIntnAmount>
+<AwardAmount>224989</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Erik Pierstorff</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact of this Small Business Innovation Research (SBIR) Phase I project is to streamline and optimize interventions for agricultural pest control with Artificial Intelligence (AI) strategies related to image processes.  The proposed project will develop an AI-driven, automated insect count and identification system. In addition to supporting the agricultural industry, the proposed system offers a research tool to study synergisms among attractants, learn more about insect behavior and migration over large land masses, and adapt to changing pest pressures. Furthermore, this system enables monitoring insects that could carry diseases in urban and rural communities as well as refugee camps. &lt;br/&gt;&lt;br/&gt;The proposed project will advance the translation of an automated solution for pest control at scale.  The project will: 1) automate the quantification and identification of a broad diversity of insects; 2) capture the appropriate data for identification of insects and training the AI system; and 3) process data in real time onboard the device. This project will optimize the use of new circuit boards and firmware in an automated configuration that can ultimately send data to handheld devices.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/25/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/25/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2015057</AwardID>
+<Investigator>
+<FirstName>Donald</FirstName>
+<LastName>Richardson</LastName>
+<EmailAddress>drichardson@solaridipm.com</EmailAddress>
+<StartDate>06/25/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>SOLARID AR, LLC.</Name>
+<CityName>CLINTON</CityName>
+<ZipCode>720316012</ZipCode>
+<PhoneNumber>5015921391</PhoneNumber>
+<StreetAddress>267 FAYES FOREST RD</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Arkansas</StateName>
+<StateCode>AR</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8038</Code>
+<Text>Biotechnology</Text>
+</ProgramReference>
+</Award>
+</rootTag>

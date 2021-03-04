@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Understanding Interstellar Aromatic Chemistry: An Integrated Experimental, Theoretical, and Astronomical Approach</AwardTitle>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>383933.00</AwardTotalIntnAmount>
+<AwardAmount>383933</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AST</Abbreviation>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Glen Langston</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Molecules are identified in space with radio telescopes by matching emission signals with precise laboratory measurements made on Earth.  Using this coordinated effort, more than 200 molecules, many containing carbon ? an element central to life ? have been identified in our Milky Way galaxy.  In this research effort, scientists will make new laboratory measurements of large carbon-bearing molecules that might be detected with radio telescopes.   Once very precise measurements of the molecules? unique signature are made in the laboratory, scientists will use radio telescopes to search for evidence of the same signals in space.  &lt;br/&gt;&lt;br/&gt;They will search for these new molecules primarily in large clouds of gas which are widely believed to be the birthplace of stars. These clouds are extremely cold (within a few degrees of absolute zero) and have very low density but are known to harbor a rich inventory of small carbon molecules.  From these observations, scientists will learn what types of molecules can be formed in space under extreme conditions.   These observations are used to infer the pathways by which more complex molecules are synthesized under such inhospitable conditions.  Molecules with cyclic or ring shapes are of interest because they are especially stable, commonly serving as the building blocks for larger molecules such as pharmaceutical drugs, polymers, and DNA on Earth.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/12/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/12/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2044620</AwardID>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>McCarthy</LastName>
+<EmailAddress>mccarthy@cfa.harvard.edu</EmailAddress>
+<StartDate>08/12/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Smithsonian Institution Astrophysical Observatory</Name>
+<CityName>Cambridge</CityName>
+<ZipCode>021381516</ZipCode>
+<PhoneNumber>6174967923</PhoneNumber>
+<StreetAddress>60 Garden St</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1216</Code>
+<Text>GALACTIC ASTRONOMY PROGRAM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1205</Code>
+<Text>LABORATORY ASTROPHYSICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1206</Code>
+<Text>THEORETICAL &amp; COMPUTATIONAL ASTROPHYSICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1207</Code>
+<Text>OBSERVATIONAL ASTRONOMY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0119</Code>
+</Appropriation>
+</Award>
+</rootTag>

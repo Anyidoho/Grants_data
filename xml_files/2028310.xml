@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RAPID: COVIDGeoGraph ? A Geographically Integrated Cross-Domain Knowledge Graph for Studying Regional Disruptions</AwardTitle>
+<AwardEffectiveDate>05/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>90658.00</AwardTotalIntnAmount>
+<AwardAmount>90658</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>01060500</Code>
+<Directorate>
+<Abbreviation>O/D</Abbreviation>
+<LongName>Office Of The Director</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OIA</Abbreviation>
+<LongName>Office of Integrative Activities</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nakhiah Goulbourne</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This COVID-19 RAPID research program will develop a geographically integrated knowledge graph to support data scientists and decision-makers in industry and the government in taking region-specific steps towards reopening the country. Towards this goal, the project will combine data from themes as diverse as transportation, social distancing measures, demographic and environmental factors, as well as economic impacts. Knowledge graphs are contextualization technologies. They enable their users to gain a more holistic understanding of complex social and scientific questions by providing actionable insights from neighboring disciplines. For instance, making decisions about local economies and food systems require an understanding of the frequently changing social distancing measures, traffic control and restrictions including  neighboring regions,  demographic factors, and the percentage of recovered citizens. The project will work together with industry partners to understand how graphed knowledge can be utilized in their forecasting models. Finally, the project will reach out to other knowledge graphs to jointly form an open knowledge network related to COVID-19.&lt;br/&gt;&lt;br/&gt;    More technically, we will utilize a stack of open source technologies and international standards to develop a highly integrated Linked Data-based knowledge graph that combines cross-domain data across different geographic scales and types of places.  We will utilize machine learning technologies to learn graph embeddings for predicting links within our graph as well as alignments to other graphs by using places such as cities or counties as points of integration. We will also provide the functionality to collaborate with the broader schema.org effort. We are particularly interested in studying how to represent and align COVID-19 data that is currently being reported at different geographic scales and aggregates, thereby fostering interoperability and breaking up data silos. We will work directly with our industry partners on engineering (spatially-explicit) features from our and external graphs. These features will be integrated into industry downstream forecasting models with a particular focus on food systems. Finally, We will utilize the expertise of our partners in creating visual data dashboards to better communicate our findings.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/05/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/05/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2028310</AwardID>
+<Investigator>
+<FirstName>Krzysztof</FirstName>
+<LastName>Janowicz</LastName>
+<EmailAddress>jano@geog.ucsb.edu</EmailAddress>
+<StartDate>05/05/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Santa Barbara</Name>
+<CityName>Santa Barbara</CityName>
+<ZipCode>931062050</ZipCode>
+<PhoneNumber>8058934188</PhoneNumber>
+<StreetAddress>Office of Research</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>095Y</Code>
+<Text>CA-HDR: Convergence Accelerato</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1N20</Code>
+</Appropriation>
+</Award>
+</rootTag>

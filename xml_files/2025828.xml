@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Cognitive Communications Payload Module for CubeSat Applications</AwardTitle>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>255937.00</AwardTotalIntnAmount>
+<AwardAmount>255937</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Muralidharan Nair</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to advance communications and on-board processing capabilities for small satellites or CubeSats, which is important with growing civil and commercial demand for satellite communications services.  The proposed payload module provides a number of cognitive communications functions focused on intelligent networking capabilities for CubeSat platforms and swarms. These functions enable robust, reliable global connectivity by allowing for customer CubeSats to efficiently and autonomously communicate within swarms and with other networks for applications including Earth observation, sensing, situational awareness, new space, and communications. &lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project will develop and demonstrate a flexible, comprehensive cognitive communications payload module to enhance communications functions in networking for CubeSat platforms and swarms. This project will demonstrate the technical feasibility of the proposed innovation, apply advanced and emerging on-board processing and communications technologies, and develop and integrate hardware and software to develop a prototype payload module for CubeSat applications. The prototype will perform several cognitive functions allowing for intelligent networking for CubeSat platforms and swarms: intelligent routing, network self-healing, ad-hoc networking with other available networks, and data store and forward capabilities for sparse networks and network build-up phase. Autonomous operation will improve data transmission, data packaging and routing, latency mitigation, and user-initiated services for commercial, government, and academic CubeSat operators.  This effort will focus on three key areas: 1) developing the cognitive engine architecture and software, 2) acquiring and integrating a software-defined radio and single-board computer, and 3) developing an appropriate API. The objective of this project is to prototype the cognitive communications payload module in preparation for testing, demonstration, flight qualification, and commercialization.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/04/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/04/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2025828</AwardID>
+<Investigator>
+<FirstName>Robert</FirstName>
+<LastName>Corrigan</LastName>
+<EmailAddress>rcorrigan@comsat-architects.com</EmailAddress>
+<StartDate>08/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>BLUE CRANIUM, LLC</Name>
+<CityName>ROCKY RIVER</CityName>
+<ZipCode>441163424</ZipCode>
+<PhoneNumber>2167675660</PhoneNumber>
+<StreetAddress>20525 CENTER RIDGE RD STE 614</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1218</Code>
+<Text>ADVANCED TECHNOLOGIES &amp; INSTRM</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>4080</Code>
+<Text>ADVANCED COMP RESEARCH PROGRAM</Text>
+</ProgramReference>
+</Award>
+</rootTag>

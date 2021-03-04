@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I: AI robotic archival and retrieval system</AwardTitle>
+<AwardEffectiveDate>08/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>225000.00</AwardTotalIntnAmount>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alastair Monk</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Research (SBIR) Phase I project will be to develop a robotic technology with artificial intelligence (AI) to improve the practice of pathology. Pathology laboratories generate 414 million slides and 200 million tissue blocks annually, representing a market of $5.2 B. Those samples are legally required to be archived 10 years. Recent innovations have focused on improvements in specimen collection, automation of sample processing, reporting and transmission of pathology information to medical records, but currently manual storage of pathology specimens is prone to errors and inefficiencies. The proposed technology will advance a robotic system to automate the storage and retrieval process of pathology slides and tissue blocks, enabling faster, more accurate access to important biological specimens. &lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research Phase I project will develop a robotic mechanism to pick glass slides from slide trays and transport them to archival cabinets for storage aligned with a digital library. The solution will have an interface that integrates the robotic archival system with automated software and digital imaging systems for microscopic slides. The archival and retrieval system has a robotic motor attached to a conveyor to rotate through the slides and a software component with two elements; the Graphical User Interface (GUI) and the underlying architecture.  The project has three goals: 1) A prototype robotic system design; 2) User interface development and deployment strategy; and 3) Simulation of integrated hardware/ software system.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/26/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/20/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2013964</AwardID>
+<Investigator>
+<FirstName>Barb</FirstName>
+<LastName>Yellowlees</LastName>
+<EmailAddress>byellowlees@robopath.io</EmailAddress>
+<StartDate>08/26/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>ROBOPATH LLC</Name>
+<CityName>LEAWOOD</CityName>
+<ZipCode>662243747</ZipCode>
+<PhoneNumber>9134063316</PhoneNumber>
+<StreetAddress>14302 JUNIPER ST</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Kansas</StateName>
+<StateCode>KS</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8018</Code>
+<Text>Smart and Connected Health</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8023</Code>
+<Text>Health Care Enterprise Systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8033</Code>
+<Text>Hardware Software Integration</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8035</Code>
+<Text>Hardware Devices</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+</Appropriation>
+</Award>
+</rootTag>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  A Wearable for Remote Monitoring of the COVID-19 Patient Population</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>256000.00</AwardTotalIntnAmount>
+<AwardAmount>256000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Henry Ahn</SignBlockName>
+<PO_EMAI>hahn@nsf.gov</PO_EMAI>
+<PO_PHON>7032927069</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to develop real-time monitoring of COVID-19 symptoms toward public health objectives. This project will provide healthcare systems the ability to remotely manage patients during quarantine, protecting hospitals and healthcare workers from unnecessary visits that can quickly overwhelm the healthcare system.  This remote monitoring will allow for early identification of patients requiring hospitalization by continuously monitoring key symptoms and notifying patients, caregivers, and loved ones when urgent care is required.  &lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project is to integrate a forehead patch, smartphone/tablet app, firmware, and cloud-based data portal to continuously assess and monitor COVID-19 patients.  The first step will be to develop firmware to measure and display key COVID-19 symptoms, such as changes in SpO2/hypoxia, heart rate, respiration rate, and body temperature.  The system will also monitor vital signs including dyspnea, myalgia, coughing frequency, and coughing intensity. The monitor user interface will capture non-measurable patient inputs, such as consumption of fluids and food, gastric problems, changes in smell and taste capabilities, and medication usage. Rule-based alert algorithms will be developed to provide notifications to healthcare professionals when critical condition thresholds have been triggered. A datahub and physician dashboard will be developed to remotely monitor large groups of COVID-19 patients.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/01/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2031714</AwardID>
+<Investigator>
+<FirstName>Alireza</FirstName>
+<LastName>Akhbardeh</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Alireza Akhbardeh</PI_FULL_NAME>
+<EmailAddress>alireza.akhbardeh@gmail.com</EmailAddress>
+<PI_PHON>2675972339</PI_PHON>
+<NSF_ID>000695964</NSF_ID>
+<StartDate>09/01/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>CEREVU MEDICAL, INC.</Name>
+<CityName>SAN FRANCISCO</CityName>
+<CountyName>SAN FRANCISCO</CountyName>
+<ZipCode>941072839</ZipCode>
+<PhoneNumber>4152336594</PhoneNumber>
+<StreetAddress>688 MISSOURI ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA12</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>117062159</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>CEREVU MEDICAL, INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[CereVu Medical Inc.]]></Name>
+<CityName>San Francisco</CityName>
+<CountyName>SAN FRANCISCO</CountyName>
+<StateCode>CA</StateCode>
+<ZipCode>941072839</ZipCode>
+<StreetAddress><![CDATA[688 Missouri Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>004E</Code>
+<Text>BIOMEDICAL ENG AND DIAGNOSTICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8038</Code>
+<Text>Biotechnology</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<FUND_OBLG>2020~256000</FUND_OBLG>
+</Award>
+</rootTag>

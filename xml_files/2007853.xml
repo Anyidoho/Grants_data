@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: Automated Search and Follow-Up of Electromagnetic Counterparts to Gravitational-Wave Events in O4</AwardTitle>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>346916.00</AwardTotalIntnAmount>
+<AwardAmount>346916</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AST</Abbreviation>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Hans Krimm</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Einstein first predicted that merging stars produce gravitational waves. The capability to detect these gravitational waves has only existed in the last few years.  Large detectors in the US and Europe, and soon also in Japan, localize where in the sky these waves are coming from.  Telescopes then search these parts of the sky for visible light.  In 2017 the first such optical counterpart to a gravitational-wave event was discovered using a single aperture telescope  This project proposes to expand the effort to ten search telescopes and nearly two dozen follow-up telescopes, spanning four continents and five countries.  Through this effort, investigation of how the heaviest elements in the universe are produced, and a new means to measure how quickly the universe is expanding will be explored. This project also provides innovation in undergraduate curriculum by having students (both science majors and non-majors) collect and analyze data from a telescope network to make specific scientific measurements.  Additionally, the PI plans to upgrade the dynamic-sky exhibit of  the Morehead Planetarium and Science Center.&lt;br/&gt;&lt;br/&gt;This project implements a large-scale, multi-component observing program designed to take advantage of smaller LIGO/Virgo/KAGRA localizations within ≈100 Mpc in O4 to identify the optical counterparts of gravitational wave (GW) events more quickly; to collect pre-identification measurements as well, and dense, multi-wavelength post-identification light curves; and to collect post-identification spectroscopy. This observing effort will capitalize on the planned facilities’ unique design and broad geographic distribution, and proven success, to identify these counterparts as quickly as possible. Counterpart information will be reported to the broader astronomical community immediately, and possibly within only minutes of LIGO/Virgo/KAGRA triggers if prompt emission is sufficiently bright. Earlier observations are critical to understanding NS-NS, and NS-BH, merger events, and r-process nucleosynthesis. Measurements of the ejecta's polar component relative to its tidal component, or of the non-thermal afterglow, could also yield viewing-angle information, which in combination with the GW data could result in a “clean” measurement of the distance, and hence in a new, local method of measuring Hubble's constant (the systematics of one such approach will be studied here).  This project supports graduate students, embeds research aspects into the undergraduate curriculum, and will make improvements in public demonstrations of the time variable sky at a local planetarium.&lt;br/&gt;&lt;br/&gt;This project advances the goals of the Windows on the Universe Big Idea.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/13/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/19/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2007853</AwardID>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Reichart</LastName>
+<EmailAddress>reichart@physics.unc.edu</EmailAddress>
+<StartDate>08/13/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Nicholas</FirstName>
+<LastName>Law</LastName>
+<EmailAddress>nmlaw@physics.unc.edu</EmailAddress>
+<StartDate>08/13/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of North Carolina at Chapel Hill</Name>
+<CityName>CHAPEL HILL</CityName>
+<ZipCode>275991350</ZipCode>
+<PhoneNumber>9199663411</PhoneNumber>
+<StreetAddress>104 AIRPORT DR STE 2200</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>107Y</Code>
+<Text>WoU-Windows on the Universe: T</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1207</Code>
+<Text>OBSERVATIONAL ASTRONOMY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+</Appropriation>
+</Award>
+</rootTag>

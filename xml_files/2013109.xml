@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>WoU-MMA: Studying Extreme Particle Accelerators with VERITAS and CTA</AwardTitle>
+<AwardEffectiveDate>08/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>797262.00</AwardTotalIntnAmount>
+<AwardAmount>797262</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nigel Sharp</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Gamma-ray astronomy impacts a broad range of key science questions, including indirect dark matter detection, tests of fundamental physical laws, cosmological studies, the jet physics associated with active galactic nuclei, gamma-ray bursts, and micro-quasars, and galactic particle acceleration.  This award supports the gamma-ray group at Columbia University and Nevis Labs to focus specifically on: (1) operating and optimizing the prototype Schwarzschild-Couder Telescope (pSCT); (2) coordinating deployment of advanced analysis and simulations development work for the imaging atmospheric Cherenkov telescope array VERITAS; (3) studying the physics of central engines, their environments, and relativistic jets; (4) understanding the acceleration and propagation of Galactic cosmic rays; and (5) seeking out further time-domain opportunities for VERITAS and in preparation for the next generation Cherenkov Telescope Array, CTA.  The mixture of fundamentally important questions and extreme physical environments makes this field fascinating to the public.  The Columbia and Barnard groups share that excitement via public lectures, and mentoring area high school students.  They also provide vital research experiences to their undergraduates.&lt;br/&gt;&lt;br/&gt;These questions cut across high-energy astrophysics, cosmology, and particle physics, studying the nature of dark matter, the sources of the highest-energy cosmic rays, the interactions of matter in the most extreme environments, and the cosmic history of star formation.  This project includes integrating pSCT into the VERITAS array, and extending the advanced shower reconstruction and background discrimination methods to low energy, short-time-scale exposures for GRBs and for large-zenith-angle observations of transients and the Galactic Center (GC).  VERITAS, being in southern Arizona, is ideally sited to follow up events from LIGO/Virgo and IceCube, and to study multi-TeV emission from the GC.  The planned analysis developments benefit all VERITAS science, but will be especially impactful for multi-messenger astronomy and the physics of the GC.  As the international community works towards CTA, currently undergoing critical optimization, demonstrating the pSCT's performance will maximize the impact of CTA on particle astrophysics in the years to come.  This project advances the goals of the NSF Windows on the Universe Big Idea.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/05/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/05/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2013109</AwardID>
+<Investigator>
+<FirstName>Brian</FirstName>
+<LastName>Humensky</LastName>
+<EmailAddress>humensky@nevis.columbia.edu</EmailAddress>
+<StartDate>08/05/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Columbia University</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100276902</ZipCode>
+<PhoneNumber>2128546851</PhoneNumber>
+<StreetAddress>2960 Broadway</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>107Y</Code>
+<Text>WoU-Windows on the Universe: T</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1643</Code>
+<Text>Particle Astrophysics/Cosmic P</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>069Z</Code>
+<Text>Windows on the Universe (WoU)</Text>
+</ProgramReference>
+</Award>
+</rootTag>

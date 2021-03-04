@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: Women of Color and Computing Conference Wahine: Culturally Responsive Collective Catalysts</AwardTitle>
+<AwardEffectiveDate>03/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>48933.00</AwardTotalIntnAmount>
+<AwardAmount>48933</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Fay Cobb Payton</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project supports a March 2020 conference, Women of Color in STEM Entrepreneurship Conference.  The conference focuses on both underrepresented adults and girls of color from Hawaii, Alaska, Saipan and Guam. Arizona State will participate in a 5-day, residential camp at Kohala Institute. &lt;br/&gt;&lt;br/&gt;The contribution to the field will include: capturing the views of women and girls of color regarding the design of inclusive culturally responsive practices in computing, and enabling inter-generational perspectives to inform theory and practice.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/21/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>02/21/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2002734</AwardID>
+<Investigator>
+<FirstName>Kimberly</FirstName>
+<LastName>Scott</LastName>
+<EmailAddress>kascott3@asu.edu</EmailAddress>
+<StartDate>02/21/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Arizona State University</Name>
+<CityName>TEMPE</CityName>
+<ZipCode>852816011</ZipCode>
+<PhoneNumber>4809655479</PhoneNumber>
+<StreetAddress>ORSPA</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+</Institution>
+<ProgramElement>
+<Code>134Y</Code>
+<Text>CSforAll-Computer Sci for All</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

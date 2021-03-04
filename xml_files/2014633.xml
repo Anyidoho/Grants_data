@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Development of an Integrated Climate Resiliency Index</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>224866.00</AwardTotalIntnAmount>
+<AwardAmount>249866</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rajesh Mehta</SignBlockName>
+<PO_EMAI>rmehta@nsf.gov</PO_EMAI>
+<PO_PHON>7032922174</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to generate an integrated model analyzing biogeophysical and socioeconomic processes and responses to environmental transformation.  Natural disasters have incurred direct damages costing an estimated $18 B a year, and the average net benefit of investing in more resilient infrastructure is $4.2 T.   Proactive adaptation can significantly reduce both the direct and indirect costs associated with climate hazards and natural disasters, protecting people, homes, lifestyles and businesses. &lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project addresses risk management associated with environmental transformation, bridging the biophysical and social sciences and informed by real-time observations. The project aims to provide a first proof-of-concept of an advanced model representing a range of integrated environmental risks, such as erosion, flooding, food security, etc. The research and development effort will focus on: 1) Integrating biophysical sensitivities to to produce risk factors for hazards of concern; 2) Including community engagement to identify which biophysical sensitivities translate to socioecological vulnerabilities or opportunities; and 3) Identifying outcomes of the socioeconomic vulnerability assessments and scenarios. The envisioned proof-of-concept is a cost-effective, data-driven solution for proactive management of environmental transformations.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/15/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/20/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2014633</AwardID>
+<Investigator>
+<FirstName>Ronni</FirstName>
+<LastName>Wilcock</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ronni L Wilcock</PI_FULL_NAME>
+<EmailAddress>ronni@tbec-ak.com</EmailAddress>
+<PI_PHON>9079290443</PI_PHON>
+<NSF_ID>000817664</NSF_ID>
+<StartDate>05/15/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>TWO BEARS ENVIRONMENTAL CONSULTING, LLC</Name>
+<CityName>Anchorage</CityName>
+<CountyName>ANCHORAGE</CountyName>
+<ZipCode>995073248</ZipCode>
+<PhoneNumber>9079290443</PhoneNumber>
+<StreetAddress>6132 Farpoint Dr</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Alaska</StateName>
+<StateCode>AK</StateCode>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AK00</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>080032825</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>TWO BEARS ENVIRONMENTAL CONSULTING, LLC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM/>
+</Institution>
+<Performance_Institution>
+<Name>Two Bears Environmental Consulting, LLC</Name>
+<CityName>Anchorage</CityName>
+<CountyName>ANCHORAGE</CountyName>
+<StateCode>AK</StateCode>
+<ZipCode>995071261</ZipCode>
+<StreetAddress>6132 Farpoint Drive</StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Alaska</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AK00</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8091</Code>
+<Text>SBIR Outreach &amp; Tech. Assist</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1238</Code>
+<Text>TECH FOR SUSTAINABLE ENVIRONMENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8032</Code>
+<Text>Software Services and Applications</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<FUND_OBLG>2020~249866</FUND_OBLG>
+</Award>
+</rootTag>

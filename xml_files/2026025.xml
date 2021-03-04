@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  An Artificial Intelligence-Based Global Seasonal Forecasting System</AwardTitle>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>241820.00</AwardTotalIntnAmount>
+<AwardAmount>241820</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Peter Atherton</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact of this Small Business Innovation Research (SBIR) Phase I project will be to provide timely and highly localized climate forecasts, plus information such as extreme heat and frost risk, to insurance, energy, and agricultural stakeholders. Climate forecasting at sub-seasonal to seasonal (S2S) timescales is challenging, yet essential for proactive risk management of extreme natural hazards.  This project will leverage artificial intelligence and cloud computing to implement a data-intensive approach for revolutionizing global climate forecasting. The project will provide efficient and accurate seasonal forecasts at relatively low computational cost in a user-friendly web environment.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project aims to utilize advanced artificial intelligence techniques in order to develop a localized, timely, and reliable climate forecasting system that is industry-focused and crop-specific. In this project, state-of-the-art artificial intelligence techniques will be deployed to advance operational climate forecasting skill at a global scale. While conventional forecasts are trained exclusively on observational data, this project will train models on historical simulations and reanalysis, then evaluate them with observations. In this approach, the training dataset is substantially larger, consequently improving accuracy. This processing at scale is enabled with cloud resources.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/26/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/13/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2026025</AwardID>
+<Investigator>
+<FirstName>Maximilian</FirstName>
+<LastName>Evans</LastName>
+<EmailAddress>max@climate.ai</EmailAddress>
+<StartDate>08/26/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>CLIMATEAI INC</Name>
+<CityName>PALO ALTO</CityName>
+<ZipCode>943061420</ZipCode>
+<PhoneNumber>6506565718</PhoneNumber>
+<StreetAddress>2318 WILLIAMS ST</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5187</Code>
+<Text>ENVIRONMENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6856</Code>
+<Text>ARTIFICIAL INTELL &amp; COGNIT SCI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8032</Code>
+<Text>Software Services and Applications</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+</Appropriation>
+</Award>
+</rootTag>

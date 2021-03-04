@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  A Modular and Reconfigurable Liquid-handling Toolkit for Laboratory Research</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>224996.00</AwardTotalIntnAmount>
+<AwardAmount>249996</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Benaiah Schrag</SignBlockName>
+<PO_EMAI>bschrag@nsf.gov</PO_EMAI>
+<PO_PHON>7032928323</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader/commercial impact of this Small Business Innovation Research (SBIR) Phase I project will develop a benchtop liquid-handling toolkit to increase research productivity in physical- and life-science laboratories. Movable research equipment expenditures in university science and engineering projects were $2.1 billion in 2016 alone and are anticipated to grow.The proposed toolkit will increase the output and effectiveness of researchers across many disciplines in science where significant time and personnel resources are devoted to highly repetitive protocols. With the proposed technology, a researcher without experience in robotics and programming may select devices from the toolkit, create a custom configuration, and then execute specialized protocols through an icon-based user interface. Digitized protocols can be re-run or shared to verify results and disseminate process parameters, thereby facilitating collaboration and enhancing repeatability among labs. &lt;br/&gt;&lt;br/&gt;The intellectual merit of this project is the development of a modular and reconfigurable liquid-handling toolkit. The toolkit consists of discrete devices including valves and pumps, a central hub synchronizing device actions and storing recorded data, and an intuitive user interface. The research objectives include: 1) the development and validation of the devices integral to the toolkit; (2) the testing and integration of the devices, hub, and user interface; and (3) conducting usability tests across multiple scientific disciplines. To meet these objectives, mechanical design of the devices must be completed, the devices must be assembled, a system-wide communication protocol must be developed and validated, and a user interface and web application must be developed.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/14/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/12/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2011316</AwardID>
+<Investigator>
+<FirstName>Luri</FirstName>
+<LastName>Middleton</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Luri R Middleton</PI_FULL_NAME>
+<EmailAddress>r.middleton@aqueductfluidics.com</EmailAddress>
+<PI_PHON>4802940009</PI_PHON>
+<NSF_ID>000814542</NSF_ID>
+<StartDate>05/14/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>AQUEDUCT FLUIDICS, LLC</Name>
+<CityName>PHILADELPHIA</CityName>
+<CountyName>PHILADELPHIA</CountyName>
+<ZipCode>191461109</ZipCode>
+<PhoneNumber>4802940009</PhoneNumber>
+<StreetAddress>2209 NAUDAIN ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA03</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>117087222</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>AQUEDUCT FLUIDICS, LLC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[AQUEDUCT FLUIDICS, LLC]]></Name>
+<CityName>Philadelphia</CityName>
+<CountyName>PHILADELPHIA</CountyName>
+<StateCode>PA</StateCode>
+<ZipCode>191461109</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8091</Code>
+<Text>SBIR Outreach &amp; Tech. Assist</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>090E</Code>
+<Text>Chem/Bio and Physical Diagnostics</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<FUND_OBLG>2020~249996</FUND_OBLG>
+</Award>
+</rootTag>

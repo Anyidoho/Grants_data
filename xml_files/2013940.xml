@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Single photon imaging by solid-state photon sensor array spectroscopy</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>225000.00</AwardTotalIntnAmount>
+<AwardAmount>250000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Steven Konsek</SignBlockName>
+<PO_EMAI>skonsek@nsf.gov</PO_EMAI>
+<PO_PHON>7032927021</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to facilitate more rapid diagnostics with better accuracy. The project develops new optical technologies for medical and biotechnology systems, with higher sensitivity to detect smaller and fewer molecules. The target markets are companies in medical diagnostic instruments, biological research instruments, microscopy, and high-resolution optical instruments. The proposed device will consist of custom-designed arrays to replace older technologies, as well as fully configured optical units offering new capability to existing products. By increasing the speed of light detection devices and creating a new generation of detection arrays, this technology will enable a new generation of optical detection-based diagnostic devices.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project develops a new light detection sensor array for spectroscopy instrumentation applications. The project incorporates "Differential Geiger Mode" techniques directly into the read-out circuitry, reducing the photon detection dead time by over 2 orders of magnitude. These specialized integrated circuits are placed within the sensor array itself to achieve high speed (GHz) signal collection. A novel cooling arrangement will be implemented by applying on-board thermoelectric cooling and integrating it with a specialized housing to ensure the optimal environment for high performance sensor operation and operational longevity.  This project will advance a new generation of sensor arrays capable of functioning at the single photon level with high speed signal collection.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/07/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>12/23/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2013940</AwardID>
+<Investigator>
+<FirstName>Masanobu</FirstName>
+<LastName>Yamamoto</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Masanobu Yamamoto</PI_FULL_NAME>
+<EmailAddress>myamamoto@miftek.com</EmailAddress>
+<PI_PHON>2174024165</PI_PHON>
+<NSF_ID>000801580</NSF_ID>
+<StartDate>05/07/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Miftek Corporation</Name>
+<CityName>West Lafayette</CityName>
+<CountyName>TIPPECANOE</CountyName>
+<ZipCode>479061234</ZipCode>
+<PhoneNumber>7654913848</PhoneNumber>
+<StreetAddress>1231 Cumberland Ave, Suite B</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IN04</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>079181039</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>MIFTEK CORPORATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Miftek Corporation]]></Name>
+<CityName>West Lafayette</CityName>
+<CountyName>TIPPECANOE</CountyName>
+<StateCode>IN</StateCode>
+<ZipCode>479061358</ZipCode>
+<StreetAddress><![CDATA[1231 Cumberland Ave, Ste H]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IN04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8091</Code>
+<Text>SBIR Outreach &amp; Tech. Assist</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8034</Code>
+<Text>Hardware Components</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8990</Code>
+<Text>Optics and Photonics</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<FUND_OBLG>2020~225000</FUND_OBLG>
+<FUND_OBLG>2021~25000</FUND_OBLG>
+</Award>
+</rootTag>

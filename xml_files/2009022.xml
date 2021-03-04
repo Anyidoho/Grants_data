@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SHF: Small: Omega-Regular Objectives for Model-Free Reinforcement Learning</AwardTitle>
+<AwardEffectiveDate>06/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>500000.00</AwardTotalIntnAmount>
+<AwardAmount>500000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nina Amla</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>In Reinforcement Learning (RL) agents rely on rewards that promote the achievement of given objectives.  Widespread use of RL-enabled systems, such as swarm robots, autonomous vehicles, Internet-of-Things, and social networks, will dramatically improve the quality of modern life.  However, their applications in safety-critical settings imply that methods to ensure their correctness are of paramount importance. This project develops a rigorous approach to the design and verification of RL-enabled systems that addresses issues of safety, efficiency, and scalability. Logic provides a foundation for the rigorous specification of learning objectives.  Model-free RL, which is the type of learning supported by neural networks, promises scalability. Hence this project is about translating logic-based requirements into the scalar reward form that is needed in model-free RL. &lt;br/&gt;&lt;br/&gt;Bridging the gap between logic specifications and model-free RL requires a translation that is faithful (greater reward means higher probability of satisfying the objective) and effective (the reward should help RL algorithms to learn quickly and reliably). This project develops foundations for faithful and effective translations of omega-regular specifications and explores their applications to synthesis of RL-enabled systems.  The transition from theory to practice will be measured by the success of an open-source tool for the synthesis of interpreters that translate environment observations into rewards for state-of-the-art, off-the-shelf RL algorithms. Both the formal-methods and the RL communities will benefit from this project. The PIs will extend their record of technology transfer with the release of software and educational materials.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/03/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/03/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2009022</AwardID>
+<Investigator>
+<FirstName>Fabio</FirstName>
+<LastName>Somenzi</LastName>
+<EmailAddress>Fabio@Colorado.EDU</EmailAddress>
+<StartDate>06/03/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ashutosh</FirstName>
+<LastName>Trivedi</LastName>
+<EmailAddress>ashutosh.trivedi@colorado.edu</EmailAddress>
+<StartDate>06/03/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Colorado at Boulder</Name>
+<CityName>Boulder</CityName>
+<ZipCode>803031058</ZipCode>
+<PhoneNumber>3034926221</PhoneNumber>
+<StreetAddress>3100 Marine Street, Room 481</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>2878</Code>
+<Text>Special Projects - CCF</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7798</Code>
+<Text>Software &amp; Hardware Foundation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>075Z</Code>
+<Text>Artificial Intelligence (AI)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8206</Code>
+<Text>Formal Methods and Verification</Text>
+</ProgramReference>
+</Award>
+</rootTag>

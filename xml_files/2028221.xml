@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RAPID: Dynamic Identification of SARS-COV-2 Transmission Epicenters in Presence of Spatial Heterogeneity (COV-DYNAMITE)</AwardTitle>
+<AwardEffectiveDate>04/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>166530.00</AwardTotalIntnAmount>
+<AwardAmount>166530</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Katharina Dittmar</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The rapid spread of the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has resulted in a global outbreak, declared a pandemic by the World Health Organization. The disease associated with this virus (COVID-19) has higher complication and fatality rates for the elderly and those with comorbidities; however, transmission occurs among individuals of all ages, including individuals who are pre-symptomatic or have mild illness. Interventions aimed at containing the spread of the virus rely on retracing the contact history of individuals who have tested positive for the virus. As SARS-CoV-2 continues to spread and the numbers of cases rise, thorough contact tracing may be impractical. As a supplement, molecular data obtained from patient samples, such as viral genetic sequences, can be used to recreate the epidemic history. Through phylogenetic and phylodynamic analyses, virus genomes can be arranged in structures similar to a family genealogy tree, reconstructing transmission histories, even when much of the history is unknown or unreported. Such an approach is, therefore, invaluable in immediately understanding the behavior of rapidly spreading viruses, such as SARS-CoV-2, when contact tracing is problematic. Further, mathematical modeling can be applied to the transmission trees to predict rates of growth and spread in the near future. &lt;br/&gt;&lt;br/&gt;The purpose of this project is to overcome limitations identified as problematic in the molecular epidemiological analysis of SARS-CoV-2 ? namely sampling bias ? and to infer putative transmission networks that involve a critical mass of linked cases and that are predicted to require immediate public heath prioritization. The project will expand on an existing molecular analysis framework, the Dynamic Identification of Transmission Epicenters (DYNAMITE), incorporating a modified data sampling strategy for more reliable reconstruction of historical spread, the use of growth modeling, and a basic visualization component for user-friendly data interpretation in real time. Additionally, this project will move toward an interoperable implementation of code to be integrated with other software tools. The project development will be guided by focus groups, involving leaders in the field of phylogenetics, epidemiology, and public health. Among the long-term goals, COV-DYNAMITE aims to assist public health officials in prioritizing resources by providing projections on critical sub-epidemic hotspots.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/02/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/02/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2028221</AwardID>
+<Investigator>
+<FirstName>Marco</FirstName>
+<LastName>Salemi</LastName>
+<EmailAddress>msalemi@pathology.ufl.edu</EmailAddress>
+<StartDate>04/02/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mattia</FirstName>
+<LastName>Prosperi</LastName>
+<EmailAddress>m.prosperi@ufl.edu</EmailAddress>
+<StartDate>04/02/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Natalie</FirstName>
+<LastName>Dean</LastName>
+<EmailAddress>nataliedean@ufl.edu</EmailAddress>
+<StartDate>04/02/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Florida</Name>
+<CityName>GAINESVILLE</CityName>
+<ZipCode>326112002</ZipCode>
+<PhoneNumber>3523923516</PhoneNumber>
+<StreetAddress>1 UNIVERSITY OF FLORIDA</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7374</Code>
+<Text>Systematics &amp; Biodiversity Sci</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+</Award>
+</rootTag>

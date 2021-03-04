@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps:  Water separation using progressive freeze concentration</AwardTitle>
+<AwardEffectiveDate>06/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth Shuman</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project is the development of technology, called freeze concentration, to produce potable water from high-salt waters or seawater, and to recover water from or concentrate valuable products in industrial process waters. The impact of this technology includes making production of potable water or water recovery more sustainable, energy-efficient and environmentally friendly. Utilities may recover water from their waste streams and increase the volume of water produced and minimize waste discharge. Reducing water use in food processing industries creates more sustainable operations while reducing the cost of production. The overall commercial impact of the technology is to maximize water recovery, reduce discharge of waste streams and protect and maintain precious raw water resources.   &lt;br/&gt;&lt;br/&gt;This I-Corps project is based on the development of freeze concentration (FC) technology where ice is formed and separates from aqueous waste streams with a high degree of salts or valuable products exclusion. Ice formed is recovered, melted and reused or returned for further treatment. Since the latent heat of fusion needed to freeze water is less than the energy needed to evaporate water (thermal) or to pump seawater through a semi-permeable membrane (RO), FC may be an energy-efficient process. Laboratory results showed that about 70% of the brine waste stream (total dissolved solids of 2600 mg/L) from an RO treatment plant water may be recovered as potable water using the FC technology - increasing the overall water yield of the RO treatment plant from 83% to 95%. The overall goal of the research is to optimize the operating conditions of the FC technology to maximize the amount of water produced (i.e., reduce the waste stream), lower the cost or energy needed to produce a unit (liters or gallons) of water, and to explore optimization parameters for technology translation.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/10/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/10/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2013400</AwardID>
+<Investigator>
+<FirstName>Say Kee</FirstName>
+<LastName>Ong</LastName>
+<EmailAddress>skong@iastate.edu</EmailAddress>
+<StartDate>06/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Iowa State University</Name>
+<CityName>AMES</CityName>
+<ZipCode>500112207</ZipCode>
+<PhoneNumber>5152945225</PhoneNumber>
+<StreetAddress>1138 Pearson</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<StateCode>IA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+</Appropriation>
+</Award>
+</rootTag>

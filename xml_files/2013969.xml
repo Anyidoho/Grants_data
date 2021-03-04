@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>An Entropy Approach to Invariance and Reachability of Uncertain Control Systems with Limited Information</AwardTitle>
+<AwardEffectiveDate>06/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>379327.00</AwardTotalIntnAmount>
+<AwardAmount>379327</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Robert Landers</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This grant will investigate the control of uncertain nonlinear systems with limited information and with respect to reachability (i.e., the ability to eventually reach a desired region) and invariance (i.e., the ability to always remain in a desired region) objectives. Digital components such as communication systems, digital sensors, and microprocessors are being used ubiquitously in modern control systems to implement closed-loop control. Example systems that utilize closed-loop control include traffic network, autonomous transportation, power networks, and assisted living systems. The intricate interactions between the digital and physical components introduces major challenges in the analysis and control of such systems that cannot be addressed by the methods available in classical control theory. For example, due to the finite bandwidth of communication channels between sensors and controllers, information exchange between them is limited. The fundamental question of whether certain control objectives are realizable by taking into account such limited information exchange cannot be answered by classical control theory. The notion of entropy (i.e., a measure of uncertainty in a system?s initial condition) as an information measure has shown to be a key concept in addressing these types of questions. This project will investigate novel notions of entropiesy for invariance and reachability properties for uncertain nonlinear systems. The results of this project will enable the first step towards the efficient deployment of many innovative applications including underwater vehicles, sensor networks, and industrial control networks.&lt;br/&gt;&lt;br/&gt;The main goal of this project is the analysis of information measures for nondeterministic control systems to determine the minimal data rates necessary for the realization of invariance and reachability properties. In addition, this project will also analyze minimal data rates for interconnected nondeterministic control subsystems to enforce invariance properties based on data rates of subsystems. Specifically, the project will introduce the notion of subsystem invariance entropy, in which lower and upper bounds for the invariance entropy of the overall interconnected system are computed compositionally. Similar to the analysis of limited information feedback, formal synthesis of controllers for solving certain complex control objectives, taking into account the digital components, is a challenge that cannot be addressed with classical techniques. A relatively recent approach, namely, the abstraction-based controller synthesis method, has proven to be a promising candidate to address this class of problems. This project will use the developed information measures to quantify the computational complexity underling the abstraction-based synthesis approach. Finally, the project will research numerical algorithms using abstraction-based techniques to compute upper bounds of the researched entropy notions.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/05/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/05/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2013969</AwardID>
+<Investigator>
+<FirstName>Majid</FirstName>
+<LastName>Zamani</LastName>
+<EmailAddress>majid.zamani@colorado.edu</EmailAddress>
+<StartDate>05/05/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Colorado at Boulder</Name>
+<CityName>Boulder</CityName>
+<ZipCode>803031058</ZipCode>
+<PhoneNumber>3034926221</PhoneNumber>
+<StreetAddress>3100 Marine Street, Room 481</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7569</Code>
+<Text>Dynamics, Control and System D</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>034E</Code>
+<Text>Dynamical systems</Text>
+</ProgramReference>
+</Award>
+</rootTag>

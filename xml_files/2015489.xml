@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>DMS-EPSRC: Change-Point Detection and Localization in High Dimensions: Theory and Methods</AwardTitle>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>280000.00</AwardTotalIntnAmount>
+<AwardAmount>280000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Huixia Wang</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Statistical change point analysis is concerned with identifying abrupt changes in data when measurements are collected over time. A fundamental challenge is to discriminate among changes corresponding to structural, but possibly subtle, variations in the underlying data generative model from those that may simply be due to random fluctuations. Change point models arise naturally in a variety of scientific and industrial applications, including security monitoring, neuroimaging, financial trading, ecological statistics, climate change, medical monitoring, sensor networks, disease outbreak risk assessment, flu trend analysis, genetics and many others. Though a host of well-established methods for the statistical analysis of change point problems is available to practitioners, the prevailing framework suffers from important limitations: (i) it often relies on traditional modeling assumptions of limited expressive power that are inadequate to capture the size and inherent complexity of modern datasets and (ii) it is not directly applicable to non-standard data types, such as networks or graph-structured signals. The broad goal of this project is to develop novel theories, practicable methods, and software tools for a variety of new change point settings to tackle complex, big data problems and advance the practice of statistical inference for change-point analysis. In addition to its scientific output, the project will bring together a diverse group of researchers, some from underrepresented groups in Statistics. The project will provide research training opportunities for graduate students.&lt;br/&gt;&lt;br/&gt;The project includes three main research aims: (1) to derive statistically optimal and computationally efficient procedures for detecting the presence and estimating the positions of change points in various offline high-dimensional statistical models, ranging from simple univariate mean change point models to more complicated settings involving high-dimensional parameters, such covariance covariances, regression models, dynamic single and multi-layered network models; (2) to derive novel guarantees and methods for change point detection and localization in graph-structured signals; and (3) to develop methods for optimal sequential change point analysis in complex data streams.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/04/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/04/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2015489</AwardID>
+<Investigator>
+<FirstName>Alessandro</FirstName>
+<LastName>Rinaldo</LastName>
+<EmailAddress>arinaldo@cmu.edu</EmailAddress>
+<StartDate>08/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>OSCAR  HERNAN</FirstName>
+<LastName>MADRID PADILLA</LastName>
+<EmailAddress>oscar.madrid@stat.ucla.edu</EmailAddress>
+<StartDate>08/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Carnegie-Mellon University</Name>
+<CityName>PITTSBURGH</CityName>
+<ZipCode>152133815</ZipCode>
+<PhoneNumber>4122688746</PhoneNumber>
+<StreetAddress>5000 Forbes Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1269</Code>
+<Text>STATISTICS</Text>
+</ProgramElement>
+</Award>
+</rootTag>

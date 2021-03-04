@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>US-UK Collaboration: Integrating ecology, epidemiology, and human interests to guide strategic management of zoonoses in complex wildlife reservoirs</AwardTitle>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>1695154.00</AwardTotalIntnAmount>
+<AwardAmount>1412944</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Katharina Dittmar</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Wild animals host a wide variety of pathogens that can spread to other animals and humans. Such&lt;br/&gt;diseases, including Ebola and COVID-19, significantly affect human health, agriculture and wildlife&lt;br/&gt;conservation. Historically, disease control methods (e.g. vaccination, therapeutics) have focused on&lt;br/&gt;humans or livestock rather than wild animal reservoirs. Focusing on disease control in wildlife could&lt;br/&gt;be more effective in preventing disease emergence in humans, but that approach is currently limited&lt;br/&gt;by three factors. First, many diseases are maintained in cycles that spread across landscapes, but&lt;br/&gt;wildlife diseases are notoriously difficult to assess at these large spatial scales, making responses to&lt;br/&gt;interventions unpredictable. Second, tools like vaccines have been difficult to administer to sufficient&lt;br/&gt;numbers of animals to actually reduce disease transmission in the wild. Third, interventions are&lt;br/&gt;usually bounded by societal constraints, both financial (e.g., limited funds to invest) and sociological&lt;br/&gt;(e.g., conflicting stakeholder interests). New technologies, including vaccines that can spread among&lt;br/&gt;wildlife and miniaturized animal-borne tracking systems, have unrealized potential to overcome these&lt;br/&gt;limitations. This project will focus on reducing vampire bat transmitted rabies, which has significant&lt;br/&gt;human health and agricultural impacts across Latin America, but the methods developed for this study&lt;br/&gt;could be applied to other important wildlife diseases. The project will strengthen research&lt;br/&gt;capacity through training of students and early career scientists in field, laboratory and quantitative methodologies.&lt;br/&gt;&lt;br/&gt;This project will conduct field and laboratory research to test specific hypotheses about the&lt;br/&gt;epidemiology and management of vampire bat-transmitted rabies. The researchers will: (1) Use field&lt;br/&gt;experiments with animal-borne GPS tags and large-scale data on bat presence from questionnaires&lt;br/&gt;and historical rabies outbreaks to generate models that can be used to determine how human&lt;br/&gt;disturbance influences bat abundance and dispersal; (2) Conduct studies using captive and wild&lt;br/&gt;vampire bats to determine host and ecological factors that will influence the use of self-spreading&lt;br/&gt;rabies vaccines that target bats; and (3) Use parameters estimated from fieldwork and captive studies&lt;br/&gt;to optimize strategies for localized control and regional elimination of vampire bat rabies that preserve&lt;br/&gt;diverse stakeholder requirements, e.g. wildlife conservation goals as well as improved human and&lt;br/&gt;livestock health.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/29/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/29/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2011069</AwardID>
+<Investigator>
+<FirstName>Jorge</FirstName>
+<LastName>Osorio</LastName>
+<EmailAddress>osorio@svm.vetmed.wisc.edu</EmailAddress>
+<StartDate>04/29/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Tonie</FirstName>
+<LastName>Rocke</LastName>
+<EmailAddress>tonie_rocke@usgs.gov</EmailAddress>
+<StartDate>04/29/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Walsh</LastName>
+<EmailAddress>dwalsh@usgs.gov</EmailAddress>
+<StartDate>04/29/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Robin</FirstName>
+<LastName>Russell</LastName>
+<EmailAddress>rerussell@usgs.gov</EmailAddress>
+<StartDate>04/29/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Wisconsin-Madison</Name>
+<CityName>MADISON</CityName>
+<ZipCode>537151218</ZipCode>
+<PhoneNumber>6082623822</PhoneNumber>
+<StreetAddress>21 North Park Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7242</Code>
+<Text>Ecology of Infectious Diseases</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+</Appropriation>
+</Award>
+</rootTag>

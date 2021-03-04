@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RAPID: Real-time modeling of the source-sink dynamics of SARS-CoV-2 in rural regions for equitable public health</AwardTitle>
+<AwardEffectiveDate>05/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>199857.00</AwardTotalIntnAmount>
+<AwardAmount>199857</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Samuel Scheiner</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>SARS-CoV-2, the virus that causes COVID-19, has become a global epidemic, spreading rapidly through communities across our country and around the globe. Accurate forecasting of disease spread is a critical tool for effectively planning outbreak responses, allowing us to predict how many people will be infected, how many patients will be in hospitals at any given time, and the resource needs (e.g. ventilators) at each hospital. Most modeling studies of SARS-CoV-2 have so far focused on predicting how the virus will spread in densely populated cities like New York City, but the virus is also rapidly spreading in more sparsely populated, rural regions.  To accurately model outbreak dynamics in more rural areas, more realistic mathematical models are needed that can represent mid-sized population centers separated by large areas of low population density. This project will develop and refine these more advanced mathematical models to understand how population density and interconnectedness influence the trajectory of epidemic outbreaks. Importantly, the project will deploy model projections in near-real-time to aid in local public health interventions, via a secure web portal accessible to local and regional response planners. Model output will also be linked to the resources available at specific local and regional hospitals in a broad rural area, so that these hospitals can better manage the impacts of the SARS-CoV-2 epidemic. The modeling system and web application will serve as a framework for rapidly responding to future outbreaks. &lt;br/&gt;&lt;br/&gt;Most epidemiological models that have been developed to forecast the spread of SARS-CoV-2 make assumptions that are likely only realistic in dense urban centers, such as frequency-dependent transmission dynamics, a lack of stochastic processes, and a lack of density-dependent effects. In this project, models will be developed that are more appropriate for sparse metapopulations, accounting for multiple sources of stochasticity, population movement across a landscape, density-dependent transmission, and spatial heterogeneity in transmission rates. The project will use advanced statistical computing algorithms to fit the models to data from a large rural region. This fitting routine will identify the most appropriate transmission functions that describe longitudinal patterns of case-counts and will allow the project to release data-informed predictions of SARS-CoV-2 spread in near-real-time. These model forecasts will be developed in collaboration with public health experts and healthcare practitioners to respond to the needs of under-served, rural communities. The secure web application will provide predictions of hospitalization rates at fine spatial grains so that already strained, rural hospital systems can adapt and plan under different intervention scenarios.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/22/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/22/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2028629</AwardID>
+<Investigator>
+<FirstName>Eckehard</FirstName>
+<LastName>Doerry</LastName>
+<EmailAddress>Eck.Doerry@nau.edu</EmailAddress>
+<StartDate>04/22/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Crystal</FirstName>
+<LastName>Hepp</LastName>
+<EmailAddress>crystal.hepp@nau.edu</EmailAddress>
+<StartDate>04/22/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Joseph</FirstName>
+<LastName>Mihaljevic</LastName>
+<EmailAddress>Joseph.Mihaljevic@nau.edu</EmailAddress>
+<StartDate>04/22/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Northern Arizona University</Name>
+<CityName>Flagstaff</CityName>
+<ZipCode>860110001</ZipCode>
+<PhoneNumber>9285230886</PhoneNumber>
+<StreetAddress>ARD Building #56, Suite 240</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+</Institution>
+<ProgramElement>
+<Code>158Y</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1N20</Code>
+</Appropriation>
+</Award>
+</rootTag>

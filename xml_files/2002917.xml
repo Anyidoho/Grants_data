@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps:  High productivity micro-reactors for large scale hydrocarbon and CO2 processing</AwardTitle>
+<AwardEffectiveDate>02/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Andre Marshall</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project is to develop a highly efficient, cost-effective system for direct conversion of CO2 to useful chemicals, while minimizing waste and emissions. The potential impacts include, but are not limited to, new cost-effective utilization of the abundant CO2 both within the atmosphere and from point source emissions, such as power plants, for the production of value-added chemicals. The heart of this technology is a 'microreactor' that allows process intensification and thus increased productivity compared to a conventional reactor.  Microreactors offer enhanced productivity, safety, and robustness.  The proposed unit can be developed as an easily deployable, standalone unit or to retrofit existing plants. Moreover, this project will deliver major benefits to the chemical process industries by accelerating response to market changes, simplifying scale-up, enabling rapid development and deployment of new products, simplifying on-site gas treatment and processing, and reducing the environmental impact and safety risks inherent to pipeline transportation to a central facility.&lt;br/&gt;&lt;br/&gt;This I-Corps project is based on designing and building a standalone highly intensified unit to leverage the high productivity of microreactors in developing small scale Gas-To-Liquid (GTL) plants converting CO2 into value-added chemicals. A microreactor containing microchannels is ideal for process intensification in chemical engineering as it (1) enhances the heat and mass transfer processes; (2) allows precise adjustment of the initial and boundary conditions, as well as the residence or contact time for continuous chemical reactions; and (3) represents inherently safe plant operation.  The decrease in the physical dimensions (miniaturization) of a unit leads to enhanced mixing and heat exchange, thereby improving the surface area per unit volume and subsequent mass and heat transfer rates. The proposed system will be a highly intensified standalone plant consisting of catalytic microreactor units.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/21/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>01/21/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2002917</AwardID>
+<Investigator>
+<FirstName>Debasish</FirstName>
+<LastName>Kuila</LastName>
+<EmailAddress>dkuila@ncat.edu</EmailAddress>
+<StartDate>01/21/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Omar</FirstName>
+<LastName>Basha</LastName>
+<EmailAddress>ombasha@ncat.edu</EmailAddress>
+<StartDate>01/21/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>North Carolina Agricultural &amp; Technical State University</Name>
+<CityName>Greensboro</CityName>
+<ZipCode>274110001</ZipCode>
+<PhoneNumber>3363347995</PhoneNumber>
+<StreetAddress>1601 E. Market Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

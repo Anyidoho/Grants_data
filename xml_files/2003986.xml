@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: Structure and function of flavin-dependent N-monooxygenases</AwardTitle>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>198000.00</AwardTotalIntnAmount>
+<AwardAmount>198000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Max Funk</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>With this award, the Chemistry of Life Processes Program in the Chemistry Division is funding Dr. Pablo Sobrado from Virginia Tech and John. J. Tanner from the University of Missouri to investigate the structure and chemistry of enzymes known as flavin-dependent-N-monooxygenases (NMOs). NMOs play integral parts in how microorganisms make numerous natural compounds for a variety of purposes.  These compounds can also have useful bioactivities that benefit society.  While many flavin-dependent enzymes are well known and have been thoroughly characterized, the NMOs are a relatively recently discovered branch on the family tree, and do not resemble the other members in common ways.  This leads to the hypothesis that new and interesting structures and chemistries are likely to be at play in the reactions catalyzed by the NMOs.  The investigators choose several examples of NMOs for in depth examination in order to compare and contrast their behaviors.  Further, a highly multidisciplinary approach is proposed to provide the broadest possible understanding of the enzymes.  The proposed experimental approach will provide a platform for the training of undergraduate and graduate students in modern enzymology and biophysical chemistry. The laboratories are also committed to strategies to enhance diversity in the scientific research workforce.&lt;br/&gt;&lt;br/&gt;This project expands our knowledge of the diversity of flavoenzymes through the structural and biochemical characterization of new N-monooxygenases. Because these enzymes have low similarity to proteins already in the Protein Data Bank, the structures are expected to exhibit novel features and reveal unanticipated relationships to other enzymes.  This further advances our understanding of the evolutionary relatedness of these enzymes.  Also addressed are key knowledge gaps in our understanding of flavoenzyme mechanisms by characterizing ?double-hydroxylating? NMOs, exploring a newly discovered flavin ?flapping? motion in Group B NMOs, and trapping heretofore-elusive flavoenzyme-ligand complexes in crystallo for structure determination.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/18/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/18/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2003986</AwardID>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Tanner</LastName>
+<EmailAddress>tannerjj@missouri.edu</EmailAddress>
+<StartDate>06/18/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Missouri-Columbia</Name>
+<CityName>COLUMBIA</CityName>
+<ZipCode>652110001</ZipCode>
+<PhoneNumber>5738827560</PhoneNumber>
+<StreetAddress>115 Business Loop 70 W</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<StateCode>MO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>6883</Code>
+<Text>Chemistry of Life Processes</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

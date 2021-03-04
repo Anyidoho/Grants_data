@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  iD3: Intelligent, Invisible Electronic ID Tags</AwardTitle>
+<AwardEffectiveDate>05/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>225000.00</AwardTotalIntnAmount>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Muralidharan Nair</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project will be the demonstration of an innovative, broadly applicable unique ID technology to link physical objects to the digital world. The proposed technology could help prevent counterfeits, as well as providing a manufacturer information on the product's movement in the supply and distribution chains. The key limitation preventing broad use of unique ID tags is that many key products and components are difficult or impossible to label with existing technologies due to either security, size, or cost. These constraints dramatically limit the space of applications. The tag prototype developed in this Phase I project will advance the field of wireless electronics by demonstrating the first remotely accessible microscopic electronic package.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project will further the development of a new class of microscopic Optical Wireless Integrated Circuits (OWiCs). Specifically, this project will be focusing on developing a new OWiC specifically designed for use as a unique ID tag. The tag combines an all optical communication and power system with low-power integrated circuits in an effectively invisible package, too small to be resolved by the naked eye. This project will address the following technical challenges:  1) making a tiny wireless tag with complete functionality, 2) manufacturing at scale, and 3) using the tag.  Each of these hurdles will be addressed in this project with low-power integrated circuit design, parallel all-lithographic nanofabrication techniques, and new methods for placement of tags.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/14/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2014984</AwardID>
+<Investigator>
+<FirstName>Alejandro</FirstName>
+<LastName>Cortese</LastName>
+<EmailAddress>alejandro.j.cortese@gmail.com</EmailAddress>
+<StartDate>05/14/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>OWIC TECHNOLOGIES, INC.</Name>
+<CityName>ITHACA</CityName>
+<ZipCode>148532700</ZipCode>
+<PhoneNumber>9198242809</PhoneNumber>
+<StreetAddress>350 DUFFIELD HALL</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>4096</Code>
+<Text>COMMUNICATIONS RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8034</Code>
+<Text>Hardware Components</Text>
+</ProgramReference>
+</Award>
+</rootTag>

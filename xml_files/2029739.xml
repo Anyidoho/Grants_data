@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RAPID/Collaborative Research: Quantifying Social Media Data for Improved Modeling of Mitigation Strategies for the COVID-19 Pandemic</AwardTitle>
+<AwardEffectiveDate>05/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>141527.00</AwardTotalIntnAmount>
+<AwardAmount>141527</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Robert Landers</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This Rapid Response Research (RAPID) grant will support research that will contribute new knowledge related to modeling social behavior and community activity during the COVID-19 pandemic, as well as future pandemics with COVID-19 characteristics.  The model focuses on compliance with mitigation strategies and public health guidelines, thus enabling the selection of policies that are most effective in promoting both the progress of science and advancing national health and prosperity. Various pandemic models are currently being used to predict the spread of a virus and establish which mitigation strategies are the most effective. These models are heavily based on assumptions and may include an oversimplified reality of how populations react and behave. This research will provide needed knowledge and methods for the development of a model of how individuals in the U.S. react to certain mitigation strategies, such as social-distancing, stay-at-home orders, quarantines, and travel advisories, by mining and analyzing social media data during the COVID-19 crisis. This enhanced modeling approach and its resultant model will be of great value to disaster response managers and policy/decision makers to understand human social behavior. This work allows assessment of the effectiveness of mitigation strategies and public health guidelines during pandemics (and other crises). This project will also form the basis of a publicly available case study suitable for university level students that can be widely incorporated in courses. &lt;br/&gt;&lt;br/&gt;Although individual-based and homogeneous mixing pandemic models provide useful insights and predictive capabilities within a range of possibilities, they are highly sensitive to people’s actions. This research aims to provide an enhanced approach to model social behavior and community activity during a pandemic in terms of compliance with mitigation strategies and public health guidelines. Social media data present a brief window of opportunity for research on how, and to what extent, the public does or does not comply with the recommended mitigation strategies and public health guidelines. The research team will collect real-time data from social media related to COVID19-exposed regional populations in the U.S. The data will be analyzed using machine learning techniques to identify non-mutually exclusive clusters of people based on similarity of their demographic, geographic, and time information, and establish relationships among clusters. The analyzed data will form the basis of a data-driven multi-paradigm simulation model that captures changes in public sentiment over time, quantifies the resistance/compliance with mitigation strategies and health guidelines, and gauges overall effectiveness of various mitigation strategies and advice over time.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/30/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/30/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2029739</AwardID>
+<Investigator>
+<FirstName>Alice</FirstName>
+<LastName>Smith</LastName>
+<EmailAddress>smithae@auburn.edu</EmailAddress>
+<StartDate>04/30/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Konstantinos</FirstName>
+<LastName>Mykoniatis</LastName>
+<EmailAddress>mzk0141@auburn.edu</EmailAddress>
+<StartDate>04/30/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Auburn University</Name>
+<CityName>Auburn University</CityName>
+<ZipCode>368320001</ZipCode>
+<PhoneNumber>3348444438</PhoneNumber>
+<StreetAddress>VPRED, Research &amp; Innovation Ctr</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Alabama</StateName>
+<StateCode>AL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>158Y</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>034E</Code>
+<Text>Dynamical systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1N20</Code>
+</Appropriation>
+</Award>
+</rootTag>

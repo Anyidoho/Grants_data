@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: RAPID--Atmospheric Chlorine Oxidation of Hydrocarbons Emitted from the North Slope of Alaska Oil Fields</AwardTitle>
+<AwardEffectiveDate>01/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>160904.00</AwardTotalIntnAmount>
+<AwardAmount>160904</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020104</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AGS</Abbreviation>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sylvia Edgerton</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project will investigate the role of chlorine (Cl) in atmospheric chemical processes in the wintertime Arctic. A measurement campaign will be conducted at Oliktok Point Alaska, a field site that is operated by the U.S. Department of Energy?s Atmospheric Radiation Measurement Program (DOE ARM) and is located in the vicinity of the north slope of Alaska oilfields. Atmospheric Cl emitted from wintertime saline snowpacks can react with volatile organic compounds (VOCs) emitted from the oil fields to form secondary organic aerosol (SOA). The importance of this process will be evaluated and the results may have application to other coastal, snow-covered, polluted locations around the world.&lt;br/&gt;&lt;br/&gt;This research will test the hypothesis that chlorine chemistry occurring in the vicinity of wintertime oil fields with saline snowpacks can result in the oxidation of VOCs emitted from oil field activities and the formation of oxidized VOCs (OVOCs) and SOA. The field deployment includes online mass spectrometry measurements of atmospheric VOCs, OVOCs, and SOA, and field-based oxidation flow reactor (OFR) experiments to investigate in situ Cl oxidation of VOCs and the resulting production of OVOCs and SOA.  These measurements will provide detailed datasets of molecular composition transformations initiated by Cl oxidation in the polluted wintertime environment.&lt;br/&gt;&lt;br/&gt;This project was supported under the NSF Grants for Rapid Response Research (RAPID) program because the U.S. Department of Energy has announced that the Oliktok Point field site will be closing in 2021, with the removal of complementary atmospheric measurements starting in the fall of 2020. There are no plans to reopen this site; thus, there is an urgent need to conduct the research at this site before it is closed.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>12/12/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>12/19/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2002695</AwardID>
+<Investigator>
+<FirstName>Kerri</FirstName>
+<LastName>Pratt</LastName>
+<EmailAddress>prattka@umich.edu</EmailAddress>
+<StartDate>12/12/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Regents of the University of Michigan - Ann Arbor</Name>
+<CityName>Ann Arbor</CityName>
+<ZipCode>481091274</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress>3003 South State St. Room 1062</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1524</Code>
+<Text>Atmospheric Chemistry</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+</Award>
+</rootTag>

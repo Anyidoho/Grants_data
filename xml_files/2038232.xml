@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER: Exploring Convergence Research: An Initial Examination of What It Means and What It Hopes to Accomplish</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>299921.00</AwardTotalIntnAmount>
+<AwardAmount>299921</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>01060000</Code>
+<Directorate>
+<Abbreviation>O/D</Abbreviation>
+<LongName>Office Of The Director</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OIA</Abbreviation>
+<LongName>Office of Integrative Activities</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>christina freyman</SignBlockName>
+<PO_EMAI>cfreyman@nsf.gov</PO_EMAI>
+<PO_PHON>7032922835</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This EAGER project will create and implement a promising, novel but untested, approach for the evaluation of convergence research projects.  The effort proposed will create an evidence-based framework and set of appropriate indicators of processes and results for convergence research; however, this evaluation approach will also be relevant for most types of basic research. This addresses a significant challenge in the field of evaluation—given that basic research processes often evolve and change from initial proposals and desired results often emerge long after the grant funding ends.  This project, if successful, has the potential to make a significant contribution to the field of evaluation and thus will also strengthen the capacity of agencies and other funders of basic research to generate and use evidence about the efficiency and effectiveness of their investments to inform decisions. &lt;br/&gt;&lt;br/&gt;The most important technical aspect of this proposal is that it proposes a highly innovative use of bibliometric data and advanced statistical modelling as inputs into the development of an assessment framework (e.g., theory of change, logic model, evaluation questions, indicators). Typically, these techniques are used to answer evaluation questions, not on the front-end of design.  The other data sources for this project include literature reviews, agency stakeholder interviews, and scaffolding of information from document review of convergence research resources. The deliverables from this project include: a landscape study, a theory of change, and logic model for convergence research, and a set of preliminary indicators. The anticipated outcomes of this project include: (1) an increase in knowledge of key convergence research concepts and change mechanisms, (2) the emergence of common measures to guide the generation and use of evidence in ways that, (3) inform and catalyze decisions across a broad landscape of funders in the field of basic research and the scientific communities they serve.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/03/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.083</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2038232</AwardID>
+<Investigator>
+<FirstName>Joy</FirstName>
+<LastName>Frechtling</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Joy Frechtling</PI_FULL_NAME>
+<EmailAddress>joyfrechtling@westat.com</EmailAddress>
+<PI_PHON>3012511500</PI_PHON>
+<NSF_ID>000161446</NSF_ID>
+<StartDate>09/03/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Gary</FirstName>
+<LastName>Silverstein</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Gary Silverstein</PI_FULL_NAME>
+<EmailAddress>garysilverstein@westat.com</EmailAddress>
+<PI_PHON>3012512244</PI_PHON>
+<NSF_ID>000105627</NSF_ID>
+<StartDate>09/03/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Westat Inc</Name>
+<CityName>Rockville</CityName>
+<CountyName>MONTGOMERY</CountyName>
+<ZipCode>208500319</ZipCode>
+<PhoneNumber>3012511500</PhoneNumber>
+<StreetAddress>1600 RESEARCH BLVD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD08</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>049508120</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>WESTAT, INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>049508120</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Westat Inc]]></Name>
+<CityName/>
+<CountyName>MONTGOMERY</CountyName>
+<StateCode>MD</StateCode>
+<ZipCode>208503129</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD08</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7550</Code>
+<Text>Eval &amp; Assessment Capabilites</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<FUND_OBLG>2020~299921</FUND_OBLG>
+</Award>
+</rootTag>

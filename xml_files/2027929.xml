@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RAPID: Influence of reusable personal protective equipment on resilience of hospitals in a pandemic</AwardTitle>
+<AwardEffectiveDate>06/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>78394.00</AwardTotalIntnAmount>
+<AwardAmount>78394</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Bruce Hamilton</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>A major challenge in responding to the Covid-19 pandemic is keeping health care workers safe through the usage and supply of personal protective equipment (PPE). There is currently a severe shortage of PPE across health care facilities in the United States, in part due to a reliance on disposable PPE, which must be replenished. In order to increase the resiliency of the healthcare system, a fundamental shift for meeting the baseline demand of PPE may be met by utilizing reusable options. The main goal of this work is to generate new insight on the resilience of hospitals as a function of how they meet their baseline PPE demand, while informing hospitals how to increase their resiliency during this current pandemic, and engaging the public through crowd sourcing information as to the number of health care systems requesting citizen-made PPE. This project will quantify the equivalent life cycles of single use and reusable PPE, and the increase in the resiliency of a hospital as a function of its usage of reusable PPE in pandemic events. &lt;br/&gt;&lt;br/&gt;Life cycle assessment will be coupled with agent based modeling to generate new fundamental insight as to the potential shifts in the resiliency of a hospital system due to the baseline usage of reusable PPE. These insights may help to weather the current pandemic and future anticipated pandemics. Disposable PPE and other medical supplies have been adopted largely out of a concern for healthcare acquired infections. However, in a time of great surges in demand, such as those which occur during a pandemic, this can result in a lack of available PPE due to competing demands from multiple hospitals and a lack of available supplies. The approach of the study is 3-fold: (1) generate comprehensive data as to the life cycle of reusable versus single use PPE in a pandemic setting, (2) create new insight as to the resiliency of hospitals as a function of meeting their baseload PPE demand with reusables, and (3) generate crowd sourced information as to the real time stability of hospital supply lines as a function of requests for citizen ? made PPE. This work proposes to assess the resiliency of a hospital due to surges in demand for PPE during a pandemic, and the ability of the hospital to meet those needs. This will result in new ways of evaluating the current debate between reusable and single use medical supplies in a crisis situation.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/30/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>03/30/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2027929</AwardID>
+<Investigator>
+<FirstName>Andrea</FirstName>
+<LastName>Hicks</LastName>
+<EmailAddress>hicks5@wisc.edu</EmailAddress>
+<StartDate>03/30/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Wisconsin-Madison</Name>
+<CityName>MADISON</CityName>
+<ZipCode>537151218</ZipCode>
+<PhoneNumber>6082623822</PhoneNumber>
+<StreetAddress>21 North Park Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7643</Code>
+<Text>EnvS-Environmtl Sustainability</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+</Award>
+</rootTag>

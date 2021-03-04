@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER: (ST2) Peptide-Functionalized Hydrogels that Communicate with Preprogrammed Cells</AwardTitle>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>250000.00</AwardTotalIntnAmount>
+<AwardAmount>250000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tomasz Durakiewicz</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Non-technical abstract:&lt;br/&gt;Some tissues, such as cartilage, have limited capacity to repair or regenerate their matrix material when damaged. Self-healing materials with the ability to detect and replace damaged matrix would enable more effective and longer lasting therapies. This EArly-concept Grant for Exploratory Research (EAGER) project investigates the use of programmed cells within hydrogels as a new class of materials able to detect and replace matrix loss. This research aims to program cells within hydrogels to detect and respond to matrix loss by producing new matrix material as needed. The matrix produced by cells is tagged with an ?OFF? signal that is used by the cells to detect when enough of matrix has been produced. As the ?OFF? signal accumulates, the cells decrease and eventually stop production until more matrix is needed due to further damage or degradation. This project is designed to advance the fundamental understanding of biological feedback mechanisms and to provide multidisciplinary research opportunities for graduate and undergraduate students by supporting the Ph.D. training of two graduate students and undergraduate students in capstone project teams. This EAGER project is inspired by ideas developed at the Square Table 2 (ST2) workshop on Programmable Interfaces.&lt;br/&gt;&lt;br/&gt;Technical abstract:&lt;br/&gt;Although cells with stimulatory synthetic receptors that produce materials (e.g., antibodies, cytokines, etc.) upon peptide activation exist, these preprogrammed cells lack the ability to stop production once enough material is made. The goal of this EAGER project is to investigate stimulatory and inhibitory receptor-ligand communication as a novel biological feedback mechanism and to use these insights to develop adaptive materials with self-healing properties. This new class of materials consists of cells preprogrammed with stimulatory and inhibitory synthetic receptors encapsulated in enzymatically degradable hydrogels. Upon activation with spatially tethered stimulatory peptides, cells produce green fluorescent protein (GFP, measurable fluorescence) and a matrix protein tagged with inhibitory ligand. Stimulated cells then replace their surrounding hydrogel with cell-secreted matrix until a balance is reached between competing stimulatory and inhibitory signals. To confirm the self-healing capabilities of these materials, cell-produced matrix is removed locally, and cellular responses and material production are measured via 3D imaging of cellular GFP and fluorescently labeled nascent matrix.&lt;br/&gt;&lt;br/&gt;This Division of Materials Research (DMR) grant supports research to understand and develop stimulatory and inhibitory receptor-ligand communication as a novel biological feedback mechanism and to use these insights to develop adaptive materials with self-healing properties managed by the Condensed Matter Physics (CMP) Program in DMR of the Mathematical and Physical Sciences (MPS) Directorate.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/15/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/15/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2037055</AwardID>
+<Investigator>
+<FirstName>Sebastian</FirstName>
+<LastName>Vega</LastName>
+<EmailAddress>vegas@rowan.edu</EmailAddress>
+<StartDate>07/15/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Nichole</FirstName>
+<LastName>Daringer</LastName>
+<EmailAddress>daringer@rowan.edu</EmailAddress>
+<StartDate>07/15/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Rowan University</Name>
+<CityName>Glassboro</CityName>
+<ZipCode>080281701</ZipCode>
+<PhoneNumber>8562564057</PhoneNumber>
+<StreetAddress>Office of Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1712</Code>
+<Text>DMR SHORT TERM SUPPORT</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>144E</Code>
+<Text>Synthetic biology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7573</Code>
+<Text>BIO-RELATED MATERIALS RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+</Award>
+</rootTag>

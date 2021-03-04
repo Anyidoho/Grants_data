@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps: Tools for Database Forensic Analysis and Intrusion Detection</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Andre Marshall</SignBlockName>
+<PO_EMAI>awmarsha@nsf.gov</PO_EMAI>
+<PO_PHON>7032922257</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project is to address and mitigate the ongoing problem of pervasive data breaches. It will provide forensic analysts with tools for investigating database management systems (DBMS), currently a black box in most investigations. It will do so by combining previously developed forensic analysis approaches with user-friendly interpretation and reports. For existing data monitoring security solutions, this project will eliminate the security gaps that remain exploitable in cybersecurity tools. Current security solutions can only react to the logged activity, leaving a variety of hacks (e.g., abusing super-privileges or hacking) to bypass the log records. The outcome of this project will detect and report malicious data access stemming from actions that bypassed existing security mechanisms.&lt;br/&gt;&lt;br/&gt;This I-Corps project will develop new approaches for presenting digital artifacts from a database to forensic and security analysts. Rather than merely present the individual forensic artifacts, this project will target creation of evidential reports supporting user search and providing chain-of-custody guarantees sufficient as evidence. By tracing the data flow occurring inside the database, this project will enable interpretation and sound evidence in cases of malicious data access or tampering within a database.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/10/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/10/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2015769</AwardID>
+<Investigator>
+<FirstName>Alexander</FirstName>
+<LastName>Rasin</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Alexander Rasin</PI_FULL_NAME>
+<EmailAddress>arasin@cdm.depaul.edu</EmailAddress>
+<PI_PHON>3123627008</PI_PHON>
+<NSF_ID>000637500</NSF_ID>
+<StartDate>06/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>DePaul University</Name>
+<CityName>Chicago</CityName>
+<CountyName>COOK</CountyName>
+<ZipCode>606042287</ZipCode>
+<PhoneNumber>3123627388</PhoneNumber>
+<StreetAddress>1 East Jackson Boulevard</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL07</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>045694130</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>DE PAUL UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>045694130</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[DePaul University]]></Name>
+<CityName>Chicago</CityName>
+<CountyName>COOK</CountyName>
+<StateCode>IL</StateCode>
+<ZipCode>606042345</ZipCode>
+<StreetAddress><![CDATA[243 S. Wabash Av. Ste 401]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<FUND_OBLG>2020~50000</FUND_OBLG>
+</Award>
+</rootTag>

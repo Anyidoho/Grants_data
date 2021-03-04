@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER: GOALI: Bridging the Theory-Practice Divide in Multimedia Compression</AwardTitle>
+<AwardEffectiveDate>04/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>42949.00</AwardTotalIntnAmount>
+<AwardAmount>42949</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Phillip Regalia</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Data compression is a central problem in engineering, both in a practical and conceptual sense.  On the practical side, modern telecommunications would be impossible without sophisticated data compression algorithms, and improved compression schemes will lead to improved connectivity.  On the conceptual side, since compressing a source amounts to learning its structure, data compression serves as a concrete problem with a well-defined objective that is connected to profound questions in AI. For compression of multimedia sources in particular, there has been relatively little interplay between the theoretical and experimental communities. This is arguably attributable to a lack of realism in the mathematical models used in theoretical studies and by a marked disconnection between the two communities. The GOALI project will develop new models of multimedia sources, the characterization and analysis of which will likely give rise to new theory. &lt;br/&gt;&lt;br/&gt;This project seeks to address both the mathematical realism in multimedia data models and the experimental validation of actual compression algorithms. The technical goal of the project is to develop improved mathematical models for multimedia sources by drawing on recent advances on the experimental side of the field, namely compression via deep neural networks (DNNs). This will be achieved via a collaborative project drawing together two PIs with expertise spanning theoretical and experimental approaches, helping to draw these two sides together.  The project will also lead to new characterizations of the expressive power of neural networks for simulating random processes and new results connecting the problems of compression and generative modeling.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/31/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>03/31/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2008266</AwardID>
+<Investigator>
+<FirstName>Johannes</FirstName>
+<LastName>Balle</LastName>
+<EmailAddress>jballe@google.com</EmailAddress>
+<StartDate>03/31/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Aaron</FirstName>
+<LastName>Wagner</LastName>
+<EmailAddress>wagner@ece.cornell.edu</EmailAddress>
+<StartDate>03/31/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Cornell University</Name>
+<CityName>Ithaca</CityName>
+<ZipCode>148502820</ZipCode>
+<PhoneNumber>6072555014</PhoneNumber>
+<StreetAddress>373 Pine Tree Road</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7797</Code>
+<Text>Comm &amp; Information Foundations</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7935</Code>
+<Text>COMM &amp; INFORMATION THEORY</Text>
+</ProgramReference>
+</Award>
+</rootTag>

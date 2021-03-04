@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RAPID: Tracking Urban Mobility and Occupancy under Social Distancing Policy</AwardTitle>
+<AwardEffectiveDate>05/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>49705.00</AwardTotalIntnAmount>
+<AwardAmount>49705</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>David Miller</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project promotes the progress of science and public health by using information technology to collect information about how people move through cities and use public spaces when they are supposed to be social distancing. Social distancing policy is intended to slow the spread of infectious diseases such as COVID-19. The effectiveness of social distancing in preventing disease depends on whether and how people follow these orders. By collecting video of city sidewalks and public spaces, we can understand how people are interpreting and responding to social distance orders, and, later, we can show how these behaviors affect health outcomes neighborhood by neighborhood. As the coronavirus spreads to other locales, evidence about how specific behaviors correlate with disease spread will encourage public compliance. For example, it is believed that it is safe to exercise outdoors, as long as people are not running too close with one another. Running and hiking are permitted; however, using parks to play pickup games of basketball is not. The data collected in this project will aid in establishing clearer, evidence-backed guidance for what safe and dangerous activities might be. The data will be also useful in future human robot interaction research. It will help autonomous systems, such as autonomous cars, delivery robots, and emergency service vehicles, to automatically recognize what people are doing, so that they can respond appropriately. This can be applied to a variety of purposes: It can help emergency response teams to quickly locate people that need help. It can help cars and robots to better understand different kinds of human activities, so that they might wait for momentary situations to pass, or steer around activities that will be longer in duration. &lt;br/&gt;&lt;br/&gt;This project  will gather data on outdoor pedestrian and light vehicle (bicycle, scooter, skateboard) activity in New York from a) dashcam footage from vehicles driving through the city, b) video streams gathered from public web cameras, and c) mobile phone geo-location data volunteered by local citizens, to form a map of urban mobility and space occupancy under social distancing policy. This data will enable researchers to infer the activities, contexts, origins and destinations of the people in public spaces. This information can reveal where and, in turn, why stay at home orders are and are not being followed. It can also help to identify areas where essential services or activities are not distributed or designed optimally to decrease unnecessary interaction. This data can also be used in post-hoc analysis of policy directives and infection patterns, so as to better inform policy and social distancing design. It advances our understanding of how public policy translates to behaviors and activities on the ground, and how the emergence of individual behaviors and social interactions influence social health outcomes. This work demonstrates the application of current-day computer recognition and mobile technology to capture human behavior, will improve and validate models for infectious disease prevention, and also will inform public policy. In addition, it will augment the robotic community's ability to recognize human activities in urban spaces. By modelling social distancing behaviors, we can better design socially appropriate human robot interaction for public urban spaces in the future.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/23/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/23/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2028009</AwardID>
+<Investigator>
+<FirstName>Wendy</FirstName>
+<LastName>Ju</LastName>
+<EmailAddress>wendyju@cornell.edu</EmailAddress>
+<StartDate>04/23/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Cornell University</Name>
+<CityName>Ithaca</CityName>
+<ZipCode>148502820</ZipCode>
+<PhoneNumber>6072555014</PhoneNumber>
+<StreetAddress>373 Pine Tree Road</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>158Y</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1N20</Code>
+</Appropriation>
+</Award>
+</rootTag>

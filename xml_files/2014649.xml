@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Neurocognitive and behavioral detection of THC impairment</AwardTitle>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>224472.00</AwardTotalIntnAmount>
+<AwardAmount>224472</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alastair Monk</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader/commercial impact of this Small Business Innovation Research (SBIR) Phase I project is to develop a reliable tool for law enforcement for the detection of cannabis-related driving impairment. Impaired operation of equipment costs the nation hundreds of billions of dollars annually. Our detection tool is a software application designed to be presented on a mobile tablet device. It will utilize a combination of neurocognitive, behavioral, and physiological indicators of cannabis intoxication to make an informed determination of impairment. This detection tool may be used as a roadside device by law enforcement, as a screening tool by employers of transit companies, or by an individual user. &lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project is to develop a portable mobile device and software to perform a roadside cannabis detection test. The software will perform a rapid sequence of neuropsychological tests.  Combined with an infrared camera to track eye movement and pupillary reflex during driver evaluation, this system can potentially detect driving impairment due to tetrahydrocannabinol. A machine learning algorithm will be used to both assess physical and neurological test results and to present a progressive testing architecture.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/24/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/24/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2014649</AwardID>
+<Investigator>
+<FirstName>Ari</FirstName>
+<LastName>Kirshenbaum</LastName>
+<EmailAddress>arikirshenbaum@icloud.com</EmailAddress>
+<StartDate>06/24/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>DRIVEABILITY VT, LLC</Name>
+<CityName>BURLINGTON</CityName>
+<ZipCode>054082608</ZipCode>
+<PhoneNumber>8025789322</PhoneNumber>
+<StreetAddress>71 CRESCENT BEACH DR</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Vermont</StateName>
+<StateCode>VT</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8033</Code>
+<Text>Hardware Software Integration</Text>
+</ProgramReference>
+</Award>
+</rootTag>

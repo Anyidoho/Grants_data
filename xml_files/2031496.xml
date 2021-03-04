@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RPP HS Strand (Small): Preparing High School Teachers to Broaden Participation by Teaching Programming Online</AwardTitle>
+<AwardEffectiveDate>11/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>299848.00</AwardTotalIntnAmount>
+<AwardAmount>299848</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jeffrey Forbes</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The University of North Carolina at Charlotte (UNCC) in collaboration with the North Carolina Virtual Public School (NCVPS) will partner with surrounding school districts to build a Research-Practitioner Partnership (RPP). High schools struggle to not train teachers to offer CS courses, but also to diversify the students taking computing courses. This project will develop and offer an online professional development course for high school teachers to prepare them to teach computer science to diverse learners including learners from underserved and underrepresented groups. This project will advance the use of automated graders as well as culturally responsive instructional materials to teach computing. In addition, this project will prepare the teachers with strategies to effectively teach computing online which is essential to our current society and to reach students who do not otherwise have opportunities to study computing. &lt;br/&gt;&lt;br/&gt;This RPP partnership will leverage the AP Computer Science A (APCSA) course offered online by NCVPS throughout North Carolina. The project team seeks to enhance the teaching of Computer Science content using online resources with a long-term goal to increase participation in high school courses by students from traditionally underrepresented groups. This project will address one of the structural constraints (e.g., not enough teachers) faced when broadening participation using automated assessment tools. Furthermore, to make computing relevant to a diverse student population, they plan to create culturally responsive teaching materials and train teachers on their use. The project staff will: (1) foster the development of an RPP with NCVPS teachers, (2) develop and deliver an online course focused on how to teach Computer Science online with a focus on Broadening Participation, (3) develop teaching materials to train teachers on how to use automated graders in CS courses, and (4) develop  teaching materials to train teachers how to teach CS to culturally and racially diverse students. This project will expand the offering of APCSA to districts and schools that traditionally have been under served, with the goal to increase the number of students from underrepresented and underserved groups taking the APCSA course.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/01/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2031496</AwardID>
+<Investigator>
+<FirstName>Florence</FirstName>
+<LastName>Martin</LastName>
+<EmailAddress>fmartin3@uncc.edu</EmailAddress>
+<StartDate>09/01/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Pugalee</LastName>
+<EmailAddress>David.Pugalee@uncc.edu</EmailAddress>
+<StartDate>09/01/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Manuel</FirstName>
+<LastName>Perez-Quinones</LastName>
+<EmailAddress>Perez.Quinones@uncc.edu</EmailAddress>
+<StartDate>09/01/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of North Carolina at Charlotte</Name>
+<CityName>CHARLOTTE</CityName>
+<ZipCode>282230001</ZipCode>
+<PhoneNumber>7046871888</PhoneNumber>
+<StreetAddress>9201 University City Boulevard</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>055Y</Code>
+<Text>CISE Education and Workforce</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>023Z</Code>
+<Text>Computer Science for All (CS for All)</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+</Appropriation>
+</Award>
+</rootTag>

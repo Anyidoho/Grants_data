@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>F-Crystals, Prismatization, and Shtukas</AwardTitle>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>309991.00</AwardTotalIntnAmount>
+<AwardAmount>101427</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Michelle Manes</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The project supports research in algebraic geometry. This part of mathematics studies algebraic varieties, i.e., sets of solutions of systems of algebraic equations. Modern algebraic geometry also studies algebraic stacks; these are geometric objects similar to algebraic varieties, whose points are allowed to have nontrivial symmetries. The main theme of this project is to use algebraic stacks to study prismatic cohomology, which is a very promising cohomology theory of p-adic algebraic varieties introduced recently by Bhatt and Scholze. The project also provides research training opportunities for graduate students.&lt;br/&gt;&lt;br/&gt;The principal investigator plans to introduce prismatization functors and to use them to construct a natural theory of coefficients for prismatic cohomology in the spirit of what Fontaine and Jannsen call F-gauges. He also plans to develop a version of the prismatic theory in which the field of p-adic numbers is replaced by a local field of characteristic p and to find an explicit description of the category of crystals in this context. Another goal is to describe in terms of formal groups the Tannakian category of convergent F-isocrystals on a smooth variety over a perfect field of characteristic p.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/20/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>03/20/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2001425</AwardID>
+<Investigator>
+<FirstName>Vladimir</FirstName>
+<LastName>Drinfeld</LastName>
+<EmailAddress>drinfeld@math.uchicago.edu</EmailAddress>
+<StartDate>03/20/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Chicago</Name>
+<CityName>Chicago</CityName>
+<ZipCode>606372612</ZipCode>
+<PhoneNumber>7737028669</PhoneNumber>
+<StreetAddress>6054 South Drexel Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1264</Code>
+<Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+</Appropriation>
+</Award>
+</rootTag>

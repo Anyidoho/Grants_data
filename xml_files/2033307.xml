@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I: Assessing Risk of COVID-19 Infection with Cell Mediated Immunity</AwardTitle>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>218396.00</AwardTotalIntnAmount>
+<AwardAmount>218396</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Henry Ahn</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is a widely available blood test to determine the level of immune protection toward COVID-19 infection in previously uninfected persons. As many as two-thirds of unexposed individuals could be naturally immune due to prior exposure to structurally similar coronaviruses that cause flu-like illness. This information is especially informative for vulnerable populations with advanced age and underlying chronic disease.  Antibodies only occur after exposure to the virus, and have been seen in less than one-third of tested individuals. This project will advance tests to identify individuals who potentially have this natural immunity, potentially lessening the severity of social distancing.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project will refine the applicant’s blood test for cell-mediated immunity (CMI) to SARS-CoV-2 for widespread use. Preliminary studies suggest that cell-mediated immunity (CMI) to SARS-COV-2 could be present in over half of unexposed individuals. This project will create user-friendly test formats for rapid and widespread use using major classes of cytometers. The technical refinements to be developed and tested in this project will include pre-fabricated assays in solid phase which can be read on major classes of reference-lab-based and portable cytometers, and capabilities for direct testing of unmodified blood samples. The objective is to advance standardized kits for liquid phase assays, and pre-fabricated solid-phase assay tubes with minimal manual steps for use on the most common reference-lab-based, semi-portable and portable cytometers, closer to the point of care.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/01/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2033307</AwardID>
+<Investigator>
+<FirstName>Chethan</FirstName>
+<LastName>Ashokkumar</LastName>
+<EmailAddress>chethan.kumar@plexision.com</EmailAddress>
+<StartDate>09/01/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>PLEXISION, INC.</Name>
+<CityName>PITTSBURGH</CityName>
+<ZipCode>152241338</ZipCode>
+<PhoneNumber>4122242507</PhoneNumber>
+<StreetAddress>4424 PENN AVE STE 202</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>004E</Code>
+<Text>BIOMEDICAL ENG AND DIAGNOSTICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8038</Code>
+<Text>Biotechnology</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+</Appropriation>
+</Award>
+</rootTag>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER: System for Integrated Modeling of the Atmosphere Workshop</AwardTitle>
+<AwardEffectiveDate>05/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>84672.00</AwardTotalIntnAmount>
+<AwardAmount>84672</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020300</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AGS</Abbreviation>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Manda S. Adams</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The National Center for Atmospheric Research (NCAR) develops and maintains multiple community models for modeling the atmosphere.  The next generation vision for community models of the atmosphere at NCAR includes the strategic development of the System for Integrated Modeling of the Atmosphere (SIMA).  The University Cooperation for Atmospheric Research?s (UCAR) Cooperative Program?s Cooperative Programs for the Advancement of Earth System Science (UCAR/CPAESS) plans to bring together model developers and model users from the weather, climate, atmospheric chemistry, and space weather communities with an end goal of creating a 5 year plan for the SIMA.  CPAESS will use professional facilitators experienced with Ideas Labs to create an environment that results in new dialog about the future vision for community models.  &lt;br/&gt;&lt;br/&gt;This project aims to identify the needs and associated requirements of the university research communities involved in the modeling of weather, climate, air quality and space weather.  The goals of the project are to create a modeling framework that a.) reduce duplication of efforts across communities, b.) allow climate, weather, geospace and chemistry communities to collaborate and share innovations, c.) provide modeling capability that transitions smoothly across space and time scales, d.) enables the exploration of new science for the research community, e.) eases the burden of implementing new technology, and f.) allows capitalization on next-generation HPC technology.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/15/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/15/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2022996</AwardID>
+<Investigator>
+<FirstName>Hanne</FirstName>
+<LastName>Mauriello</LastName>
+<EmailAddress>hanne@ucar.edu</EmailAddress>
+<StartDate>05/15/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University Corporation For Atmospheric Res</Name>
+<CityName>Boulder</CityName>
+<ZipCode>803012252</ZipCode>
+<PhoneNumber>3034971000</PhoneNumber>
+<StreetAddress>3090 Center Green Drive</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7791</Code>
+<Text>ULAFOS SPECIAL PROGRAMS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>4444</Code>
+<Text>INTERDISCIPLINARY PROPOSALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+</Award>
+</rootTag>

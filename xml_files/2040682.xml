@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NSF Convergence Accelerator - Track D: A Standardized Model Description Format for Accelerating Convergence in Neuroscience, Cognitive Science, Machine Learning and Beyond</AwardTitle>
+<AwardEffectiveDate>09/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>993102.00</AwardTotalIntnAmount>
+<AwardAmount>993102</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>01060500</Code>
+<Directorate>
+<Abbreviation>O/D</Abbreviation>
+<LongName>Office Of The Director</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OIA</Abbreviation>
+<LongName>Office of Integrative Activities</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Mike Pozmantier</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The NSF Convergence Accelerator supports use-inspired, team-based, multidisciplinary efforts that address challenges of national importance and will produce deliverables of value to society in the near future. Accelerating convergence in science and technology depends on the ability to represent and share not only data, but also theories and models in the most objective, transparent, and reproducible way possible. This project will develop a Model Description Format (MDF) that can be used for computational models that span from neuroscience and psychology to machine learning, and that can serve as the foundation for extensions that serve an even broader scope of models in population biology and the social sciences. &lt;br/&gt;&lt;br/&gt;Such an MDF would have numerous benefits, both scientific and technological, including: dissemination and validation of model reproducibility; migration of models across domains (e.g., use of models of brain function in machine learning applications); integration of models at different levels of analysis (e.g., biophysically-realistic neural models into models of cognitive function, cognitive models as agents in population level models); exploitation of complementary strengths of existing packages (e.g., design in a familiar environment but execute in one with better tools for parameter tuning and/or data-fitting); and more efficient development of new tools, by providing developers with a representative diversity of models, all in a common format.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/08/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2040682</AwardID>
+<Investigator>
+<FirstName>Abhishek</FirstName>
+<LastName>Bhattacharjee</LastName>
+<EmailAddress>abhishek.bhattacharjee@yale.edu</EmailAddress>
+<StartDate>09/08/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jonathan</FirstName>
+<LastName>Cohen</LastName>
+<EmailAddress>jdc@princeton.edu</EmailAddress>
+<StartDate>09/08/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Theodore</FirstName>
+<LastName>Willke</LastName>
+<EmailAddress>ted.willke@intel.com</EmailAddress>
+<StartDate>09/08/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Princeton University</Name>
+<CityName>Princeton</CityName>
+<ZipCode>085442020</ZipCode>
+<PhoneNumber>6092583090</PhoneNumber>
+<StreetAddress>Off. of Research &amp; Proj. Admin.</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+</Institution>
+<ProgramElement>
+<Code>131Y</Code>
+<Text>Convergence Accelerator Resrch</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+</Appropriation>
+</Award>
+</rootTag>

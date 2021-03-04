@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Low-cost Transparent Conductive Oxide Manufacturing for Smart Windows</AwardTitle>
+<AwardEffectiveDate>05/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>225000.00</AwardTotalIntnAmount>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Steven Konsek</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project will advance the development of energy-efficient windows. Electrochromic windows may be used to reduce energy costs related to climate control and lighting, eliminate glare, and improve visual comfort in commercial buildings. Electrochromic window manufacturers cite reduction in overall energy loads by an average of 20% and peak energy demand by up to 26%. Growth of the electrochromic window market has lagged because of high manufacturing costs. This project will enable low-cost manufacturing of films employed widely in energy conversion and conservation applications to enable widespread use of electrochromic energy-efficient windows.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project will explore the translation of solution-processed transparent conductors used in large area devices. Transparent conductive oxide (TCO) films are typically produced by vacuum-based techniques or chemical vapor deposition. These coatings often suffer from high expense, poor uniformity, and optical haze.  The proposed research is aimed to eliminate the common drawbacks of conventional TCO films. The technical objectives of this Phase I research project support development of low-cost, large area, solution deposited TCOs meeting industrial performance requirements.  This research project will establish correlations between precursor formulation and film processing to control film composition, morphology, and electrical properties and reliably meet industrial specifications.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/14/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2015042</AwardID>
+<Investigator>
+<FirstName>Cory</FirstName>
+<LastName>Perkins</LastName>
+<EmailAddress>corykperkins@gmail.com</EmailAddress>
+<StartDate>05/14/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>NEXTC CORPORATION</Name>
+<CityName>CORVALLIS</CityName>
+<ZipCode>973306947</ZipCode>
+<PhoneNumber>5039316088</PhoneNumber>
+<StreetAddress>2121 NE JACK LONDON ST</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<StateCode>OR</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>123E</Code>
+<Text>CENTERS: ADVANCED MATERIALS</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+</Appropriation>
+</Award>
+</rootTag>

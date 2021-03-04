@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Scalable Production of Radiative Cooling Paint for Thermal Management</AwardTitle>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>366459.00</AwardTotalIntnAmount>
+<AwardAmount>366459</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Andrew Wells</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This grant supports research that will contribute new knowledge related to large-scale manufacturing of radiative cooling paints, promoting both the progress of science and advancing national prosperity and sustainability. Radiative cooling is a strategy to provide electricity-free cooling by fully reflecting sunlight and effectively emitting heat to the cold sky: a net cooling effect can be realized without using any electricity. It has the potential to reduce electricity consumption and CO2 generation for air conditioning in buildings and vehicles. Conventional approaches for manufacturing radiative cooling coatings demand complex and high-cost thin-film deposition processes, which hinder large-scale applications. This award supports fundamental research to provide needed knowledge for the development of a room temperature solution-based technique to produce radiative cooling porous polymer paints. The new process will enable fast, large-scale, and low-cost manufacturing of polymeric radiative cooling paints without using organic solvents. The paints will have potential applications in building, automotive, food, chemical, and pharmaceutical industries, which benefits the US economy and society. This research involves several disciplines including manufacturing, optics, polymer science, and material science. The multi-disciplinary approach will help broaden participation of underrepresented groups in research and positively impact engineering education.&lt;br/&gt;&lt;br/&gt;Radiative cooling can alleviate several disadvantages in existing cooling techniques, such as high consumption of electricity, and usage of ozone-depleting and greenhouse gases. The research team will conduct fundamental studies to bridge the knowledge gap between scientific concept of radiative cooling and scalable manufacturing of high-performance and low-cost cooling coatings. Specifically, the team will: 1) conduct full-wave simulations to understand the interactions between solar and thermal radiations and porous polymeric materials; 2) develop scalable solution-based manufacturing methods to produce porous polymer radiative cooling neutral-colored and colorful paints, understanding effects of various parameters, such as solution concentration, vapor pressure, and temperature, on the morphology and performance of the porous paints; and 3) conduct field tests to quantify the radiative cooling capabilities of the paints under various environmental and meteorological conditions.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/23/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/23/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2005747</AwardID>
+<Investigator>
+<FirstName>Nanfang</FirstName>
+<LastName>Yu</LastName>
+<EmailAddress>ny2214@columbia.edu</EmailAddress>
+<StartDate>06/23/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Yuan</FirstName>
+<LastName>Yang</LastName>
+<EmailAddress>yy2664@columbia.edu</EmailAddress>
+<StartDate>06/23/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Columbia University</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100276902</ZipCode>
+<PhoneNumber>2128546851</PhoneNumber>
+<StreetAddress>2960 Broadway</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>088Y</Code>
+<Text>AM-Advanced Manufacturing</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>085E</Code>
+<Text>POLYMER &amp; COMPOSITES PROCESSES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1633</Code>
+<Text>MATERIALS AND SURFACE ENG</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8025</Code>
+<Text>Advanced Materials Processing</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps: Resilient Energy Solutions for Home Health Care</AwardTitle>
+<AwardEffectiveDate>07/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth Shuman</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project is the development of an energy assurance solution based on a microgrid technology that may be used for electricity outage mitigation from planned and unplanned outages (disasters). The technology is particularly aimed at increasing energy resilience of medical equipment, communication services, and critical businesses through proactive adoption of plug-and-play energy hubs by individuals and businesses to maintain electricity during major infrastructure failures without entirely relying upon public service investments that become scarce and over-extended. In the United States, there are at least 3 million individuals that depend on electricity for in-home medical care equipment like ventilators, CPAP, nebulizers, electric wheelchairs etc. The demographics of these populations generally cut across various ethnic groups, income levels, education levels, rural/urban divides, etc. The potential of a global impact of this solution is significant. Combining the recent trend of care delivery at home with an aging population may drive the need for energy resilience at a personal or at home level making the proposed solution relevant and necessary.&lt;br/&gt;&lt;br/&gt;This I-Corps project is based on the development of a small-scale energy hub that operates as a microgrid for critical infrastructure at a home or building level. At the core of the hub is a microgrid controller that is based on self-organizing technology and is managed by an internet-of-things grid management platform. The self-organizing controller and the platform are able to convert an existing electrical network (battery packs, home networks, building systems, etc.) into a smart(er) grid. This allows these smart grids to provide resilience against central grid failure, mitigate communication failures, integrate multiple energy sources, and provide for autonomous operation. The controller maintains grid stability in a scalable and distributed fashion without the need for central control. The proposed technology will work with all energy networks (battery packs, microgrids, vehicle-to-grid, etc.) that integrate devices or a network of devices that have nominal amounts of storage (such as batteries). This allows homes and businesses to power critical loads in a stable fashion without relying on central controls making it resilient against grid outages.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/23/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/23/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2037776</AwardID>
+<Investigator>
+<FirstName>Giri</FirstName>
+<LastName>Venkataramanan</LastName>
+<EmailAddress>giri@engr.wisc.edu</EmailAddress>
+<StartDate>07/23/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Wisconsin-Madison</Name>
+<CityName>MADISON</CityName>
+<ZipCode>537151218</ZipCode>
+<PhoneNumber>6082623822</PhoneNumber>
+<StreetAddress>21 North Park Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Using Immersive Virtual Reality For High-Quality Training to Caregivers Working With Seniors</AwardTitle>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>255901.00</AwardTotalIntnAmount>
+<AwardAmount>255901</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Diane Hickey</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project will be significant for helping senior caregivers optimally understand and respond to cognitive changes in older adults through a new Virtual Reality (VR) The project will result in a high-quality, effective training module for helping senior caregivers optimally understand and respond to cognitive changes in older adults. This will enhance the competence, confidence, and motivation of their nursing staff, and help reduce staff turnover. The solution will empower caregivers to effectively attend to the needs of the elderly in a way that enhances seniors’ quality-of-life and facilitates ‘aging in place,’ hence contributing towards increasing well-being among the elderly population and alleviating the societal costs of aging.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project addresses the technical challenge of developing VR content that effectively promotes caregiver knowledge acquisition, skill development, and motivation increases, while keeping the training experience relatively brief and efficient. Unlike simple memorization of information, positive psychological outcomes like enhanced motivation are challenging to generate. This project will strategically employ cinematic directing techniques at key points in the VR training - a new  approach to VR training. The solution leverages principles from the cognitive neuroscience of learning to deliver innovations in VR content design, analysis and delivery. Research objectives include: (1) building an engaging VR training module centered around teaching empathy and communication skills, which is enhanced with cinematic directing elements, (2) assessing the usability and feasibility of the developed content for achieving the desired outcomes in the short- and long-term, (3) building and assessing a VR training module centered around teaching observation and behavioral skills to senior caregivers, which includes embedded interactive testing elements.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/25/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2026134</AwardID>
+<Investigator>
+<FirstName>Tim</FirstName>
+<LastName>Fitzpatrick</LastName>
+<EmailAddress>ikonahealth_grants2@outlook.com</EmailAddress>
+<StartDate>10/09/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>William</FirstName>
+<LastName>Maddox</LastName>
+<EmailAddress>ikonahealth_grants@outlook.com</EmailAddress>
+<StartDate>08/25/2020</StartDate>
+<EndDate>10/09/2020</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>IKONA, INC.</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100013089</ZipCode>
+<PhoneNumber>7745733432</PhoneNumber>
+<StreetAddress>50 W 34TH STREET APT 17C6</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1707</Code>
+<Text>ADVANCED LEARNING TECHNOLOGIES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8018</Code>
+<Text>Smart and Connected Health</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8023</Code>
+<Text>Health Care Enterprise Systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8032</Code>
+<Text>Software Services and Applications</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8033</Code>
+<Text>Hardware Software Integration</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0119</Code>
+</Appropriation>
+<Appropriation>
+<Code>0120</Code>
+</Appropriation>
+</Award>
+</rootTag>

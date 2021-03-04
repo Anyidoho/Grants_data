@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Virtual Reality Platform to advance K-16 Math &amp; Physics proficiency</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>224974.00</AwardTotalIntnAmount>
+<AwardAmount>249974</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Diane Hickey</SignBlockName>
+<PO_EMAI>dhickey@nsf.gov</PO_EMAI>
+<PO_PHON>7032928875</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact of this Small Business Innovation Research (SBIR) Phase I project will result from targeting pain points in the K-16 math and physical science curriculum to improve participation and sustained achievement in these subjects. Despite investments in education technology, curriculum overhaul, and teacher development, STEM education in the US continues to struggle to improve student proficiency, democratize access, and meet global changes in workforce demand. Current methodologies continue to promote 2D tools to teach concepts that are inherently 3D in nature, which have led to gaps in spatial reasoning and the ability to conceptualize abstractions - critical skills for success in STEM. The company seeks to develop an immersive virtual reality (VR) platform that closes these gaps in STEM proficiency, particularly for non-selective and historically underserved student populations. The aim is to shape the next generation of STEM practitioners by providing students the opportunity to creatively solve high impact real world problems in state-of-the-art interactive virtual learning environments. Ultimately, it is hoped the proposed platform will become the standard in advanced STEM learning solutions, utilizing multiple platforms (VR, AR, Mobile) and data analytics to ensure students of all backgrounds are equipped to succeed in STEM fields. &lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project will address a key question for VR in education today - how can VR be used for the purpose of cognitive advancement in competencies and skills that serve as gate-keepers to success in postsecondary STEM? There is evidence that learning via VR increases activity, brain arousal, and engagement, but more lasting impacts on conceptual understanding and transfer have yet to be realized. The primary objective of this project is to define how core VR functionalities and multimodal interactions can be designed and implemented within a rich, problem-driven pedagogical framework to enable 3D sense making of abstract topics.  The company will conduct rigorous research and iterative user testing to identify the most effective VR modalities and kinesthetic interactions that support enduring content mastery and cognitive flexibility. In addition, data analytics will be developed to enhance interactivity, provide crucial real-time formative assessment of student progress, and predictive learning insights to teachers and parents. The technology will also enable networked interactions on the platform to promote collaborative learning.  In doing so, the project will not only transform the STEM learning experience, but also provide a model of how progressive pedagogical practices can be actualized through VR to drive student learning outcomes.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/22/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/20/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2014681</AwardID>
+<Investigator>
+<FirstName>Anurupa</FirstName>
+<LastName>Ganguly</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Anurupa Ganguly</PI_FULL_NAME>
+<EmailAddress>anurupa@prismsvr.com</EmailAddress>
+<PI_PHON>7147886226</PI_PHON>
+<NSF_ID>000813112</NSF_ID>
+<StartDate>05/22/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>PRISMS OF REALITY INC.</Name>
+<CityName>BROOKLYN</CityName>
+<CountyName>KINGS</CountyName>
+<ZipCode>112227268</ZipCode>
+<PhoneNumber>7147886226</PhoneNumber>
+<StreetAddress>848 LORIMER ST APT 5G</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY12</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>117229524</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>PRISMS OF REALITY INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[PRISMS OF REALITY INC.]]></Name>
+<CityName>Brooklyn</CityName>
+<CountyName>KINGS</CountyName>
+<StateCode>NY</StateCode>
+<ZipCode>112227268</ZipCode>
+<StreetAddress><![CDATA[848 Lorimer St Apt 5G]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8091</Code>
+<Text>SBIR Outreach &amp; Tech. Assist</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>079E</Code>
+<Text>VISUALIZATION &amp; VIRTUAL DESIGN</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8031</Code>
+<Text>Education Products</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8033</Code>
+<Text>Hardware Software Integration</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<FUND_OBLG>2020~249974</FUND_OBLG>
+</Award>
+</rootTag>

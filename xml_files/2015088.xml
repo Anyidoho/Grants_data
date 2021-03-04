@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Development of a low-cost Silicon Carbide Power Switch Technology</AwardTitle>
+<AwardEffectiveDate>05/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>225000.00</AwardTotalIntnAmount>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Steven Konsek</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to accelerate the adoption of silicon carbide power semiconductors for energy efficient power electronics. The technology developed in this Phase I proposal will build an intelligent, low-cost, high-performance, silicon carbide power switch.  The proposed technology can potentially increase energy efficiency by up to 10% and reduce power electronic energy dissipation by 5X for a wide range of applications, including industrial power supplies, motor drives, solar inverters, battery chargers, adapters for consumer electronics and in electric vehicles. In addition, the proposed technology is also an enabler for efficient power delivery in future applications such as electric aircraft, space flight and quantum computing.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project will demonstrate a novel four-terminal silicon carbide field-effect transistor that, when combined with a silicon metal-oxide-semiconductor field-effect transistor in a novel topology, will create an innovative wide-bandgap switch. The proposed device innovations will allow 50% die-size reduction compared to existing silicon carbide solutions, with similar or better switching losses, and with the potential to achieve cost parity with silicon technology in high-volume production. Moreover, the proposed switch has excellent gate reliability without the need for tight controls on the gate or drain overshoot. By combining the power of advanced silicon technology with silicon carbide the proposed research presents an opportunity to enable a truly intelligent power-switching platform with high power density and high efficiency.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/06/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/06/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2015088</AwardID>
+<Investigator>
+<FirstName>Vipindas</FirstName>
+<LastName>Pala</LastName>
+<EmailAddress>vipin@logisicdevices.com</EmailAddress>
+<StartDate>05/06/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>LOGISIC DEVICES, INC.</Name>
+<CityName>SAN JOSE</CityName>
+<ZipCode>951301849</ZipCode>
+<PhoneNumber>5185969083</PhoneNumber>
+<StreetAddress>1968 SERGE AVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8035</Code>
+<Text>Hardware Devices</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAS: Acoustically Driven, Voltage-Free Spray Interface to Couple Capillary Electrophoresis and Mass Spectrometry</AwardTitle>
+<AwardEffectiveDate>08/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>384103.00</AwardTotalIntnAmount>
+<AwardAmount>384103</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kelsey Cook</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>With support from the Chemical Measurement and Imaging (CMI) Program in the Division of Chemistry, Professor Lisa Holland of West Virginia University is working to improve our ability to perform chemical analyses important for health studies, monitoring industrial processes, and many other elements of research and discovery.  Specifically, a new instrumental interface is being developed to effectively couple a tool capable of separating the components of extremely low-volume solution samples (capillary electrophoresis, CE) with a very powerful means of identifying the separated components (mass spectrometry, MS).  To meet this challenge, molecules in solution are converted to gas-phase ions by applying high frequency sound waves to the liquid exiting the capillary used for the separation.  The approach significantly reduces solvent consumption relative to more widely used liquid chromatography/MS approaches, thereby improving sustainability.  Students engaged in these innovative studies gain key interdisciplinary research skills. Dr. Holland is devising innovative ways to integrate concepts relevant to her research into her undergraduate courses, greatly enhancing student career preparation.  A low-cost handheld instrument and accompanying curricular materials are being developed for use in the teaching laboratory and for continuing education training of scientists within and beyond the field of separations.&lt;br/&gt;&lt;br/&gt;The CE-MS interface being developed in the Holland lab focuses on acoustically driven nebulization, an approach by which the high separation efficiency of CE can be preserved while the ionization process remains unaffected by the electrophoretic current.  Integrating the acoustic probe with the electrophoresis ground improves both the ruggedness and ease of use of the interface.  Better understanding of the effect of acoustic energy on droplet formation is being pursued through collaboration with Professor Tony Jun Huang of Duke University, with an aim of improving the ionization efficiency.  Parallel efforts seek to adapt electrokinetic sheath flow systems to enable MS interfaces for zero-flow separation approaches such as capillary isoelectric focusing and sieving.  Dual detection with UV-visible absorbance and MS is also being developed.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/07/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/07/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2004021</AwardID>
+<Investigator>
+<FirstName>Lisa</FirstName>
+<LastName>Holland</LastName>
+<EmailAddress>Lisa.Holland@mail.wvu.edu</EmailAddress>
+<StartDate>08/07/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>West Virginia University Research Corporation</Name>
+<CityName>Morgantown</CityName>
+<ZipCode>265066845</ZipCode>
+<PhoneNumber>3042933998</PhoneNumber>
+<StreetAddress>P.O. Box 6845</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>West Virginia</StateName>
+<StateCode>WV</StateCode>
+</Institution>
+<ProgramElement>
+<Code>6880</Code>
+<Text>Chemical Measurement &amp; Imaging</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>090Z</Code>
+<Text>CAS-Critical Aspects of Sustainability</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>
